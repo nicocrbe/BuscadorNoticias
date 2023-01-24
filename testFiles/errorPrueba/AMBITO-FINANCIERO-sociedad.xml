@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>Ambito - Información General</title>
+		<description>Ambito</description>
+		<link>https://www.ambito.com</link>
+		<language>spa</language>
+		<lastBuildDate>2019-11-18T21:20:14-03:00</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.dosalcubo.com.ar</generator>
+		<copyright>Copyright (c) 2019</copyright>
+		<atom:link href="https://www.ambito.com/rss/informacion-general.xml" rel="self" type="application/rss+xml" />		<image>
+			<title>Ambito - Información General</title>
+			<url>https://www.ambito.com/css/images/t1.gif</url>
+			<link>https://www.ambito.com</link>
+		</image>
+		<item>
+			<title><![CDATA[
+Subte: línea B anunció paro por 24 horas por la presencia de asbesto
+]]></title>
+			<link>https://www.ambito.com/subte-linea-b-anuncio-paro-24-horas-la-presencia-asbesto-n5066361</link>
+			<guid>https://www.ambito.com/subte-linea-b-anuncio-paro-24-horas-la-presencia-asbesto-n5066361</guid>
+			<description><![CDATA[
+"Paralizaremos el servicio el miércoles, día en que se iniciará un plan de lucha que votamos los trabajadores de la línea B en referencia a los problemas que genera el asbesto", apuntó Dellecarbonara.
+]]></description>
+			<pubDate>2019-11-18T20:58:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El argentino condenado a muerte en EEUU quedó al borde de la ejecución
+]]></title>
+			<link>https://www.ambito.com/el-argentino-condenado-muerte-eeuu-quedo-al-borde-la-ejecucion-n5066347</link>
+			<guid>https://www.ambito.com/el-argentino-condenado-muerte-eeuu-quedo-al-borde-la-ejecucion-n5066347</guid>
+			<description><![CDATA[
+La Corte Suprema de ese país se negó a tratar el caso de Víctor Saldaño, quien está acusado de asesinar a un hombre en 1995. Solo resta definir la fecha de su pena.
+]]></description>
+			<pubDate>2019-11-18T19:59:41-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Duro informe de Unicef sobre la pobreza en Argentina
+]]></title>
+			<link>https://www.ambito.com/duro-informe-unicef-la-pobreza-argentina-n5066325</link>
+			<guid>https://www.ambito.com/duro-informe-unicef-la-pobreza-argentina-n5066325</guid>
+			<description><![CDATA[
+En los últimos 30 años en la Argentina no se pudo perforar el 30% de pobreza en la población de niños, niñas y adolescentes, sostiene el informa y destaca que pese  a haber programas no hubo avances.
+]]></description>
+			<pubDate>2019-11-18T18:07:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Miles de personas participaron de un festival contra el golpe de Estado en Bolivia
+]]></title>
+			<link>https://www.ambito.com/miles-personas-participaron-un-festival-contra-el-golpe-estado-bolivia-n5066303</link>
+			<guid>https://www.ambito.com/miles-personas-participaron-un-festival-contra-el-golpe-estado-bolivia-n5066303</guid>
+			<description><![CDATA[
+Bajo la consigna "No al golpe de Estado en Bolivia", agrupaciones sociales, políticas y de DDHH, entre otras, marcharon por el centro porteño para repudiar el derrocamiento de Evo Morales y al gobierno de facto de Janine Áñez.
+]]></description>
+			<pubDate>2019-11-18T15:28:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Alertan que los gases de efecto invernadero crecen a un ritmo mayor de lo esperado
+]]></title>
+			<link>https://www.ambito.com/alertan-que-los-gases-efecto-invernadero-crecen-un-ritmo-mayor-lo-esperado-n5066295</link>
+			<guid>https://www.ambito.com/alertan-que-los-gases-efecto-invernadero-crecen-un-ritmo-mayor-lo-esperado-n5066295</guid>
+			<description><![CDATA[
+Las emisiones de óxido nitroso crecieron sustancialmente desde 2009. América latina es una de las zonas que más han contribuido a este cambio negativo. Lo vinculan a la expansión del cultivo de soja.
+]]></description>
+			<pubDate>2019-11-18T14:23:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Grave: EEUU tiene la mayor tasa de niños detenidos en el mundo
+]]></title>
+			<link>https://www.ambito.com/grave-eeuu-tiene-la-mayor-tasa-ninos-detenidos-el-mundo-n5066274</link>
+			<guid>https://www.ambito.com/grave-eeuu-tiene-la-mayor-tasa-ninos-detenidos-el-mundo-n5066274</guid>
+			<description><![CDATA[
+El país que gobierna Donald Trump detiene a un promedio de 60 de cada 100.000 chicos en su sistema de justicia. Más de 100.000 están bajo custodia por temas relativos a la inmigración.
+]]></description>
+			<pubDate>2019-11-18T12:13:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+¿Cómo estará el clima durante el feriado?
+]]></title>
+			<link>https://www.ambito.com/como-estara-el-clima-el-feriado-n5066247</link>
+			<guid>https://www.ambito.com/como-estara-el-clima-el-feriado-n5066247</guid>
+			<description><![CDATA[
+El Servicio Meteorológico anunció probables chaparrones hacia la tarde y tormentas aisladas a la noche en Ciudad y Conurbano.
+]]></description>
+			<pubDate>2019-11-18T08:42:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Brasil asegura que colaborará con Nicaragua tras pedido de captura de Darthés
+]]></title>
+			<link>https://www.ambito.com/brasil-asegura-que-colaborara-nicaragua-pedido-captura-darthes-n5066245</link>
+			<guid>https://www.ambito.com/brasil-asegura-que-colaborara-nicaragua-pedido-captura-darthes-n5066245</guid>
+			<description><![CDATA[
+La policía de ese país sostuvo en un comunicado que está "siguiendo el caso" y que "si es necesario auxiliará a las autoridades extranjeras". El actor se radicó allí tras la denuncia de "violación agravada" de Thelma Fardín.
+]]></description>
+			<pubDate>2019-11-18T08:31:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Alcoholizado, un jugador de Almirante Brown chocó frente al Obelisco
+]]></title>
+			<link>https://www.ambito.com/alcoholizado-un-jugador-almirante-brown-choco-frente-al-obelisco-n5066244</link>
+			<guid>https://www.ambito.com/alcoholizado-un-jugador-almirante-brown-choco-frente-al-obelisco-n5066244</guid>
+			<description><![CDATA[
+Nicolás Perogino, de 21 años, hizo una mala maniobra y chocó a otro vehículo que circulaba por 9 de julio. Se le detectó 1.75 mg de alcohol en sangre.
+]]></description>
+			<pubDate>2019-11-18T08:15:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Cortes y actividades en el centro por una nueva edición de La Noche de las Librerías
+]]></title>
+			<link>https://www.ambito.com/cortes-y-actividades-el-centro-una-nueva-edicion-la-noche-las-librerias-n5066195</link>
+			<guid>https://www.ambito.com/cortes-y-actividades-el-centro-una-nueva-edicion-la-noche-las-librerias-n5066195</guid>
+			<description><![CDATA[
+La Ciudad celebra la doceava edición del evento que busca fomentar la literatura. Habrá actividades en distintos comercios de la avenida Corrientes.
+]]></description>
+			<pubDate>2019-11-17T19:12:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Evacuaron un supermercado en Núñez por un escape de gas
+]]></title>
+			<link>https://www.ambito.com/evacuaron-un-supermercado-nunez-un-escape-gas-n5066184</link>
+			<guid>https://www.ambito.com/evacuaron-un-supermercado-nunez-un-escape-gas-n5066184</guid>
+			<description><![CDATA[
+El incidente se produjo en uno de los depósitos del hipermercado Coto ubicado en ese barrio porteño. En el lugar trabajaron los Bomberos de la Ciudad.
+]]></description>
+			<pubDate>2019-11-17T18:15:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Cada 24 segundos muere una persona en el mundo por accidentes de tránsito
+]]></title>
+			<link>https://www.ambito.com/cada-24-segundos-muere-una-persona-el-mundo-accidentes-transito-n5066142</link>
+			<guid>https://www.ambito.com/cada-24-segundos-muere-una-persona-el-mundo-accidentes-transito-n5066142</guid>
+			<description><![CDATA[
+Así se desprende de un informe de la Organización Mundial de la Salud, según el cual, los accidentes viales son la principal causa de muerte entre los jóvenes de 15 a 29 años.
+]]></description>
+			<pubDate>2019-11-17T09:36:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+ El 93% de los siniestros viales suceden en países de ingresos medios y bajos
+]]></title>
+			<link>https://www.ambito.com/el-93-los-siniestros-viales-suceden-paises-ingresos-medios-y-bajos-n5066105</link>
+			<guid>https://www.ambito.com/el-93-los-siniestros-viales-suceden-paises-ingresos-medios-y-bajos-n5066105</guid>
+			<description><![CDATA[
+La Federación Internacional del Automóvil (FIA) comparte las cifras del panorama actual y cuáles son los ejes prioritarios desde el punto de vista civil y gubernamental en un contexto de grandes cambios y crecimiento urbano.
+]]></description>
+			<pubDate>2019-11-17T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Interpol emitió un alerta roja para detener a Juan Darthés
+]]></title>
+			<link>https://www.ambito.com/interpol-emitio-un-alerta-roja-detener-juan-darthes-n5065980</link>
+			<guid>https://www.ambito.com/interpol-emitio-un-alerta-roja-detener-juan-darthes-n5065980</guid>
+			<description><![CDATA[
+El actor se encuentra refugiado en Brasil, país del que posee la nacionalidad que no tiene tratado de extradición con Nicaragua. Su abogado defensor, Fernando Burlando, dijo que su intención es "llegar a juicio en Brasil".
+]]></description>
+			<pubDate>2019-11-15T18:24:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+ANMAT prohibió la manteca Primer Premio por "composición ilegal"
+]]></title>
+			<link>https://www.ambito.com/anmat-prohibio-la-manteca-primer-premio-composicion-ilegal-n5065931</link>
+			<guid>https://www.ambito.com/anmat-prohibio-la-manteca-primer-premio-composicion-ilegal-n5065931</guid>
+			<description><![CDATA[
+Se trata de la marca Primer Premio. Su comercialización fue suspendida en todo el país.
+]]></description>
+			<pubDate>2019-11-15T13:25:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Más de mil personas descargaron su DNI en el celular 
+]]></title>
+			<link>https://www.ambito.com/mas-mil-personas-descargaron-su-dni-el-celular-n5065924</link>
+			<guid>https://www.ambito.com/mas-mil-personas-descargaron-su-dni-el-celular-n5065924</guid>
+			<description><![CDATA[
+Rige para los mayores de 14 años, locales o extranjeros. Tiene la misma validez que la tarjeta.
+]]></description>
+			<pubDate>2019-11-15T12:25:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+NASA reveló cómo será destruida la Tierra
+]]></title>
+			<link>https://www.ambito.com/nasa-revelo-como-sera-destruida-la-tierra-n5065911</link>
+			<guid>https://www.ambito.com/nasa-revelo-como-sera-destruida-la-tierra-n5065911</guid>
+			<description><![CDATA[
+La Vía Láctea será devorada por la galaxia vecina Andrómeda. Esto ocurrirá dentro de 4 mil millones.
+]]></description>
+			<pubDate>2019-11-15T11:19:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Identificaron a otro soldado que murió en Malvinas: fue acribillado mientras socorría a un compañero
+]]></title>
+			<link>https://www.ambito.com/identificaron-otro-soldado-que-murio-malvinas-fue-acribillado-mientras-socorria-un-companero-n5065704</link>
+			<guid>https://www.ambito.com/identificaron-otro-soldado-que-murio-malvinas-fue-acribillado-mientras-socorria-un-companero-n5065704</guid>
+			<description><![CDATA[
+El teniente (post mortem) Juan Domingo Baldini combatió en Monte Longdon, la noche del 11 de junio de 1982. Las muestras de ADN que posibilitaron su identificación fueron brindadas por sus primos.
+]]></description>
+			<pubDate>2019-11-14T14:04:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+¿Cómo estará el tiempo el fin de semana largo?
+]]></title>
+			<link>https://www.ambito.com/como-estara-el-tiempo-el-fin-semana-largo-n5065691</link>
+			<guid>https://www.ambito.com/como-estara-el-tiempo-el-fin-semana-largo-n5065691</guid>
+			<description><![CDATA[
+Según el SMN, se esperan días calurosos, pero también tormentas. ¿Cómo estará en los destinos turísticos?
+]]></description>
+			<pubDate>2019-11-14T12:40:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Científicas argentinas predicen el futuro de un río usando inteligencia artificial
+]]></title>
+			<link>https://www.ambito.com/cientificas-argentinas-predicen-el-futuro-un-rio-usando-inteligencia-artificial-n5065528</link>
+			<guid>https://www.ambito.com/cientificas-argentinas-predicen-el-futuro-un-rio-usando-inteligencia-artificial-n5065528</guid>
+			<description><![CDATA[
+Unos 300.000 habitantes, la mitad de la población de la provincia patagónica, se concentra en torno al agua del río Chubut, un recurso vital. Un grupo de científicas argentinas elabora un mapa que anticipe las consecuencias de las prácticas productivas.
+]]></description>
+			<pubDate>2019-11-13T20:15:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Corte Suprema revocó fallo por indemnización laboral que no usó la "tabla de discapacidades"
+]]></title>
+			<link>https://www.ambito.com/corte-suprema-revoco-fallo-indemnizacion-laboral-que-no-uso-la-tabla-discapacidades-n5065504</link>
+			<guid>https://www.ambito.com/corte-suprema-revoco-fallo-indemnizacion-laboral-que-no-uso-la-tabla-discapacidades-n5065504</guid>
+			<description><![CDATA[
+El máximo tribunal lo dispuso para un fallo que usó una pericia que no tuvo en cuenta el sistema que estipula la Ley de Riesgos del Trabajo (LRT).
+]]></description>
+			<pubDate>2019-11-13T17:27:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El video viral que da vuelta al mundo: grabaron a un pez con cara humana
+]]></title>
+			<link>https://www.ambito.com/el-video-viral-que-da-vuelta-al-mundo-grabaron-un-pez-cara-humana-n5065477</link>
+			<guid>https://www.ambito.com/el-video-viral-que-da-vuelta-al-mundo-grabaron-un-pez-cara-humana-n5065477</guid>
+			<description><![CDATA[
+Una mujer lo capturó en el pueblo de Miao en Kunming. Se desconoce de qué especie se trata.
+]]></description>
+			<pubDate>2019-11-13T14:28:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+NASA confirma que los dinosaurios vivieron en un lado diferente de la galaxia
+]]></title>
+			<link>https://www.ambito.com/nasa-confirma-que-los-dinosaurios-vivieron-un-lado-diferente-la-galaxia-n5065448</link>
+			<guid>https://www.ambito.com/nasa-confirma-que-los-dinosaurios-vivieron-un-lado-diferente-la-galaxia-n5065448</guid>
+			<description><![CDATA[
+Lo aseguró la arqueóloga galáctica Jessie Christiansen. Cuando los grandes reptiles dominaban la Tierra, esta se encontraba en otra posición dentro de la Vía Láctea.
+]]></description>
+			<pubDate>2019-11-13T11:43:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+A 10 días de la final de River, hay poca demanda de pasajes por precios altos 
+]]></title>
+			<link>https://www.ambito.com/a-10-dias-la-final-river-hay-poca-demanda-pasajes-precios-altos-n5065354</link>
+			<guid>https://www.ambito.com/a-10-dias-la-final-river-hay-poca-demanda-pasajes-precios-altos-n5065354</guid>
+			<description><![CDATA[
+Es porque los aéreos arrancan en $100.000. Volar desde Asunción o Uruguay tiene los mismos valores  que desde Buenos Aires. Son tres veces más caros que en cualquier época del año.
+]]></description>
+			<pubDate>2019-11-13T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Fuga en comisaría de Quimes: ya son 9 los recapturados (quedan 2 prófugos)
+]]></title>
+			<link>https://www.ambito.com/fuga-comisaria-quimes-ya-son-9-los-recapturados-quedan-2-profugos-n5065230</link>
+			<guid>https://www.ambito.com/fuga-comisaria-quimes-ya-son-9-los-recapturados-quedan-2-profugos-n5065230</guid>
+			<description><![CDATA[
+Aldo Adolfo Pérez se presentó ante la Justicia. Aún resta hallar a Jorge Torres y Ulises Cabaña.
+]]></description>
+			<pubDate>2019-11-12T14:28:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El argentino que ayudará a que el hombre llegue a Marte
+]]></title>
+			<link>https://www.ambito.com/el-argentino-que-ayudara-que-el-hombre-llegue-marte-n5065119</link>
+			<guid>https://www.ambito.com/el-argentino-que-ayudara-que-el-hombre-llegue-marte-n5065119</guid>
+			<description><![CDATA[
+Miguel San Martín fue parte clave de la misión del robot Curiosity. Aseguró que uno de los próximos pasos es llegar a la Luna y poder instalarse de manera "sostenible" para luego ir al "Planeta Rojo".
+]]></description>
+			<pubDate>2019-11-12T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Cómo escuchan radio los argentinos
+]]></title>
+			<link>https://www.ambito.com/como-escuchan-radio-los-argentinos-n5065055</link>
+			<guid>https://www.ambito.com/como-escuchan-radio-los-argentinos-n5065055</guid>
+			<description><![CDATA[
+La radio tiene un importante alcance semanal, donde en Buenos Aires (ciudad y conurbano) tiene un reach de 72%, en Córdoba un 83% y en Mendoza un 72%. Crece el uso de la Radio digital y podcasts.
+]]></description>
+			<pubDate>2019-11-11T20:06:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Crece el rechazo entre los más jóvenes contra los zoológicos
+]]></title>
+			<link>https://www.ambito.com/crece-el-rechazo-los-mas-jovenes-contra-los-zoologicos-n5065035</link>
+			<guid>https://www.ambito.com/crece-el-rechazo-los-mas-jovenes-contra-los-zoologicos-n5065035</guid>
+			<description><![CDATA[
+Un estudio privado señala que el 60,2% de los jóvenes consultados no considera a estos espacios como hábitat para los animales o al menos desconoce sus funciones respecto a los cuidados que allí se ofrecen. La cifra cae entre los adultos al 40,6%.
+]]></description>
+			<pubDate>2019-11-11T19:01:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Fuga en comisaría de Quilmes: recapturan a otro delincuente y quedan 4 prófugos
+]]></title>
+			<link>https://www.ambito.com/fuga-comisaria-quilmes-recapturan-otro-delincuente-y-quedan-4-profugos-n5065004</link>
+			<guid>https://www.ambito.com/fuga-comisaria-quilmes-recapturan-otro-delincuente-y-quedan-4-profugos-n5065004</guid>
+			<description><![CDATA[
+Walter Alberto Luján se entregó a la Justicia. Enfrenta una causa por "encubrimiento agravado y portación ilegal de arma de guerra".
+]]></description>
+			<pubDate>2019-11-11T15:09:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El mayor uso de anticonceptivos evitó 21 millones de abortos inseguros en países en desarrollo
+]]></title>
+			<link>https://www.ambito.com/el-mayor-uso-anticonceptivos-evito-21-millones-abortos-inseguros-paises-desarrollo-n5064931</link>
+			<guid>https://www.ambito.com/el-mayor-uso-anticonceptivos-evito-21-millones-abortos-inseguros-paises-desarrollo-n5064931</guid>
+			<description><![CDATA[
+Los datos corresponden a 2018. Además, también se evitaron 119 millones de embarazos no deseados.
+]]></description>
+			<pubDate>2019-11-11T09:48:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Tragedia en Gualeguaychú: cinco muertos al chocar un micro y un camión
+]]></title>
+			<link>https://www.ambito.com/tragedia-gualeguaychu-cinco-muertos-al-chocar-un-micro-y-un-camion-n5064811</link>
+			<guid>https://www.ambito.com/tragedia-gualeguaychu-cinco-muertos-al-chocar-un-micro-y-un-camion-n5064811</guid>
+			<description><![CDATA[
+El hecho ocurrió cerca de las 6.30 en el kilómetro 20 de la autopista Mesopotámica (ruta 14) cuando un micro de larga distancia de la empresa paraguaya La Santaniana chocó contra un camión en el momento en que se disponía a pasarlo.
+]]></description>
+			<pubDate>2019-11-10T12:37:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Justicia salteña exige entregar resultados por escuela de la pruebas Aprender: pros y contras de publicar estos datos
+]]></title>
+			<link>https://www.ambito.com/justicia-saltena-exige-entregar-resultados-escuela-la-pruebas-aprender-pros-y-contras-publicar-estos-datos-n5064525</link>
+			<guid>https://www.ambito.com/justicia-saltena-exige-entregar-resultados-escuela-la-pruebas-aprender-pros-y-contras-publicar-estos-datos-n5064525</guid>
+			<description><![CDATA[
+Distintos especialistas se pronunciaron sobre el tema. Los datos surgen del informe "Rankear o no rankear escuelas: ¿es esa la cuestión? El acceso público a la información de las pruebas Aprender", del Observatorio Argentinos por la Educación, con autoría de Mariano Narodowski.
+]]></description>
+			<pubDate>2019-11-08T10:21:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Obras sociales y prepagas deberán cubrir métodos anticonceptivos de larga duración
+]]></title>
+			<link>https://www.ambito.com/obras-sociales-y-prepagas-deberan-cubrir-metodos-anticonceptivos-larga-duracion-n5064498</link>
+			<guid>https://www.ambito.com/obras-sociales-y-prepagas-deberan-cubrir-metodos-anticonceptivos-larga-duracion-n5064498</guid>
+			<description><![CDATA[
+Una resolución publicada en el Boletín Oficial amplió las opciones e incorporó la obligación de cobertura en colocación y extracción del dispositivo intrauterino (DIU), del sistema intrauterino de liberación de levonorgestrel (SIU) y del implante subdérmico.
+]]></description>
+			<pubDate>2019-11-08T08:37:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Por el conflicto social en Chile el precio de las bananas se duplicó en Buenos Aires
+]]></title>
+			<link>https://www.ambito.com/por-el-conflicto-social-chile-el-precio-las-bananas-se-duplico-buenos-aires-n5064320</link>
+			<guid>https://www.ambito.com/por-el-conflicto-social-chile-el-precio-las-bananas-se-duplico-buenos-aires-n5064320</guid>
+			<description><![CDATA[
+El precio del aumentó hasta un 100% en algunas verdulerías y fruterías de la Ciudad por la escasez tras el conflicto social en Chile.
+]]></description>
+			<pubDate>2019-11-07T15:32:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Investigan muerte de una mujer en un hotel alojamiento: confirman que fue estrangulada
+]]></title>
+			<link>https://www.ambito.com/investigan-muerte-una-mujer-un-hotel-alojamiento-confirman-que-fue-estrangulada-n5064303</link>
+			<guid>https://www.ambito.com/investigan-muerte-una-mujer-un-hotel-alojamiento-confirman-que-fue-estrangulada-n5064303</guid>
+			<description><![CDATA[
+El cuerpo de la joven fue hallado en una de las habitaciones. El hombre con el que ingresó al lugar huyó. Investigan si se trató de un femicidio o si murió en el marco de una práctica sexual.
+]]></description>
+			<pubDate>2019-11-07T14:25:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+La RAE sumó 229 palabras y redefinió otras: no considera "cura" a la homeopatía
+]]></title>
+			<link>https://www.ambito.com/la-rae-sumo-229-palabras-y-redefinio-otras-no-considera-cura-la-homeopatia-n5064298</link>
+			<guid>https://www.ambito.com/la-rae-sumo-229-palabras-y-redefinio-otras-no-considera-cura-la-homeopatia-n5064298</guid>
+			<description><![CDATA[
+El nuevo diccionario incluye un total de 1.100 modificaciones respecto a la versión anterior. Modificó acepciones, términos e incorporó nuevas palabras.
+]]></description>
+			<pubDate>2019-11-07T14:05:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Pérez Volpin: piden la indagatoria de los directivos del Sanatorio La Trinidad
+]]></title>
+			<link>https://www.ambito.com/perez-volpin-piden-la-indagatoria-los-directivos-del-sanatorio-la-trinidad-n5064262</link>
+			<guid>https://www.ambito.com/perez-volpin-piden-la-indagatoria-los-directivos-del-sanatorio-la-trinidad-n5064262</guid>
+			<description><![CDATA[
+Se trata de las autoridades del sanatorio, Roberto Martingano y de Galeno, Eduardo Cavallo. La familia de la periodista asegura que desde la institución médica entregaron a la causa un endoscopio diferente al utilizado en la práctica médica realizada a la víctima.
+]]></description>
+			<pubDate>2019-11-07T10:28:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Cuándo cobro Anses: calendario de pago de noviembre 2019
+]]></title>
+			<link>https://www.ambito.com/cuando-cobro-anses-calendario-pago-noviembre-2019-n5062522</link>
+			<guid>https://www.ambito.com/cuando-cobro-anses-calendario-pago-noviembre-2019-n5062522</guid>
+			<description><![CDATA[
+Éstas son las fechas de pago de jubilaciones y pensiones, asignaciones y otros beneficios sociales.
+]]></description>
+			<pubDate>2019-11-07T10:07:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Fuga en comisaría de Quilmes: recapturaron a otro preso pero quedan 9 prófugos
+]]></title>
+			<link>https://www.ambito.com/fuga-comisaria-quilmes-recapturaron-otro-preso-pero-quedan-9-profugos-n5064235</link>
+			<guid>https://www.ambito.com/fuga-comisaria-quilmes-recapturaron-otro-preso-pero-quedan-9-profugos-n5064235</guid>
+			<description><![CDATA[
+Se trata de Luis Alberto Navarro, quien fue hallado en esa misma localidad. Por el hecho desafectaron a cinco policías. 
+]]></description>
+			<pubDate>2019-11-07T08:55:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Dos autos chocaron de frente en la esquina de San Juan y Paseo Colón
+]]></title>
+			<link>https://www.ambito.com/dos-autos-chocaron-frente-la-esquina-san-juan-y-paseo-colon-n5064133</link>
+			<guid>https://www.ambito.com/dos-autos-chocaron-frente-la-esquina-san-juan-y-paseo-colon-n5064133</guid>
+			<description><![CDATA[
+El accidente fue protagonizado por un taxi y un vehículo particular que circulaban en sentido contrario por la avenida Colón. No hubo víctimas fatales pero sí heridos.
+]]></description>
+			<pubDate>2019-11-06T16:19:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+"Tratamos de incentivar en todas las áreas de gobierno la cultura del dato"
+]]></title>
+			<link>https://www.ambito.com/tratamos-incentivar-todas-las-areas-gobierno-la-cultura-del-dato-n5064056</link>
+			<guid>https://www.ambito.com/tratamos-incentivar-todas-las-areas-gobierno-la-cultura-del-dato-n5064056</guid>
+			<description><![CDATA[
+Pablo Mlynkiewicz, es un apasionado por los datos y las matemáticas. Como director de la Dirección General de Ciencias de la información busca con su trabajo mejorar la vida de los vecinos.
+]]></description>
+			<pubDate>2019-11-06T09:39:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Condenaron a 10 años de prisión al pediatra del Garrahan acusado de distribuir pornografía infantil  
+]]></title>
+			<link>https://www.ambito.com/condenaron-10-anos-prision-al-pediatra-del-garrahan-acusado-distribuir-pornografia-infantil-n5064039</link>
+			<guid>https://www.ambito.com/condenaron-10-anos-prision-al-pediatra-del-garrahan-acusado-distribuir-pornografia-infantil-n5064039</guid>
+			<description><![CDATA[
+La Justicia halló culpable al médico Ricardo Russo por los delitos de "tenencia, producción y distribución de pornografía infantil". Su defensa había pedido la absolución.
+]]></description>
+			<pubDate>2019-11-06T09:09:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Desalojaron un terreno que había sido tomado en la localidad de Pontevedra
+]]></title>
+			<link>https://www.ambito.com/desalojaron-un-terreno-que-habia-sido-tomado-la-localidad-pontevedra-n5063969</link>
+			<guid>https://www.ambito.com/desalojaron-un-terreno-que-habia-sido-tomado-la-localidad-pontevedra-n5063969</guid>
+			<description><![CDATA[
+La Policía Bonaerense recuperó el mobiliario ubicado en el partido de Merlo sin que se produzcan hechos de violencia.
+]]></description>
+			<pubDate>2019-11-05T20:18:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El médico del Garrahan acusado de poseer pornografía infantil afirmó que "eran fotos médicas"
+]]></title>
+			<link>https://www.ambito.com/el-medico-del-garrahan-acusado-poseer-pornografia-infantil-afirmo-que-eran-fotos-medicas-n5063936</link>
+			<guid>https://www.ambito.com/el-medico-del-garrahan-acusado-poseer-pornografia-infantil-afirmo-que-eran-fotos-medicas-n5063936</guid>
+			<description><![CDATA[
+El pediatra Ricardo Russo asistió a una nueva jornada del juicio y calificó el proceso en su contra de "demencial".
+]]></description>
+			<pubDate>2019-11-05T19:30:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Feriados 2020 de Argentina
+]]></title>
+			<link>https://www.ambito.com/feriados-2020-argentina-n5063955</link>
+			<guid>https://www.ambito.com/feriados-2020-argentina-n5063955</guid>
+			<description><![CDATA[
+Estos son todos los feriados inamovibles y trasladables, y días no laborables de 2020. Además de las festividades religiosas. ¿Cuándo es fin de semana largo? Calendario completo con todas las fechas patrias de la Argentina.
+]]></description>
+			<pubDate>2019-11-05T19:26:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Caso Macarena Mendizábal: 3 años de prisión al piloto que la dejó en estado vegetativo
+]]></title>
+			<link>https://www.ambito.com/caso-macarena-mendizabal-3-anos-prision-al-piloto-que-la-dejo-estado-vegetativo-n5063875</link>
+			<guid>https://www.ambito.com/caso-macarena-mendizabal-3-anos-prision-al-piloto-que-la-dejo-estado-vegetativo-n5063875</guid>
+			<description><![CDATA[
+Santiago Silvoso, quien también es empresario, fue sentenciado por el delito de "lesiones culposas en concurso con lesiones gravísimas". Al momento del choque superaba tres veces el límite de alcohol en sangre permitido para manejar.
+]]></description>
+			<pubDate>2019-11-05T13:50:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Apuestan a las cuotas para reactivar consumo en el Cyber Monday
+]]></title>
+			<link>https://www.ambito.com/apuestan-las-cuotas-reactivar-consumo-el-cyber-monday-n5063795</link>
+			<guid>https://www.ambito.com/apuestan-las-cuotas-reactivar-consumo-el-cyber-monday-n5063795</guid>
+			<description><![CDATA[
+A diferencia del Hot Sale de agosto, el escenario es más propicio para las ventas. Más empresas participan y vuelve la financiación en hasta 18 pagos. 
+]]></description>
+			<pubDate>2019-11-05T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+La defensa de Thelma Fardin confía en que Darthés será detenido en Brasil
+]]></title>
+			<link>https://www.ambito.com/la-defensa-thelma-fardin-confia-que-darthes-sera-detenido-brasil-n5063694</link>
+			<guid>https://www.ambito.com/la-defensa-thelma-fardin-confia-que-darthes-sera-detenido-brasil-n5063694</guid>
+			<description><![CDATA[
+La abogada de la actriz en Nicaragua, Elyn Cruz Rojas, dijo que "la no extradición no es sinónimo de impunidad".
+]]></description>
+			<pubDate>2019-11-04T17:32:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Inundaciones, calles anegadas y vuelos cancelados por la tormenta 
+]]></title>
+			<link>https://www.ambito.com/inundaciones-calles-anegadas-y-vuelos-cancelados-la-tormenta-n5063684</link>
+			<guid>https://www.ambito.com/inundaciones-calles-anegadas-y-vuelos-cancelados-la-tormenta-n5063684</guid>
+			<description><![CDATA[
+Las fuertes lluvias que azotaron a la Ciudad causaron diversos contratiempos en distintos barrios porteños. En Aeroparque hubo problemas con algunas operaciones.
+]]></description>
+			<pubDate>2019-11-04T16:04:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El registro SUBE llegó a Mendoza y ya funciona en 38 localidades de todo el país
+]]></title>
+			<link>https://www.ambito.com/el-registro-sube-llego-mendoza-y-ya-funciona-38-localidades-todo-el-pais-n5063672</link>
+			<guid>https://www.ambito.com/el-registro-sube-llego-mendoza-y-ya-funciona-38-localidades-todo-el-pais-n5063672</guid>
+			<description><![CDATA[
+Se equiparon 1.400 colectivos con máquinas validadoras y se instalaron más de 61 Terminales Automáticas para que los usuarios del transporte público puedan acreditar las cargas electrónicas. 
+]]></description>
+			<pubDate>2019-11-04T15:17:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El regreso al mar de siete pingüinos
+]]></title>
+			<link>https://www.ambito.com/el-regreso-al-mar-siete-pinginos-n5063668</link>
+			<guid>https://www.ambito.com/el-regreso-al-mar-siete-pinginos-n5063668</guid>
+			<description><![CDATA[
+Fueron rehabilitados por la Fundación Mundo Marino por presentar distintos cuadros de empetrolamiento y desnutrición. 
+]]></description>
+			<pubDate>2019-11-04T14:57:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Quilmes: ya son cuatro los muertos por el choque de un auto contra una palmera
+]]></title>
+			<link>https://www.ambito.com/quilmes-ya-son-cuatro-los-muertos-el-choque-un-auto-contra-una-palmera-n5063616</link>
+			<guid>https://www.ambito.com/quilmes-ya-son-cuatro-los-muertos-el-choque-un-auto-contra-una-palmera-n5063616</guid>
+			<description><![CDATA[
+El accidente ocurrió en la localidad de Don Bosco. Al parecer el conductor rozó el cordón al intentar esquivar una alcantarilla sin tapa y perdió el control del vehículo. Hay otras dos personas internadas.
+]]></description>
+			<pubDate>2019-11-04T10:18:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Regresó al país la imagen de la Virgen de Luján que acompañó a los soldados en la Guerra de Malvinas
+]]></title>
+			<link>https://www.ambito.com/regreso-al-pais-la-imagen-la-virgen-lujan-que-acompano-los-soldados-la-guerra-malvinas-n5063603</link>
+			<guid>https://www.ambito.com/regreso-al-pais-la-imagen-la-virgen-lujan-que-acompano-los-soldados-la-guerra-malvinas-n5063603</guid>
+			<description><![CDATA[
+La imagen había sido llevada a Londres tras la finalización del conflicto bélico. La recibieron en Ezeiza veteranos y miembros de la Iglesia local. 
+]]></description>
+			<pubDate>2019-11-04T09:29:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Quini 6: un apostador neuquino ganó más de $92 millones 
+]]></title>
+			<link>https://www.ambito.com/quini-6-un-apostador-neuquino-gano-mas-92-millones-n5063593</link>
+			<guid>https://www.ambito.com/quini-6-un-apostador-neuquino-gano-mas-92-millones-n5063593</guid>
+			<description><![CDATA[
+Acertó los seis números y se convirtió en el único ganador. El cartón llevaba la serie 4, 5, 11, 23, 28 y 31.
+]]></description>
+			<pubDate>2019-11-04T08:36:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+McDonalds despidió a su CEO por mantener una relación con una empleada
+]]></title>
+			<link>https://www.ambito.com/mcdonalds-despidio-su-ceo-mantener-una-relacion-una-empleada-n5063536</link>
+			<guid>https://www.ambito.com/mcdonalds-despidio-su-ceo-mantener-una-relacion-una-empleada-n5063536</guid>
+			<description><![CDATA[
+Steve Easterbrook se desempeñaba como director ejecutivo de la compañía estadounidense. Será reemplazado por Chris Kempczinski. 
+]]></description>
+			<pubDate>2019-11-03T20:32:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Ordenan la captura internacional de Juan Darthés
+]]></title>
+			<link>https://www.ambito.com/ordenan-la-captura-internacional-juan-darthes-n5063471</link>
+			<guid>https://www.ambito.com/ordenan-la-captura-internacional-juan-darthes-n5063471</guid>
+			<description><![CDATA[
+La justicia nicaragüense ordenó la medida a raíz de la denuncia que en su contra hizo la actriz Thelma Fardín, en diciembre de 2018.
+]]></description>
+			<pubDate>2019-11-03T09:30:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Los drones se preparan para invadir el mundo y la NASA ya tiene un plan
+]]></title>
+			<link>https://www.ambito.com/los-drones-se-preparan-invadir-el-mundo-y-la-nasa-ya-tiene-un-plan-n5063260</link>
+			<guid>https://www.ambito.com/los-drones-se-preparan-invadir-el-mundo-y-la-nasa-ya-tiene-un-plan-n5063260</guid>
+			<description><![CDATA[
+Se espera que millones de aparatos surquen los cielos durante la próxima década. El objetivo es crear un sistema que pueda integrarlos de manera segura en el tráfico aéreo, para que no colisionen ni interfieran con helicópteros o el movimiento de los aeropuertos.
+]]></description>
+			<pubDate>2019-11-03T00:01:00-03:00</pubDate>
+		</item>
+
+	</channel></rss>

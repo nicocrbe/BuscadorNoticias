@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>Ambito - Economía</title>
+		<description>Ambito</description>
+		<link>https://www.ambito.com</link>
+		<language>spa</language>
+		<lastBuildDate>Mon, 23 Jan 2023 22:58:13 -0300</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.dosalcubo.com</generator>
+		<copyright>Copyright (c) 2023</copyright>
+		<atom:link href="https://www.ambito.com/rss/economia.xml" rel="self" type="application/rss+xml" />		<image>
+			<title>Ambito - Economía</title>
+			<url>https://www.ambito.com/css-custom/239/images/mtg_logo-239.svg</url>
+			<link>https://www.ambito.com</link>
+		</image>
+		<item>
+			<title><![CDATA[Agenda nuclear: integración con Brasil, cinco centrales y una inversión de u$s1000 millones]]></title>
+			<link>https://www.ambito.com/economia/nuclear/agenda-integracion-brasil-cinco-centrales-y-una-inversion-us1000-millones-n5635276</link>
+			<guid>https://www.ambito.com/economia/nuclear/agenda-integracion-brasil-cinco-centrales-y-una-inversion-us1000-millones-n5635276</guid>
+			<description><![CDATA[
+El Gobierno aspira a duplicar la provisión nuclear en la matriz energética, por lo que requerirá sumar más centrales. En qué estado está el proyecto acordado hace un año con China y cuándo estará listo el reactor Carem. Diálogo con Adriana Serquis, presidenta de la CNEA.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 21:13:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Nueva agenda con Brasil: destacan que puede generar un mayor crecimiento del PBI]]></title>
+			<link>https://www.ambito.com/economia/pbi/nueva-agenda-brasil-destacan-que-puede-generar-un-mayor-crecimiento-del-n5635204</link>
+			<guid>https://www.ambito.com/economia/pbi/nueva-agenda-brasil-destacan-que-puede-generar-un-mayor-crecimiento-del-n5635204</guid>
+			<description><![CDATA[
+Señalan que los nuevos acuerdos bilaterales podrían redundar en mayores exportaciones hacia el principal socio comercial argentino.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 20:34:05 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Salarios: cuáles fueron los convenios colectivos que le ganaron a la inflación]]></title>
+			<link>https://www.ambito.com/economia/salarios/cuales-fueron-los-convenios-colectivos-que-le-ganaron-la-inflacion-n5635282</link>
+			<guid>https://www.ambito.com/economia/salarios/cuales-fueron-los-convenios-colectivos-que-le-ganaron-la-inflacion-n5635282</guid>
+			<description><![CDATA[
+Seis de los 10 más importantes se impusieron a la suba de precios, que fue del 94,8% en 2022. La mejoría se acentuó a fin de año.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 19:48:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Acuerdo con Brasil: financiarán importaciones a 366 días]]></title>
+			<link>https://www.ambito.com/economia/brasil/acuerdo-financiaran-importaciones-366-dias-n5635273</link>
+			<guid>https://www.ambito.com/economia/brasil/acuerdo-financiaran-importaciones-366-dias-n5635273</guid>
+			<description><![CDATA[
+En el encuentro se anunció la intención de instrumentar una línea de financiamiento de importaciones a plazos "superiores a los 180 días entre el Banco de la Nación Argentina y el Banco do Brasil".
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 19:44:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Industriales de Argentina y Brasil presentaron declaración conjunta]]></title>
+			<link>https://www.ambito.com/economia/uia/industriales-argentina-y-brasil-presentaron-declaracion-conjunta-n5635209</link>
+			<guid>https://www.ambito.com/economia/uia/industriales-argentina-y-brasil-presentaron-declaracion-conjunta-n5635209</guid>
+			<description><![CDATA[
+La misma aborda los ejes de la agenda bilateral productiva y afirma que "las ideas originales del Mercosur siguen siendo válidas y deberían ser el objetivo común".
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 18:48:45 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Soja y divisas: las lluvias llevaron alivio al campo, pero hicieron bajar los precios en Chicago]]></title>
+			<link>https://www.ambito.com/economia/soja/y-divisas-las-lluvias-llevaron-alivio-al-campo-pero-hicieron-bajar-los-precios-chicago-n5635176</link>
+			<guid>https://www.ambito.com/economia/soja/y-divisas-las-lluvias-llevaron-alivio-al-campo-pero-hicieron-bajar-los-precios-chicago-n5635176</guid>
+			<description><![CDATA[
+La oleaginosa perdió más del 1% y acumuló su cuarta rueda negativa tras cerrar a u$s547,6 por tonelada. Se esperan más precipitaciones en los próximos días que podrían atenuar las pérdidas productivas.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 17:55:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El salario pretendido por los trabajadores en 2022 aumentó un 102,5%]]></title>
+			<link>https://www.ambito.com/economia/salario/el-pretendido-los-trabajadores-2022-aumento-un-1025-n5635157</link>
+			<guid>https://www.ambito.com/economia/salario/el-pretendido-los-trabajadores-2022-aumento-un-1025-n5635157</guid>
+			<description><![CDATA[
+En diciembre tuvo una suba de un 6,1%, ubicándose en 204.090 pesos por mes. Los datos se desprenden del último Index del Mercado Laboral de Bumeran.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 17:06:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[ADIMRA apoya la profundización de la relación estratégica con Brasil ]]></title>
+			<link>https://www.ambito.com/economia/adimra/apoya-la-profundizacion-la-relacion-estrategica-brasil-n5635116</link>
+			<guid>https://www.ambito.com/economia/adimra/apoya-la-profundizacion-la-relacion-estrategica-brasil-n5635116</guid>
+			<description><![CDATA[
+Su presidente, Orlando Castellani, llamó a "seguir fortaleciendo el intercambio comercial con una mirada de bloque integral y sustentable al mundo".
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 16:59:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Acuerdo Argentina-Brasil: estos son los principales ejes de las negociaciones]]></title>
+			<link>https://www.ambito.com/economia/brasil/acuerdo-argentina-estos-son-los-principales-ejes-las-negociaciones-n5635010</link>
+			<guid>https://www.ambito.com/economia/brasil/acuerdo-argentina-estos-son-los-principales-ejes-las-negociaciones-n5635010</guid>
+			<description><![CDATA[
+Un trabajo del CEPA aborda las posibilidades que se abren en la agenda bilateral tras la llegada de Lula a la presidencia y plantea cuáles son los ejes centrales de este acercamiento. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 15:58:40 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La inflación en Perú se aceleraría al 8,9% anual por el alza en el precios de alimentos ]]></title>
+			<link>https://www.ambito.com/economia/peru/la-inflacion-se-aceleraria-al-89-anual-el-alza-el-precios-alimentos-n5635046</link>
+			<guid>https://www.ambito.com/economia/peru/la-inflacion-se-aceleraria-al-89-anual-el-alza-el-precios-alimentos-n5635046</guid>
+			<description><![CDATA[
+El país vecino registró una inflación del 0,79% en diciembre y cerró el año 2022 en un 8,46%, la medición anual más elevada en los últimos 26 años, según el instituto de estadística.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 15:25:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alquileres en el Gran Buenos Aires: aumentaron por debajo de la inflación en 2022]]></title>
+			<link>https://www.ambito.com/economia/alquileres/el-gran-buenos-aires-aumentaron-debajo-la-inflacion-2022-n5634974</link>
+			<guid>https://www.ambito.com/economia/alquileres/el-gran-buenos-aires-aumentaron-debajo-la-inflacion-2022-n5634974</guid>
+			<description><![CDATA[
+Conocé cómo evolucionaron los precios en las diferentes zonas y cuáles son las particularidades de cada barrio.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 14:46:07 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Argentina-Brasil: los 3 acuerdos económicos clave que potenciarán el vínculo entre los países]]></title>
+			<link>https://www.ambito.com/economia/argentina/brasil-los-3-acuerdos-economicos-clave-que-potenciaran-el-vinculo-los-paises-n5635001</link>
+			<guid>https://www.ambito.com/economia/argentina/brasil-los-3-acuerdos-economicos-clave-que-potenciaran-el-vinculo-los-paises-n5635001</guid>
+			<description><![CDATA[
+Los mandatarios brindaron en la casa Rosada luego de reunirse durante una hora y firmar distintos convenios. En este contexto, se acordó el avance en tres proyectos económicos clave que le traerán beneficios a ambas economías. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 14:46:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Mercados anticipan una "brisa de cola" en favor de Argentina en 2023]]></title>
+			<link>https://www.ambito.com/economia/mercados/anticipan-una-brisa-cola-favor-argentina-2023-n5634996</link>
+			<guid>https://www.ambito.com/economia/mercados/anticipan-una-brisa-cola-favor-argentina-2023-n5634996</guid>
+			<description><![CDATA[
+La mayoría de los referentes de las finanzas internacionales esperan que este año la FED baje las tasa de interés, debido a la menor inflación norteamericana. Eso impulsaría los precios de los commodities.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 14:32:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[AFIP detectó millonaria evasión impositiva en countries y barrios cerrados]]></title>
+			<link>https://www.ambito.com/economia/afip/detecto-millonaria-evasion-impositiva-countries-y-barrios-cerrados-n5634856</link>
+			<guid>https://www.ambito.com/economia/afip/detecto-millonaria-evasion-impositiva-countries-y-barrios-cerrados-n5634856</guid>
+			<description><![CDATA[
+La AFIP halló casi 350 contribuyentes que omitieron declarar Bienes Personales por propiedades en barrios privados. En total son casi $200 millones. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 12:59:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[EEUU: los empresarios rebajan al 56% las probabilidades de recesión en 2023]]></title>
+			<link>https://www.ambito.com/economia/estados-unidos/eeuu-los-empresarios-rebajan-al-56-las-probabilidades-recesion-2023-n5634781</link>
+			<guid>https://www.ambito.com/economia/estados-unidos/eeuu-los-empresarios-rebajan-al-56-las-probabilidades-recesion-2023-n5634781</guid>
+			<description><![CDATA[
+Según un informe de la Asociación Nacional de Economía Empresarial de EEUU, las expectativas de recesión en Estados Unidos cayeron a un 56% desde una posibilidad de casi dos tercios. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 12:05:39 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Tarifas: Gobierno confirmó que avanzarán con la actualización pese al año electoral]]></title>
+			<link>https://www.ambito.com/economia/energia/tarifas-gobierno-confirmo-que-avanzaran-la-actualizacion-pese-al-ano-electoral-n5634748</link>
+			<guid>https://www.ambito.com/economia/energia/tarifas-gobierno-confirmo-que-avanzaran-la-actualizacion-pese-al-ano-electoral-n5634748</guid>
+			<description><![CDATA[
+Flavia Royón destacó la importancia de reducir los sibsidios a las tarifas aún en un año electoral, destacó el rol de Sergio Massa en el Gobierno y celebró el avance femenino en la política. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 11:06:45 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Brasil y Argentina crearán un fondo de garantía para impulsar las exportaciones]]></title>
+			<link>https://www.ambito.com/economia/brasil/y-argentina-crearan-un-fondo-garantia-impulsar-las-exportaciones-n5634733</link>
+			<guid>https://www.ambito.com/economia/brasil/y-argentina-crearan-un-fondo-garantia-impulsar-las-exportaciones-n5634733</guid>
+			<description><![CDATA[
+Brasil y Argentina firmarán un acuerdo bilateral para la creación de un fondo de garantía para estimular las exportaciones brasileñas. Qué implica el nuevo acuerdo. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 10:44:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Elon Musk celebró la posibilidad de una moneda común entre Brasil y Argentina]]></title>
+			<link>https://www.ambito.com/economia/elon-musk/celebro-la-posibilidad-una-moneda-comun-brasil-y-argentina-n5634687</link>
+			<guid>https://www.ambito.com/economia/elon-musk/celebro-la-posibilidad-una-moneda-comun-brasil-y-argentina-n5634687</guid>
+			<description><![CDATA[
+El magnate celebró a traves de sus redes sociales la posibilidad de que Brasil y Argentina tengan una moneda común. Así lo dio a conocer a través de sus redes sociales, al comentar una publicación del Financial Times. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 10:18:49 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Se realiza una audiencia pública sobre la adecuación de tarifas eléctricas]]></title>
+			<link>https://www.ambito.com/economia/enre/se-realiza-una-audiencia-publica-la-adecuacion-tarifas-electricas-n5634642</link>
+			<guid>https://www.ambito.com/economia/enre/se-realiza-una-audiencia-publica-la-adecuacion-tarifas-electricas-n5634642</guid>
+			<description><![CDATA[
+Este lunes, el ENRE convocó a empresas eléctricas y entidades de consumidores a una audiencia pública sobre una actualización de tarifas. Se hace de modo virtual.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 09:37:30 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Estaciones de servicio: hasta cuándo se podrá pagar con tarjeta de crédito]]></title>
+			<link>https://www.ambito.com/economia/estaciones-servicio/cuando-se-podra-pagar-tarjeta-credito-n5634654</link>
+			<guid>https://www.ambito.com/economia/estaciones-servicio/cuando-se-podra-pagar-tarjeta-credito-n5634654</guid>
+			<description><![CDATA[
+Las estaciones de servicio que integran la Confederaciónde Entidades del Comercio de Hidrocarburos y Afines de la República Argentina (Cecha) avanzan con la decisión de no permitir el cobro con tarjeta de crédito. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 09:35:01 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El pronóstico en Davos que preocupa a la Argentina]]></title>
+			<link>https://www.ambito.com/economia/charlas-quincho/el-pronostico-davos-que-preocupa-la-argentina-n5634599</link>
+			<guid>https://www.ambito.com/economia/charlas-quincho/el-pronostico-davos-que-preocupa-la-argentina-n5634599</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 08:30:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Oficializan la designación de Ángel Mario Elettore como titular de la Casa de la Moneda]]></title>
+			<link>https://www.ambito.com/economia/casa-la-moneda/oficializan-la-designacion-angel-mario-elettore-como-titular-la-n5634572</link>
+			<guid>https://www.ambito.com/economia/casa-la-moneda/oficializan-la-designacion-angel-mario-elettore-como-titular-la-n5634572</guid>
+			<description><![CDATA[
+A tres semanas de la salida de Rodolfo Gabrielli, se oficializó la designación del cordobés que será el nuevo presidente de la Casa Moneda que estará a cargo de la institución hasta 2024. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 07:42:24 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Agrodólares y sequía: en lo que va de enero ingresaron apenas u$s757 M]]></title>
+			<link>https://www.ambito.com/c5634344</link>
+			<guid>https://www.ambito.com/c5634344</guid>
+			<description><![CDATA[
+Se espera que el mes cierre en torno a los u$s1.000 millones, el registro más bajo desde 2014/2015. Preocupa la entrada de divisas del primer trimestre.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:01:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El futuro de la logística está en energía alternativa y vehículos autónomos]]></title>
+			<link>https://www.ambito.com/el-futuro-la-logistica-esta-energia-alternativa-y-vehiculos-autonomos-n5634466</link>
+			<guid>https://www.ambito.com/el-futuro-la-logistica-esta-energia-alternativa-y-vehiculos-autonomos-n5634466</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La tecnología, las bigtechs y el desafío para el mundo financiero]]></title>
+			<link>https://www.ambito.com/la-tecnologia-las-bigtechs-y-el-desafio-el-mundo-financiero-n5634468</link>
+			<guid>https://www.ambito.com/la-tecnologia-las-bigtechs-y-el-desafio-el-mundo-financiero-n5634468</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Acciones: tras toma de ganancias, analistas esperan nuevas subas]]></title>
+			<link>https://www.ambito.com/acciones-toma-ganancias-analistas-esperan-nuevas-subas-n5634477</link>
+			<guid>https://www.ambito.com/acciones-toma-ganancias-analistas-esperan-nuevas-subas-n5634477</guid>
+			<description><![CDATA[
+El índice S&P Merval cortó la semana pasada un fuerte rally alcista que sostuvo durante 10 días consecutivos. Ahora analistas prevén nuevas subas.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alberto y Lula se reúnen hoy con empresarios en busca de acelerar el comercio bilateral]]></title>
+			<link>https://www.ambito.com/c5634271</link>
+			<guid>https://www.ambito.com/c5634271</guid>
+			<description><![CDATA[
+Los gobiernos apuntan potenciar el intercambio de bienes industriales. Analizan proyectos de inversión conjuntos en sectores estratégicos, como fertilizantes y movilidad sustentable.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Confirmado: Argentina y Brasil avanzarán en un proyecto de moneda común sudamericana]]></title>
+			<link>https://www.ambito.com/confirmado-argentina-y-brasil-avanzaran-un-proyecto-moneda-comun-sudamericana-n5634485</link>
+			<guid>https://www.ambito.com/confirmado-argentina-y-brasil-avanzaran-un-proyecto-moneda-comun-sudamericana-n5634485</guid>
+			<description><![CDATA[
+Así lo indicaron Alberto Fernández, Lula Da Silva y Sergio Massa. No reemplazará al peso y al real, sino que se utilizará para comerciar sin pasar por el dólar. Invitarán a otros países de la región.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Desafío 2023: qué pasará con las criptomonedas en un contexto de mayores avances regulatorios]]></title>
+			<link>https://www.ambito.com/c5633560</link>
+			<guid>https://www.ambito.com/c5633560</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Leve aceleración: la proyección de analistas y consultoras para la inflación de enero]]></title>
+			<link>https://www.ambito.com/c5634349</link>
+			<guid>https://www.ambito.com/c5634349</guid>
+			<description><![CDATA[
+Advierten que impactará en el IPC la suba de los precios regulados, como transporte, tarifas y prepagas, sumado al componente estacional. Qué dato se espera.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La Fed prohíbe cantar victoria y Wall St. desconfía del aterrizaje]]></title>
+			<link>https://www.ambito.com/la-fed-prohibe-cantar-victoria-y-wall-st-desconfia-del-aterrizaje-n5634510</link>
+			<guid>https://www.ambito.com/la-fed-prohibe-cantar-victoria-y-wall-st-desconfia-del-aterrizaje-n5634510</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Ganancias AFIP: paso a paso del trámite de deducción de gastos educativos ]]></title>
+			<link>https://www.ambito.com/economia/ganancias/afip-paso-paso-del-tramite-deduccion-gastos-educativos-n5631824</link>
+			<guid>https://www.ambito.com/economia/ganancias/afip-paso-paso-del-tramite-deduccion-gastos-educativos-n5631824</guid>
+			<description><![CDATA[
+A través del servicio "SiRADIG – Trabajador", se podrán deducir de Ganancias los gastos por servicios y herramientas con fines educativos. Conocé cómo hacerlo. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Monotributo: ¿cómo cobrar hasta $70.000 por única vez?]]></title>
+			<link>https://www.ambito.com/economia/monotributistas/monotributo-como-cobrar-70000-unica-vez-n5632292</link>
+			<guid>https://www.ambito.com/economia/monotributistas/monotributo-como-cobrar-70000-unica-vez-n5632292</guid>
+			<description><![CDATA[
+La Administración Nacional de la Seguridad Social entrega un beneficio económico a diversos grupos, entre ellos se encuentran los monotributistas.   
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Argentina y Brasil firmarán acuerdos de cooperación en ciencia y tecnología ]]></title>
+			<link>https://www.ambito.com/politica/mercosur/argentina-y-brasil-firmaran-acuerdos-cooperacion-ciencia-y-tecnologia-n5634281</link>
+			<guid>https://www.ambito.com/politica/mercosur/argentina-y-brasil-firmaran-acuerdos-cooperacion-ciencia-y-tecnologia-n5634281</guid>
+			<description><![CDATA[
+Los suscribirá el ministro Daniel Filmus con su par de ese país, Luciana Barbosa de Oliveira Santos. Será en el marco de la visita de Lula da Silva a Buenos Aires. 
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 19:45:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Moneda común de Argentina y Brasil: de qué se trata el proyecto que avanzará esta semana]]></title>
+			<link>https://www.ambito.com/economia/brasil/moneda-comun-argentina-y-que-se-trata-el-proyecto-que-avanzara-esta-semana-n5634192</link>
+			<guid>https://www.ambito.com/economia/brasil/moneda-comun-argentina-y-que-se-trata-el-proyecto-que-avanzara-esta-semana-n5634192</guid>
+			<description><![CDATA[
+El Ministro de Economía, Sergio Massa, confirmó al Financial Times que el proyecto de la moneda común entre Argentina y Brasil avanzará esta semana. Según indicó el diario inglés, los dos países anunciarán el trabajo preparatorio en el marco de la cumbre de la CELAC. 
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 10:42:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Impuesto a las tarjetas de crédito: ¿Cuándo dejarán de pagarlo los porteños?]]></title>
+			<link>https://www.ambito.com/economia/tarjetas-credito/impuesto-las-cuando-dejaran-pagarlo-los-portenos-n5633472</link>
+			<guid>https://www.ambito.com/economia/tarjetas-credito/impuesto-las-cuando-dejaran-pagarlo-los-portenos-n5633472</guid>
+			<description><![CDATA[
+Cabe la posibilidad de que pasen meses hasta que eso ocurra. O quizás nunca se produzca. Todo está atado a la pelea Nación, Ciudad y Corte Suprema.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 00:01:16 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Trabajar para el exterior y cobrar en dólares desde Argentina: ¿dónde buscar empleos?]]></title>
+			<link>https://www.ambito.com/economia/dolar/trabajar-el-exterior-y-cobrar-es-argentina-donde-buscar-empleos-n5633212</link>
+			<guid>https://www.ambito.com/economia/dolar/trabajar-el-exterior-y-cobrar-es-argentina-donde-buscar-empleos-n5633212</guid>
+			<description><![CDATA[
+El 2022 fue el año donde la cantidad de trabajadores argentinos que brindan servicios en el exterior -con el objetivo de capitalizar sus ingresos al mejor tipo de cambio con el dólar-, aumentó considerablemente y se consolidó.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Recompra de bonos: Massa pidió investigar posibles maniobras en los mercados de cambios y de títulos]]></title>
+			<link>https://www.ambito.com/economia/bonos/recompra-massa-pidio-investigar-posibles-maniobras-los-mercados-cambios-y-titulos-n5633678</link>
+			<guid>https://www.ambito.com/economia/bonos/recompra-massa-pidio-investigar-posibles-maniobras-los-mercados-cambios-y-titulos-n5633678</guid>
+			<description><![CDATA[
+El ministro de Economía, Sergio Massa, solicitó a la Comisión Nacional de Valores que investigue si hubo posible filtración de información respecto a la decisión de la recompra de deuda extranjera. Asimismo, pide que se invite a la oposición para que auditen la operación. La CNV, por su parte,  citará el lunes a los compradores.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 19:09:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Leasing: los bancos financiarán inmuebles para la producción a tasa fija del 49%]]></title>
+			<link>https://www.ambito.com/economia/leasing/los-bancos-financiaran-inmuebles-la-produccion-tasa-fija-del-49-n5633563</link>
+			<guid>https://www.ambito.com/economia/leasing/los-bancos-financiaran-inmuebles-la-produccion-tasa-fija-del-49-n5633563</guid>
+			<description><![CDATA[
+Las entidades que integran Leasing Argentina ofrecerán financiamiento a tasa fija para la compra de inmuebles en parques y zonas industriales, anunció Nicolás Scioli.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 17:53:26 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Prepagas: últimas horas para pedir un aumento menor en las cuotas, ¿cómo tramitarlo?]]></title>
+			<link>https://www.ambito.com/economia/prepagas/ultimas-horas-pedir-un-aumento-menor-las-cuotas-como-tramitarlo-n5633348</link>
+			<guid>https://www.ambito.com/economia/prepagas/ultimas-horas-pedir-un-aumento-menor-las-cuotas-como-tramitarlo-n5633348</guid>
+			<description><![CDATA[
+A través de un certificado de la Superintendencia de Servicios de Salud, se puede solicitar un descuento en la cuota. Conocé el paso a paso.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 13:15:23 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Gobierno sobrecumplió meta de déficit con el FMI]]></title>
+			<link>https://www.ambito.com/economia/fmi/gobierno-sobrecumplio-meta-deficit-el-n5633259</link>
+			<guid>https://www.ambito.com/economia/fmi/gobierno-sobrecumplio-meta-deficit-el-n5633259</guid>
+			<description><![CDATA[
+El Gobierno informó que en diciembre el Sector Público Nacional registró un déficit primario de $502.128,2 millones. Así, entre enero y diciembre se acumula un déficit primario de $1.955.140,8 millones.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 11:21:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Economía formará sobre eficiencia energética, economía circular e inclusión financiera]]></title>
+			<link>https://www.ambito.com/economia/ministerio-economia/formara-eficiencia-energetica-circular-e-inclusion-financiera-n5633215</link>
+			<guid>https://www.ambito.com/economia/ministerio-economia/formara-eficiencia-energetica-circular-e-inclusion-financiera-n5633215</guid>
+			<description><![CDATA[
+Se trata del "Programa de Capacitación Local en Ahorro de Energía, Economía Circular e Inclusión Financiera". Economía celebrará los convenios necesarios para el cumplimiento del programa con los municipios de todas las provincias
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 10:58:59 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La Aduana incautó 180 toneladas de soja de contrabando en Misiones]]></title>
+			<link>https://www.ambito.com/economia/aduana/la-incauto-180-toneladas-soja-contrabando-misiones-n5633124</link>
+			<guid>https://www.ambito.com/economia/aduana/la-incauto-180-toneladas-soja-contrabando-misiones-n5633124</guid>
+			<description><![CDATA[
+La Aduana detuvo a tres camiones que llevaban 60 toneladas de soja cada uno. El valor total, según informaron, asciende a $28.272.000.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 10:02:38 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El FMI alertó sobre el efecto de subsidios "verdes" en los mercados emergentes]]></title>
+			<link>https://www.ambito.com/economia/fmi/el-alerto-el-efecto-subsidios-verdes-los-mercados-emergentes-n5633151</link>
+			<guid>https://www.ambito.com/economia/fmi/el-alerto-el-efecto-subsidios-verdes-los-mercados-emergentes-n5633151</guid>
+			<description><![CDATA[
+"Mi mayor preocupación es que algo que en principio es muy bueno para acelerar la transición a la economía verde mediante el uso de dinero público para aumentar la inversión privada puede no servir bien a los mercados emergentes y al mundo en desarrollo", dijo Georgieva.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 09:56:01 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Gobierno dispuso fuertes multas a quienes incumplan "Precios Justos"]]></title>
+			<link>https://www.ambito.com/economia/precios-justos/gobierno-dispuso-fuertes-multas-quienes-incumplan-n5633130</link>
+			<guid>https://www.ambito.com/economia/precios-justos/gobierno-dispuso-fuertes-multas-quienes-incumplan-n5633130</guid>
+			<description><![CDATA[
+La máxima multa a aplicar es de aproximadamente $47 millones para el caso de un mayorista que venda por encima de los precios que establece el acuerdo.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 09:27:50 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Sequía: ayuda desorganizada y tardía]]></title>
+			<link>https://www.ambito.com/sequia-ayuda-desorganizada-y-tardia-n5633029</link>
+			<guid>https://www.ambito.com/sequia-ayuda-desorganizada-y-tardia-n5633029</guid>
+			<description><![CDATA[
+Volvió el calor. Asistencia para cerdos, tambos, lana y avícolas. Funcionarios en Santa Fe. Quejas por más impuestos. ¿Promoción de exportaciones a Extraordinarias?
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 00:10:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Recompra de bonos: este año vencen cupones por u$s3.666 millones y esperan reducir (algo) los pagos]]></title>
+			<link>https://www.ambito.com/economia/bonos/recompra-este-ano-vencen-cupones-us3666-millones-y-los-pagos-podrian-reducirse-n5632652</link>
+			<guid>https://www.ambito.com/economia/bonos/recompra-este-ano-vencen-cupones-us3666-millones-y-los-pagos-podrian-reducirse-n5632652</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Banco Central creó el plazo fijo electrónico: será transferible, fraccionable y compensable]]></title>
+			<link>https://www.ambito.com/finanzas/bcra/el-banco-central-crea-el-plazo-fijo-electronico-que-busca-esta-medida-y-cuando-estara-disponible-n5632617</link>
+			<guid>https://www.ambito.com/finanzas/bcra/el-banco-central-crea-el-plazo-fijo-electronico-que-busca-esta-medida-y-cuando-estara-disponible-n5632617</guid>
+			<description><![CDATA[
+Estará disponible desde el 1 de julio y su aplicación plena llegará el 1 de noviembre. Se permitirá su uso como medio de pago y de financiación.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Tras el pico exportador, buscan sumar empresas y abrir mercados]]></title>
+			<link>https://www.ambito.com/economia/exportaciones/2023-el-record-buscan-sumar-empresas-y-abrir-nuevos-mercados-n5632868</link>
+			<guid>https://www.ambito.com/economia/exportaciones/2023-el-record-buscan-sumar-empresas-y-abrir-nuevos-mercados-n5632868</guid>
+			<description><![CDATA[
+En diálogo con Ámbito, Cecilia Todesca explicó a qué se debió el salto que hubo en las importaciones y dio sus proyecciones para 2023.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Actividad industrial subió 3,1% en noviembre, según la UIA]]></title>
+			<link>https://www.ambito.com/actividad-industrial-subio-31-noviembre-segun-la-uia-n5632981</link>
+			<guid>https://www.ambito.com/actividad-industrial-subio-31-noviembre-segun-la-uia-n5632981</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La generación de energías renovables creció fuerte en 2022 (buenas perspectivas para 2023)]]></title>
+			<link>https://www.ambito.com/economia/energias-renovables/bueno-la-generacion-crecio-fuerte-2022-n5632745</link>
+			<guid>https://www.ambito.com/economia/energias-renovables/bueno-la-generacion-crecio-fuerte-2022-n5632745</guid>
+			<description><![CDATA[
+La mayor producción también hizo aumentar su participación en el abastecimiento de la demanda. Qué  esperan en el sector para este año.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Sergio Massa recibe hoy a la Mesa de Enlace (foco en sequía y asistencia a productores)]]></title>
+			<link>https://www.ambito.com/economia/mesa-enlace/sergio-massa-recibe-la-foco-sequia-y-asistencia-productores-n5632701</link>
+			<guid>https://www.ambito.com/economia/mesa-enlace/sergio-massa-recibe-la-foco-sequia-y-asistencia-productores-n5632701</guid>
+			<description><![CDATA[
+El Gobierno busca establecer una agenda en conjunto. Créditos blandos y aportes no reintegrables, en carpeta.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Gobierno suma financiamiento: el Banco Centroamericano desembolsará u$s400 M este año]]></title>
+			<link>https://www.ambito.com/economia/financiamiento/gobierno-suma-banco-centroamericano-desembolsara-us400-millones-este-ano-n5632827</link>
+			<guid>https://www.ambito.com/economia/financiamiento/gobierno-suma-banco-centroamericano-desembolsara-us400-millones-este-ano-n5632827</guid>
+			<description><![CDATA[
+El crédito se tratará en el directorio del organismo durante los próximos días. Se dividirá en dos cuotas de u$s200 millones, que se enviarán a lo largo de 2023.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Dólar: repuntó el CCL pero el MEP anotó una baja del 2,2%]]></title>
+			<link>https://www.ambito.com/dolar-repunto-el-ccl-pero-el-mep-anoto-una-baja-del-22-n5633019</link>
+			<guid>https://www.ambito.com/dolar-repunto-el-ccl-pero-el-mep-anoto-una-baja-del-22-n5633019</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Toma de ganancias: los bonos cayeron hasta 6% tras las fuertes subas]]></title>
+			<link>https://www.ambito.com/finanzas/bonos/fuerte-reversion-los-se-hundieron-7-riesgo-pais-volvio-superar-los-1900-puntos-n5632410</link>
+			<guid>https://www.ambito.com/finanzas/bonos/fuerte-reversion-los-se-hundieron-7-riesgo-pais-volvio-superar-los-1900-puntos-n5632410</guid>
+			<description><![CDATA[
+El riesgo-país rebotó 7,2% hasta los 1.938 puntos básicos. El índice S&P Merval cerró estable.
+]]></description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[AFIP extendió el plazo para la recategorización del monotributo: cómo hacerlo paso a paso]]></title>
+			<link>https://www.ambito.com/economia/afip/extendio-el-plazo-la-recategorizacion-del-monotributo-como-hacerlo-paso-paso-n5632972</link>
+			<guid>https://www.ambito.com/economia/afip/extendio-el-plazo-la-recategorizacion-del-monotributo-como-hacerlo-paso-paso-n5632972</guid>
+			<description><![CDATA[
+El 1 de este mes comenzaron a regir las nuevas escalas. Es por ello que los contribuyentes inscriptos en este régimen deberán recategorizarse en caso de que les corresponda. 
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 22:33:53 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Aumentan los taxis y peajes en la Ciudad: a partir de cuándo será y cuánto costarán]]></title>
+			<link>https://www.ambito.com/economia/taxis/cuando-aumentaran-nuevo-y-peajes-la-ciudad-buenos-aires-n5632949</link>
+			<guid>https://www.ambito.com/economia/taxis/cuando-aumentaran-nuevo-y-peajes-la-ciudad-buenos-aires-n5632949</guid>
+			<description><![CDATA[
+Ambos servicios tendrán subas en dos tramos que tendrán en cuenta el porcentaje de inflación que cerró el 2022 en 94,8% y la esperada para este 2023, que según el mercado estará al menos en números similares. 
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 21:55:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Gobierno suma financiamiento: Banco Centroamericano desembolsará u$s400 millones este año]]></title>
+			<link>https://www.ambito.com/economia/financiamiento/gobierno-suma-banco-centroamericano-desembolsara-us400-millones-este-ano-n5632827</link>
+			<guid>https://www.ambito.com/economia/financiamiento/gobierno-suma-banco-centroamericano-desembolsara-us400-millones-este-ano-n5632827</guid>
+			<description><![CDATA[
+El crédito se tratará en el directorio del organismo durante los próximos días. Se dividirá en dos cuotas de u$s200 millones, que se enviarán a lo largo de 2023.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 19:50:31 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Exportaciones 2023: tras el récord, buscan sumar empresas y abrir nuevos mercados]]></title>
+			<link>https://www.ambito.com/economia/exportaciones/2023-el-record-buscan-sumar-empresas-y-abrir-nuevos-mercados-n5632868</link>
+			<guid>https://www.ambito.com/economia/exportaciones/2023-el-record-buscan-sumar-empresas-y-abrir-nuevos-mercados-n5632868</guid>
+			<description><![CDATA[
+Las exportaciones fueron récord, aunque el superávit comercial se redujo a la mitad. En diálogo con Ámbito, Cecilia Todesca Bocco de Cancillería, explicó a qué se debió el pico que hubo también en importaciones, y dio sus proyecciones para 2023, en medio de la sequía.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 19:48:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Paritaria de Comercio: cómo quedan las escalas según la categoría, tras el nuevo acuerdo]]></title>
+			<link>https://www.ambito.com/economia/sindicato-comercio/paritaria-comercio-como-quedan-las-escalas-segun-la-categoria-el-nuevo-acuerdo-n5632333</link>
+			<guid>https://www.ambito.com/economia/sindicato-comercio/paritaria-comercio-como-quedan-las-escalas-segun-la-categoria-el-nuevo-acuerdo-n5632333</guid>
+			<description><![CDATA[
+Con el nuevo acuerdo, se eleva el piso salarial de $139.000 a $182.700 (incluido presentismo), lo que implica un aumento anual del 101%.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 18:33:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Bueno: la generación de energías renovables creció fuerte en 2022]]></title>
+			<link>https://www.ambito.com/economia/energias-renovables/bueno-la-generacion-crecio-fuerte-2022-n5632745</link>
+			<guid>https://www.ambito.com/economia/energias-renovables/bueno-la-generacion-crecio-fuerte-2022-n5632745</guid>
+			<description><![CDATA[
+La mayor producción también hizo aumentar su participación en el abastecimiento de la demanda. En el sector hay buenas perspectivas para este año.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 17:42:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Sergio Massa recibe a la Mesa de Enlace (foco en sequía y asistencia a productores)]]></title>
+			<link>https://www.ambito.com/economia/mesa-enlace/sergio-massa-recibe-la-foco-sequia-y-asistencia-productores-n5632701</link>
+			<guid>https://www.ambito.com/economia/mesa-enlace/sergio-massa-recibe-la-foco-sequia-y-asistencia-productores-n5632701</guid>
+			<description><![CDATA[
+El Gobierno busca establecer una agenda en conjunto para avanzar con medidas de asistencia a los afectados por la falta de precipitaciones. Créditos blandos y aportes no reintegrables, en carpeta.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 17:04:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Cifra de asalariados informales creció 13% en un año: son más de 5,2 millones]]></title>
+			<link>https://www.ambito.com/economia/trabajo/cifra-asalariados-informales-crecio-13-un-ano-son-mas-52-millones-n5632690</link>
+			<guid>https://www.ambito.com/economia/trabajo/cifra-asalariados-informales-crecio-13-un-ano-son-mas-52-millones-n5632690</guid>
+			<description><![CDATA[
+Los puestos de trabajo totales alcanzaron 21.499 miles en el tercer trimestre del 2022, lo que representó un incremento de
+5,8% respecto a igual trimestre de 2021, y se aceleró el incremento de los puestos de trabajo asalariados no registrados.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 16:54:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Recompra de bonos: este año vencen cupones por u$s3.666 millones y los pagos podrían reducirse]]></title>
+			<link>https://www.ambito.com/economia/bonos/recompra-este-ano-vencen-cupones-us3666-millones-y-los-pagos-podrian-reducirse-n5632652</link>
+			<guid>https://www.ambito.com/economia/bonos/recompra-este-ano-vencen-cupones-us3666-millones-y-los-pagos-podrian-reducirse-n5632652</guid>
+			<description><![CDATA[
+En el equipo económico piensan que se puede reducir en algo esos pagos dependiendo de la marcha de la operatoria anunciada por Sergio Massa. Algunos analistas creen que podría favorecer a la curva de pesos.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 16:02:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Exportaciones treparon al récord de u$s88.446 millones en 2022, pero superávit comercial se redujo a la mitad]]></title>
+			<link>https://www.ambito.com/economia/exportaciones/treparon-al-record-us88446-millones-2022-pero-superavit-comercial-se-redujo-la-mitad-n5632651</link>
+			<guid>https://www.ambito.com/economia/exportaciones/treparon-al-record-us88446-millones-2022-pero-superavit-comercial-se-redujo-la-mitad-n5632651</guid>
+			<description><![CDATA[
+Las ventas al exterior crecieron un 13,5% anual en 2022, pero el superávit comercial se redujo a u$s6.923 millones, un 53% menos frente a los u$s14.751 millones de todo 2021, informó el Instituto Nacional de Estadística y Censos (INDEC).
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 16:01:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Efecto de guerra entre Rusia y Ucrania: ¿cuántas empresas occidentales ya dejaron Moscú?]]></title>
+			<link>https://www.ambito.com/economia/rusia/efecto-guerra-y-ucrania-cuantas-empresas-occidentales-ya-dejaron-moscu-n5632666</link>
+			<guid>https://www.ambito.com/economia/rusia/efecto-guerra-y-ucrania-cuantas-empresas-occidentales-ya-dejaron-moscu-n5632666</guid>
+			<description><![CDATA[
+Según surge de la investigación, la mayoría de las empresas siguen teniendo filiales en Moscú.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 15:44:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Plazo fijo: ¿cuánto hay que invertir hoy para ganar $50.000 por mes?]]></title>
+			<link>https://www.ambito.com/economia/bcra/plazo-fijo-cuanto-hay-que-invertir-hoy-ganar-50000-mes-n5632591</link>
+			<guid>https://www.ambito.com/economia/bcra/plazo-fijo-cuanto-hay-que-invertir-hoy-ganar-50000-mes-n5632591</guid>
+			<description><![CDATA[
+El Banco Central mantiene su tasa de interés estable desde hace 4 meses. 
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 14:47:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Desempleo en Brasil cae a 8,1% y alcanza su menor nivel en siete años]]></title>
+			<link>https://www.ambito.com/economia/brasil/desempleo-cae-81-y-alcanza-su-menor-nivel-siete-anos-n5632511</link>
+			<guid>https://www.ambito.com/economia/brasil/desempleo-cae-81-y-alcanza-su-menor-nivel-siete-anos-n5632511</guid>
+			<description><![CDATA[
+Unas 8,7 millones de personas buscaban empleo entre septiembre y noviembre de 2022 en la mayor economía de América Latina, 3,7 millones menos que un año atrás, detalló el instituto nacional de estadísticas.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 14:39:55 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La actividad industrial creció 3,1% en noviembre 2022 y 7,3% anual]]></title>
+			<link>https://www.ambito.com/economia/actividad-industrial/la-crecio-31-noviembre-2022-y-73-anual-n5632505</link>
+			<guid>https://www.ambito.com/economia/actividad-industrial/la-crecio-31-noviembre-2022-y-73-anual-n5632505</guid>
+			<description><![CDATA[
+Siete de los doce sectores que componen el índice elaborado por el Centro de Estudios de la central fabril tuvieron subas interanuales en noviembre. 
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 14:39:26 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La construcción en EEUU cayó por primera vez en 13 años]]></title>
+			<link>https://www.ambito.com/economia/estados-unidos/la-construccion-eeuu-cayo-primera-vez-13-anos-n5632519</link>
+			<guid>https://www.ambito.com/economia/estados-unidos/la-construccion-eeuu-cayo-primera-vez-13-anos-n5632519</guid>
+			<description><![CDATA[
+El incremento de tasas de la Reserva Federal (Fed) generó una suba en los intereses de las hipotecas y terminó impactando en el mercado inmobiliario.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 14:39:12 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Soja y maíz: cuál es el deterioro que provocó la sequía en la actual campaña]]></title>
+			<link>https://www.ambito.com/economia/sequia/soja-y-maiz-cual-es-el-deterioro-que-provoco-la-la-actual-campana-n5632581</link>
+			<guid>https://www.ambito.com/economia/sequia/soja-y-maiz-cual-es-el-deterioro-que-provoco-la-la-actual-campana-n5632581</guid>
+			<description><![CDATA[
+Un informe detalló el estado en el que se encuentran los cultivos y cómo se prevé qué impacte en los niveles de producción.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 14:07:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Año Nuevo chino: qué se espera de la relación comercial entre el gigante asiático y Argentina para 2023]]></title>
+			<link>https://www.ambito.com/economia/china/ano-nuevo-chino-que-se-espera-la-relacion-comercial-el-gigante-asiatico-y-argentina-2023-n5632554</link>
+			<guid>https://www.ambito.com/economia/china/ano-nuevo-chino-que-se-espera-la-relacion-comercial-el-gigante-asiatico-y-argentina-2023-n5632554</guid>
+			<description><![CDATA[
+De acuerdo a un informe del centro de investigación Fundar, para lograr una integración sostenible entre Argentina y su segundo socio comercial es necesario  la necesidad de reformular la relación entre los países.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 14:05:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Tarjeta de crédito: 7 consejos para que no se te genere una bola de intereses]]></title>
+			<link>https://www.ambito.com/economia/tarjetas-credito/tarjeta-credito-7-consejos-que-no-se-te-genere-una-bola-intereses-n5632463</link>
+			<guid>https://www.ambito.com/economia/tarjetas-credito/tarjeta-credito-7-consejos-que-no-se-te-genere-una-bola-intereses-n5632463</guid>
+			<description><![CDATA[
+Las tasas de interés vigentes son altas. Por eso es recomendable que evites deudas con tus tarjetas de crédito. Conocé que recaudos podés tomar para evitar estos problemas.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 13:09:48 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[¿EEUU podría entrar en default?: el país no puede emitir deuda desde este jueves]]></title>
+			<link>https://www.ambito.com/economia/estados-unidos/eeuu-podria-entrar-default-el-pais-no-puede-emitir-deuda-este-jueves-n5632468</link>
+			<guid>https://www.ambito.com/economia/estados-unidos/eeuu-podria-entrar-default-el-pais-no-puede-emitir-deuda-este-jueves-n5632468</guid>
+			<description><![CDATA[
+El Tesoro de Estados Unidos dijo este jueves que comenzó a tomar "medidas extraordinarias" para seguir cumpliendo con sus obligaciones relativas a los vencimientos de su deuda al alcanzarse el límite de endeudamiento autorizado.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 13:09:26 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La CEPAL augura un año de "mucho estrés" para América Latina]]></title>
+			<link>https://www.ambito.com/economia/cepal/la-augura-un-ano-mucho-estres-america-latina-n5632352</link>
+			<guid>https://www.ambito.com/economia/cepal/la-augura-un-ano-mucho-estres-america-latina-n5632352</guid>
+			<description><![CDATA[
+"Hay un choque de deuda, un choque de tasas de interés, un choque inflacionario, el choque sanitario, el choque de las cadenas de valor. Y el choque del cambio climático a más largo plazo, que ahí está", dijo este costarricense que asumió el cargo en octubre.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 11:45:21 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El economista liberal que tuitea a favor de la inflación en el país]]></title>
+			<link>https://www.ambito.com/economia/argentina/el-economista-liberal-que-tuitea-favor-la-inflacion-el-pais-n5632363</link>
+			<guid>https://www.ambito.com/economia/argentina/el-economista-liberal-que-tuitea-favor-la-inflacion-el-pais-n5632363</guid>
+			<description><![CDATA[
+La inflación en Argentina suele ser un problema endémico y en 2022 llegó casi al 95%. Sin embargo, un dirigente libertario la evalúa como positiva para la economía nacional. 
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 11:29:26 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Recompra de bonos: cómo impacta en reservas del Banco Central, dólar y riesgo país]]></title>
+			<link>https://www.ambito.com/economia/ministerio-economia/recompra-bonos-como-impacta-reservas-del-banco-central-dolar-y-riesgo-pais-n5632328</link>
+			<guid>https://www.ambito.com/economia/ministerio-economia/recompra-bonos-como-impacta-reservas-del-banco-central-dolar-y-riesgo-pais-n5632328</guid>
+			<description><![CDATA[
+El Ministerio de Economía anunció que recomprara u$s1.000 millones de deuda. Este miércoles comenzó el proceso. ¿Qué efecto esperan los analistas en dólar, reservas del BCRA y riesgo país? 
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 10:51:48 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Importaciones: empresas desistieron de las medidas cautelas por hasta u$s2.6000 millones]]></title>
+			<link>https://www.ambito.com/economia/importaciones/empresas-desistieron-las-medidas-cautelas-us26000-millones-n5632301</link>
+			<guid>https://www.ambito.com/economia/importaciones/empresas-desistieron-las-medidas-cautelas-us26000-millones-n5632301</guid>
+			<description><![CDATA[
+El 60% de las cautelares estaba concentrado en 100 empresas, en su mayoría de los rubros textil y electrónico, detalló el último informe de la Aduana. 
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 10:21:37 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Impulso tambero: cómo inscribirse al programa de asistencia para productores]]></title>
+			<link>https://www.ambito.com/economia/ministerio-agricultura/impulso-tambero-como-inscribirse-al-programa-asistencia-productores-n5632293</link>
+			<guid>https://www.ambito.com/economia/ministerio-agricultura/impulso-tambero-como-inscribirse-al-programa-asistencia-productores-n5632293</guid>
+			<description><![CDATA[
+La Secretaría de Agricultura, Ganadería y Pesca aprobó el procedimiento de carga de información para los interesados en inscribirse al Programa "Impulso Tambero", dirigido a pequeños y medianos productores del sector afectados por la sequia.
+]]></description>
+			<pubDate>Thu, 19 Jan 2023 10:07:13 -0300</pubDate>
+		</item>
+
+	</channel></rss>

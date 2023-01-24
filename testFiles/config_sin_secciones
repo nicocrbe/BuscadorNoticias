@@ -1,0 +1,4 @@
+[DEFAULT]
+query_interval = 600
+tmp = ./temp
+output = ./salida

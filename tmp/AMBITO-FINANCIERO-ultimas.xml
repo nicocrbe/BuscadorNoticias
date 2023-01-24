@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>Ambito - Portada</title>
+		<description>Ambito</description>
+		<link>https://www.ambito.com</link>
+		<language>spa</language>
+		<lastBuildDate>Tue, 24 Jan 2023 18:41:18 -0300</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.dosalcubo.com</generator>
+		<copyright>Copyright (c) 2023</copyright>
+		<atom:link href="https://www.ambito.com/rss/home.xml" rel="self" type="application/rss+xml" />		<image>
+			<title>Ambito - Portada</title>
+			<url>https://www.ambito.com/css-custom/239/images/mtg_logo-239.svg</url>
+			<link>https://www.ambito.com</link>
+		</image>
+		<item>
+			<title><![CDATA[Lo Celso, a un paso de dejar atrás su dolorosa lesión y volver a jugar]]></title>
+			<link>https://www.ambito.com/deportes/giovani-lo-celso/lo-celso-un-paso-dejar-atras-su-dolorosa-lesion-y-volver-jugar-n5636102</link>
+			<guid>https://www.ambito.com/deportes/giovani-lo-celso/lo-celso-un-paso-dejar-atras-su-dolorosa-lesion-y-volver-jugar-n5636102</guid>
+			<description><![CDATA[
+El mediocampista volvió a hacer tareas de campo en Villareal. Hace poco más de dos meses sufrió un desprendimiento del bíceps femoral que lo marginó del Mundial de Qatar.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 17:51:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Dólares financieros: ¿lograrán controlarlos con las últimas subas de tasas del BCRA? ]]></title>
+			<link>https://www.ambito.com/finanzas/dolar/es-financieros-lograran-controlarlos-las-ultimas-subas-tasas-del-bcra-n5636021</link>
+			<guid>https://www.ambito.com/finanzas/dolar/es-financieros-lograran-controlarlos-las-ultimas-subas-tasas-del-bcra-n5636021</guid>
+			<description><![CDATA[
+Tras las últimas medidas del equipo económico, que apuntan a calmar la dinámica de los dólares financieros, el mercado analiza qué posibilidades de éxito tiene. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 16:58:51 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Zelenski y un fuerte reclamo al olimpismo: "Los atletas rusos no deberían estar en París"]]></title>
+			<link>https://www.ambito.com/deportes/volodimir-zelenski/zelenski-y-un-fuerte-reclamo-al-olimpismo-los-atletas-rusos-no-deberian-estar-paris-n5636036</link>
+			<guid>https://www.ambito.com/deportes/volodimir-zelenski/zelenski-y-un-fuerte-reclamo-al-olimpismo-los-atletas-rusos-no-deberian-estar-paris-n5636036</guid>
+			<description><![CDATA[
+El presidente de Ucrania le pedió a Macron que los deportistas de Rusia y Bielorrusia no compitan en los Juegos Olímpicos de 2024. Con la invasión, Moscú violó la tregua olímpica de invierno.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 16:56:33 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA["Persecusión" y "emboscada": Nicolás Maduro grabó un mensaje para la CELAC]]></title>
+			<link>https://www.ambito.com/politica/nicolas-maduro/persecusion-y-emboscada-grabo-un-mensaje-la-celac-n5636012</link>
+			<guid>https://www.ambito.com/politica/nicolas-maduro/persecusion-y-emboscada-grabo-un-mensaje-la-celac-n5636012</guid>
+			<description><![CDATA[
+Nicolás Maduro participó de la jornada inaugural de la Cumbre de la CELAC a partir de un video grabado donde justificó la cancelación de su viaje.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 16:37:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Dólar blue hoy: a cuánto cerró este martes 24 de enero]]></title>
+			<link>https://www.ambito.com/finanzas/dolar-blue/hoy-cuanto-cerro-este-martes-24-enero-n5636013</link>
+			<guid>https://www.ambito.com/finanzas/dolar-blue/hoy-cuanto-cerro-este-martes-24-enero-n5636013</guid>
+			<description><![CDATA[
+Mirá a cuánto cerró el dólar paralelo luego de frenar las siete subas consecutivas de la semana pasada.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 16:15:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Dólar hoy: a cuánto cerró este martes 24 de enero]]></title>
+			<link>https://www.ambito.com/finanzas/dolar/hoy-cuanto-cerro-este-martes-24-enero-n5636001</link>
+			<guid>https://www.ambito.com/finanzas/dolar/hoy-cuanto-cerro-este-martes-24-enero-n5636001</guid>
+			<description><![CDATA[
+Mirá a cuánto se vendió el dólar estadounidense, dólar blue, dólar ahorro, el dólar turista, dólar MEP, dólar CCL y dólar cripto en la Argentina.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 16:10:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Dólar hoy: a cuánto opera este martes 24 de enero]]></title>
+			<link>https://www.ambito.com/finanzas/dolar/hoy-cuanto-opera-este-martes-24-enero-n5635315</link>
+			<guid>https://www.ambito.com/finanzas/dolar/hoy-cuanto-opera-este-martes-24-enero-n5635315</guid>
+			<description><![CDATA[
+Mirá a cuánto se vendió el dólar estadounidense, dólar blue, dólar ahorro, el dólar turista, dólar MEP, dólar CCL y dólar cripto en la Argentina.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 16:10:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Boca: Ibarra paró un equipo sin los siete jugadores suspendidos para el debut]]></title>
+			<link>https://www.ambito.com/deportes/hugo-ibarra/boca-ibarra-paro-un-equipo-los-siete-jugadores-suspendidos-el-debut-n5635946</link>
+			<guid>https://www.ambito.com/deportes/hugo-ibarra/boca-ibarra-paro-un-equipo-los-siete-jugadores-suspendidos-el-debut-n5635946</guid>
+			<description><![CDATA[
+El director técnico de Boca paró en el entrenamiento de esta mañana un equipo sin los 7 jugadores suspendidos, a la espera que se defina por sí o por no la amnistía que podrá dar la AFA.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 15:38:11 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El mundialista Tello estará en Central Córdoba- River y Baliño en Boca- Atlético Tucumán]]></title>
+			<link>https://www.ambito.com/deportes/balino/el-mundialista-tello-estara-central-cordoba-river-y-boca-atletico-tucuman-n5635909</link>
+			<guid>https://www.ambito.com/deportes/balino/el-mundialista-tello-estara-central-cordoba-river-y-boca-atletico-tucuman-n5635909</guid>
+			<description><![CDATA[
+La Liga Profesional de Fútbol informó hoy los equipos arbitrales para la jornada inaugural del torneo 2023 sin la presencia de Fernando Rapallini en ninguno de los 14 partidos.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 14:52:11 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[México rechazó la propuesta de una moneda regional]]></title>
+			<link>https://www.ambito.com/economia/andres-manuel-lopez-obrador/mexico-rechazo-la-propuesta-una-moneda-regional-n5635897</link>
+			<guid>https://www.ambito.com/economia/andres-manuel-lopez-obrador/mexico-rechazo-la-propuesta-una-moneda-regional-n5635897</guid>
+			<description><![CDATA[
+También defendió la decisión de Nicolás Maduro de no viajar a la cumbre de la CELAC y criticó a la oposición argentina: "Los mismos que endeudaron a Argentina, que empobrecieron al pueblo, son los paladines de la libertad y de la democracia". 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 14:48:21 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Chelsea vuelve a la carga por Enzo Fernández: ¿pagará la cláusula de €120 millones?]]></title>
+			<link>https://www.ambito.com/deportes/enzo-fernandez/chelsea-vuelve-la-carga-pagara-la-clausula-120-millones-n5635885</link>
+			<guid>https://www.ambito.com/deportes/enzo-fernandez/chelsea-vuelve-la-carga-pagara-la-clausula-120-millones-n5635885</guid>
+			<description><![CDATA[
+El conjunto londinense de la Premier League volverá a la carga por el futbolista campeón del mundo sobre el cierre del libro de pases europeo. A pesar del ofrecimiento que fue rechazo hace unas semanas, harán un nuevo intento. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 14:35:50 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Con cuotas y quita de intereses: últimos días para regularizar deudas en AGIP]]></title>
+			<link>https://www.ambito.com/economia/impuesto/con-cuotas-y-quita-intereses-ultimos-dias-regularizar-deudasen-agip-n5635855</link>
+			<guid>https://www.ambito.com/economia/impuesto/con-cuotas-y-quita-intereses-ultimos-dias-regularizar-deudasen-agip-n5635855</guid>
+			<description><![CDATA[
+El plazo vence el martes 31 de enero. Alcanzan a todos los impuestos e incluyen deudas administrativas y judiciales.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 14:23:45 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alerta de AFIP: así es la nueva estafa por mail y redes sociales]]></title>
+			<link>https://www.ambito.com/economia/afip/alerta-asi-es-la-nueva-estafa-mail-y-redes-sociales-n5635875</link>
+			<guid>https://www.ambito.com/economia/afip/alerta-asi-es-la-nueva-estafa-mail-y-redes-sociales-n5635875</guid>
+			<description><![CDATA[
+La Administración Federal de Ingresos Públicos anunció que hay un nuevo mail que circula solicitando información que el organismo propiamente no pide. Conocé cuál es. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 14:14:02 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Messi ganó el único premio que le faltaba: se quedó con un Martín Fierro]]></title>
+			<link>https://www.ambito.com/deportes/lionel-messi/messi-gano-el-unico-premio-que-le-faltaba-se-quedo-un-martin-fierro-n5635818</link>
+			<guid>https://www.ambito.com/deportes/lionel-messi/messi-gano-el-unico-premio-que-le-faltaba-se-quedo-un-martin-fierro-n5635818</guid>
+			<description><![CDATA[
+El capitán de la selección argentina obtuvo un galardón inédito en su carrera por realizar la frase más popular del Mundial de Qatar 2022.  
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 14:04:53 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Otro gesto de Alberto a Lula: otorgó el placet al nuevo embajador de Brasil en Argentina]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/otro-gesto-alberto-lula-otorgo-el-placet-al-nuevo-embajador-brasil-argentina-n5635840</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/otro-gesto-alberto-lula-otorgo-el-placet-al-nuevo-embajador-brasil-argentina-n5635840</guid>
+			<description><![CDATA[
+Brasil hizo oficial la designación del nuevo embajador en Buenos Aires. Ante las especulaciones de la llegada de Dila Rousseff al cargo, finalmente el presidente Lula se inclinó por un diplomático de carrera. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 14:04:44 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Ranking de CEOs: los más valorados y los que escalan más puestos]]></title>
+			<link>https://www.ambito.com/negocios/ceos/ranking-los-mas-valorados-y-los-que-escalan-mas-puestos-n5635836</link>
+			<guid>https://www.ambito.com/negocios/ceos/ranking-los-mas-valorados-y-los-que-escalan-mas-puestos-n5635836</guid>
+			<description><![CDATA[
+Conocé a qué empresas pertenecen y por qué llegaron a ocupar estos lugares. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 14:01:43 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Marcelo Bielsa no tiene interés en dirigir al Everton y continúa sin club]]></title>
+			<link>https://www.ambito.com/deportes/marcelo-bielsa/no-tiene-interes-dirigir-al-everton-y-continua-club-n5635788</link>
+			<guid>https://www.ambito.com/deportes/marcelo-bielsa/no-tiene-interes-dirigir-al-everton-y-continua-club-n5635788</guid>
+			<description><![CDATA[
+El Daily Mail señala que a Bielsa, quien en su último trabajo fue director técnico del Leeds United en la Premier, no lo entusiasma hacerse cargo del Everton ya que no lo considera una buena elección en su carrera.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 13:11:19 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Inmuebles: la compraventa subió 17,1% en 2022, el mejor número desde 2018]]></title>
+			<link>https://www.ambito.com/economia/inmuebles/la-compraventa-subio-171-2022-el-mejor-numero-2018-n5635751</link>
+			<guid>https://www.ambito.com/economia/inmuebles/la-compraventa-subio-171-2022-el-mejor-numero-2018-n5635751</guid>
+			<description><![CDATA[
+La compraventa de inmuebles en la Ciudad de Buenos Aires totalizó en diciembre 4.253 operaciones, con un incremento del 25,7%. Para el sector, el mercado comenzó su recuperación desde la pandemia. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 13:10:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Nueve de cada diez paritarias acordadas a fines de 2022 le ganaron a la inflación]]></title>
+			<link>https://www.ambito.com/economia/paritarias/nueve-cada-diez-acordadas-fines-2022-le-ganaron-la-inflacion-n5635742</link>
+			<guid>https://www.ambito.com/economia/paritarias/nueve-cada-diez-acordadas-fines-2022-le-ganaron-la-inflacion-n5635742</guid>
+			<description><![CDATA[
+Camioneros fue el gremio que más perdió contra la inflación. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 13:02:11 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Paolo Guerrero llegó al país y habló como jugador de Racing por primera vez]]></title>
+			<link>https://www.ambito.com/deportes/paolo-guerrero/llego-al-pais-y-hablo-como-jugador-racing-primera-vez-n5635722</link>
+			<guid>https://www.ambito.com/deportes/paolo-guerrero/llego-al-pais-y-hablo-como-jugador-racing-primera-vez-n5635722</guid>
+			<description><![CDATA[
+El delantero peruano Paolo Guerrero llegó hoy a la Argentina para sumarse a Racing y en su arribo remarcó que "el objetivo más grande es la Copa Libertadores".
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 11:55:57 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Dani Alves contrata un abogado que trabajó con Messi en Barcelona]]></title>
+			<link>https://www.ambito.com/informacion-general/dani-alves/contrata-un-abogado-que-trabajo-messi-barcelona-n5635702</link>
+			<guid>https://www.ambito.com/informacion-general/dani-alves/contrata-un-abogado-que-trabajo-messi-barcelona-n5635702</guid>
+			<description><![CDATA[
+La nueva defensa apelará y pedirá la excarcelación del futbolista, de 39 años, que está detenido desde el pasado viernes sin la posibilidad de salir bajo fianza.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 11:53:23 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[EEUU: Biden presenta proyecto para prohibir armas por los tiroteos]]></title>
+			<link>https://www.ambito.com/estados-unidos/eeuu-biden-presenta-proyecto-prohibir-armas-los-tiroteos-n5635710</link>
+			<guid>https://www.ambito.com/estados-unidos/eeuu-biden-presenta-proyecto-prohibir-armas-los-tiroteos-n5635710</guid>
+			<description><![CDATA[
+El presidente de Estados Unidos busca ampliar la edad mínima a 21 para la compra de armas después de varios tiroteos consecutivos en distintos puntos del país.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 11:52:21 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La Selección en Argentina: se confirmó el estadio donde jugarán]]></title>
+			<link>https://www.ambito.com/deportes/seleccion-argentina/la-se-confirmo-el-estadio-donde-jugaran-n5635645</link>
+			<guid>https://www.ambito.com/deportes/seleccion-argentina/la-se-confirmo-el-estadio-donde-jugaran-n5635645</guid>
+			<description><![CDATA[
+Este martes se confirmó que la AFA organizará dos partidos amistosos en el país para que el público se reencuentre con sus campeones del mundo. Será en un estadio histórico para la selección argentina, dentro de unas semanas.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 10:56:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Scaloni y el liderazgo de Messi: "Lo que transmite no lo vi nunca, en ninguna persona"]]></title>
+			<link>https://www.ambito.com/deportes/scaloni/y-el-liderazgo-messi-lo-que-transmite-no-lo-vi-nunca-ninguna-persona-n5635632</link>
+			<guid>https://www.ambito.com/deportes/scaloni/y-el-liderazgo-messi-lo-que-transmite-no-lo-vi-nunca-ninguna-persona-n5635632</guid>
+			<description><![CDATA[
+En una entrevista realizada en España por Jorge Valdano, campeón del Mundo con la "albiceleste" en México 1986, el entrenador argentino destacó el liderazgo de Messi y se volvió a ilusionar con la posibilidad de que juegue el próximo Mundial.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 10:30:41 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Importaciones con Brasil: empresarios ópticos advierten que podría perjudicar la industria local]]></title>
+			<link>https://www.ambito.com/economia/importaciones/brasil-empresarios-opticos-advierten-que-podria-perjudicar-la-industria-local-n5635620</link>
+			<guid>https://www.ambito.com/economia/importaciones/brasil-empresarios-opticos-advierten-que-podria-perjudicar-la-industria-local-n5635620</guid>
+			<description><![CDATA[
+La Cámara Argentina de la Industria Óptica y Afines (CADIOA) advirtió este martes que la línea de financiamiento de importaciones entre el Banco Nación y el Banco do Brasil podría ocasionar distorsiones competitivas. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 10:29:16 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La fuerte autocrítica de Mascherano tras la derrota del Sub-20 ante Brasil]]></title>
+			<link>https://www.ambito.com/deportes/javier-mascherano/la-fuerte-autocritica-mascherano-la-derrota-del-sub-20-brasil-n5635604</link>
+			<guid>https://www.ambito.com/deportes/javier-mascherano/la-fuerte-autocritica-mascherano-la-derrota-del-sub-20-brasil-n5635604</guid>
+			<description><![CDATA[
+El director técnico de la selección argentina juvenil manifestó toda su decepción tras la dura derrota ante Brasil. El equipo quedó al borde de la eliminación del Sudamericano y está obligado a ganar los próximos dos partidos.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 10:29:02 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Calendario electoral 2023: cuándo se vota para presidente en la Argentina]]></title>
+			<link>https://www.ambito.com/politica/elecciones-2023/calendario-electoral-2023-cuando-se-vota-presidente-la-argentina-n5635610</link>
+			<guid>https://www.ambito.com/politica/elecciones-2023/calendario-electoral-2023-cuando-se-vota-presidente-la-argentina-n5635610</guid>
+			<description><![CDATA[
+La Cámara Nacional Electoral aún no definió el calendario electoral para este año. Sin embargo, hay fechas que ya están previstas en la ley. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 10:17:51 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[AFIP lanzó un nuevo régimen de facilidades para el pago de deudas impositivas]]></title>
+			<link>https://www.ambito.com/economia/afip/lanzo-un-nuevo-regimen-facilidades-el-pago-deudas-impositivas-n5635593</link>
+			<guid>https://www.ambito.com/economia/afip/lanzo-un-nuevo-regimen-facilidades-el-pago-deudas-impositivas-n5635593</guid>
+			<description><![CDATA[
+La AFIP estableció un nuevo régimen de facilidades de pago de carácter permanente destinado a la regularización de deudas impositivas y de los recursos de la seguridad social. A quiénes alcanza. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 10:03:14 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Histórico: mostraron por primera vez la tarjeta blanca en un partido de fútbol]]></title>
+			<link>https://www.ambito.com/deportes/portugal/historico-mostraron-primera-vez-la-tarjeta-blanca-un-partido-futbol-n5635521</link>
+			<guid>https://www.ambito.com/deportes/portugal/historico-mostraron-primera-vez-la-tarjeta-blanca-un-partido-futbol-n5635521</guid>
+			<description><![CDATA[
+Ocurrió en un partido de fútbol femenino de la liga de Portugal. Qué significa.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 09:47:43 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Gareth Bale cambia de bando: jugará en febrero un torneo del PGA Tour de golf]]></title>
+			<link>https://www.ambito.com/deportes/golf/gareth-bale-cambia-bando-jugara-febrero-un-torneo-del-pga-tour-n5635550</link>
+			<guid>https://www.ambito.com/deportes/golf/gareth-bale-cambia-bando-jugara-febrero-un-torneo-del-pga-tour-n5635550</guid>
+			<description><![CDATA[
+Tras la eliminación del seleccionado de Gales en Qatar 2022 en la fase de grupos, Bale le puso punto final a su destacada carrera como futbolista, en la cual con el Real Madrid ganó cinco Champions League.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 09:47:41 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Inflación 2023: proyectan 70% para los próximos 12 meses ]]></title>
+			<link>https://www.ambito.com/economia/inflacion/2023-proyectan-70-los-proximos-12-meses-n5635574</link>
+			<guid>https://www.ambito.com/economia/inflacion/2023-proyectan-70-los-proximos-12-meses-n5635574</guid>
+			<description><![CDATA[
+El resultado de enero es levemente más alto que el de diciembre, donde la inflación esperada había registrado un valor de 69,6%. Este dato está 10 puntos por encima de la estimación del Gobierno para este año. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 09:42:04 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Bullrich y Macri juntos en el sur: de qué hablaron en su cónclave]]></title>
+			<link>https://www.ambito.com/politica/patricia-bullrich/bullrich-y-macri-juntos-el-sur-que-hablaron-su-conclave-n5635524</link>
+			<guid>https://www.ambito.com/politica/patricia-bullrich/bullrich-y-macri-juntos-el-sur-que-hablaron-su-conclave-n5635524</guid>
+			<description><![CDATA[
+La presidenta del PRO, Patricia Bullrich, reveló de qué hablaron con Mauricio Macri, en un encuentro cara a cara que tuvieron en Cumelén. La oposición busca cerrar filas pensando en las elecciones.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 09:08:09 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Espert, a favor de eliminar la moneda, pero en contra de dolarizar]]></title>
+			<link>https://www.ambito.com/economia/jose-luis-espert/espert-favor-eliminar-la-moneda-pero-contra-dolarizar-n5635526</link>
+			<guid>https://www.ambito.com/economia/jose-luis-espert/espert-favor-eliminar-la-moneda-pero-contra-dolarizar-n5635526</guid>
+			<description><![CDATA[
+"Si hay que eliminar la moneda se elimina", dijo en referencia a la propuesta de los gobiernos de Brasil y Argentina de desarrollar una moneda común para motivar el intercambio comercial, aunque analizan proponerla para que adhieran los demás miembros del Mercosur. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 09:08:07 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Acuerdo con Brasil: cómo será el mecanismo para financiar importaciones a 366 días]]></title>
+			<link>https://www.ambito.com/economia/importaciones/acuerdo-brasil-como-sera-el-mecanismo-financiar-366-dias-n5635493</link>
+			<guid>https://www.ambito.com/economia/importaciones/acuerdo-brasil-como-sera-el-mecanismo-financiar-366-dias-n5635493</guid>
+			<description><![CDATA[
+Tras el anuncio de los ministros de Economía, Sergio Massa y Fernando Haddad, Ámbito accedió a los detalles del proyecto. Cómo será el financiamiento de las exportaciones y el nuevo sistema
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 08:44:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Denuncian al barrionuevismo por despidos masivos en gremio de vigiladores]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/denuncian-al-barrionuevismo-despidos-masivos-gremio-vigiladores-n5635371</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/denuncian-al-barrionuevismo-despidos-masivos-gremio-vigiladores-n5635371</guid>
+			<description><![CDATA[
+En septiembre, y con la firma de Alberto Fernández, el jefe de los gastronómicos puso a un hombre de confianza como interventor de la obra social Ospsip. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 21:52:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Evo Morales se reunió con Cristina Kirchner y acompañó el lanzamiento de la CELAC Social]]></title>
+			<link>https://www.ambito.com/politica/evo-morales/se-reunio-cristina-kirchner-y-acompano-el-lanzamiento-la-celac-social-n5635340</link>
+			<guid>https://www.ambito.com/politica/evo-morales/se-reunio-cristina-kirchner-y-acompano-el-lanzamiento-la-celac-social-n5635340</guid>
+			<description><![CDATA[
+El exmandatario visitó a la vicepresidenta en el Senado y dialogaron sobre la actualidad de América Latina. Más temprano, participó de la inauguración del espacio integrado por organizaciones sociales, sindicales y políticas. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 21:37:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Agenda nuclear: integración con Brasil, cinco centrales y una inversión de u$s1000 millones]]></title>
+			<link>https://www.ambito.com/economia/nuclear/agenda-integracion-brasil-cinco-centrales-y-una-inversion-us1000-millones-n5635276</link>
+			<guid>https://www.ambito.com/economia/nuclear/agenda-integracion-brasil-cinco-centrales-y-una-inversion-us1000-millones-n5635276</guid>
+			<description><![CDATA[
+El Gobierno aspira a duplicar la provisión nuclear en la matriz energética, por lo que requerirá sumar más centrales. En qué estado está el proyecto acordado hace un año con China y cuándo estará listo el reactor Carem. Diálogo con Adriana Serquis, presidenta de la CNEA.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 21:13:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alberto Fernández y Lula da Silva se reunieron con referentes de los DDHH]]></title>
+			<link>https://www.ambito.com/politica/ddhh/alberto-fernandez-y-lula-da-silva-se-reunieron-referentes-los-n5635323</link>
+			<guid>https://www.ambito.com/politica/ddhh/alberto-fernandez-y-lula-da-silva-se-reunieron-referentes-los-n5635323</guid>
+			<description><![CDATA[
+El encuentro tuvo lugar en la Casa Rosada. Entre los presentes estuvieron la titular de Abuelas de Plaza de Mayo, Estela de Carlotto, y el Premio Nobel de la Paz, Adolfo Pérez Esquivel. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 20:42:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alberto Fernández y Lula da Silva relanzaron vínculo comercial en encuentro con 300 empresarios de Brasil y Argentina]]></title>
+			<link>https://www.ambito.com/politica/lula/alberto-fernandez-y-da-silva-relanzaron-vinculo-comercial-encuentro-300-empresarios-brasil-y-argentina-n5635268</link>
+			<guid>https://www.ambito.com/politica/lula/alberto-fernandez-y-da-silva-relanzaron-vinculo-comercial-encuentro-300-empresarios-brasil-y-argentina-n5635268</guid>
+			<description><![CDATA[
+El presidente argentino y su par brasileño destacaron la importancia de fortalecer la relación entre ambos países. "Tanto Lula como yo estamos convencidos de que Brasil y Argentina son dos pueblos que han de estar indisolublemente unidos", dijo Fernández. En la actividad participaron representantes de grandes empresas, pymes, cámaras empresarias y sindicatos. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 19:15:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La reacción de la oposición ante la decisión de Maduro de no viajar a la Cumbre de la CELAC]]></title>
+			<link>https://www.ambito.com/politica/nicolas-maduro/la-reaccion-la-oposicion-la-decision-maduro-no-viajar-la-cumbredelacelac-n5635189</link>
+			<guid>https://www.ambito.com/politica/nicolas-maduro/la-reaccion-la-oposicion-la-decision-maduro-no-viajar-la-cumbredelacelac-n5635189</guid>
+			<description><![CDATA[
+El gobierno de Venezuela anunció esta tarde que finalmente Nicolás Maduro no viajará a Argentina y la oposición reaccionó a la noticia en las redes sociales. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 18:49:35 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Lula habló sobre las elecciones en Argentina: "No permitan que la extrema derecha gane"]]></title>
+			<link>https://www.ambito.com/mundo/lula/hablo-las-elecciones-argentina-no-permitan-que-la-extrema-derecha-gane-n5635223</link>
+			<guid>https://www.ambito.com/mundo/lula/hablo-las-elecciones-argentina-no-permitan-que-la-extrema-derecha-gane-n5635223</guid>
+			<description><![CDATA[
+El presidente de Brasil brindó su parecer sobre los comicios presidenciales que se desarrollarán este año. "La extrema derecha no funcionó en ningún país que gobernó", dijo y pidió al pueblo argentino que "no permita un desastre aquí a nivel electoral". 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 18:25:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Soja y divisas: las lluvias llevaron alivio al campo, pero hicieron bajar los precios en Chicago]]></title>
+			<link>https://www.ambito.com/economia/soja/y-divisas-las-lluvias-llevaron-alivio-al-campo-pero-hicieron-bajar-los-precios-chicago-n5635176</link>
+			<guid>https://www.ambito.com/economia/soja/y-divisas-las-lluvias-llevaron-alivio-al-campo-pero-hicieron-bajar-los-precios-chicago-n5635176</guid>
+			<description><![CDATA[
+La oleaginosa perdió más del 1% y acumuló su cuarta rueda negativa tras cerrar a u$s547,6 por tonelada. Se esperan más precipitaciones en los próximos días que podrían atenuar las pérdidas productivas.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 17:55:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Moneda común de Argentina y Brasil: qué dijeron Alberto Fernández y Lula da Silva]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/moneda-comun-argentina-y-brasil-que-dijeron-y-lula-da-silva-n5634982</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/moneda-comun-argentina-y-brasil-que-dijeron-y-lula-da-silva-n5634982</guid>
+			<description><![CDATA[
+Los dos mandatarios hablaron sobre el proyecto de moneda común que los equipos económicos de Argentina y Brasil están evaluando. Qué dijeron sobre la iniciativa y cuáles son las condiciones para lograr el acuerdo.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 14:32:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Mercados anticipan una "brisa de cola" en favor de Argentina en 2023]]></title>
+			<link>https://www.ambito.com/economia/mercados/anticipan-una-brisa-cola-favor-argentina-2023-n5634996</link>
+			<guid>https://www.ambito.com/economia/mercados/anticipan-una-brisa-cola-favor-argentina-2023-n5634996</guid>
+			<description><![CDATA[
+La mayoría de los referentes de las finanzas internacionales esperan que este año la FED baje las tasa de interés, debido a la menor inflación norteamericana. Eso impulsaría los precios de los commodities.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 14:32:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El Banco Central subió la tasa de pases pasivos para los Fondos Comunes de Inversión]]></title>
+			<link>https://www.ambito.com/finanzas/bcra/el-banco-central-subio-la-tasa-pases-pasivos-los-fondos-comunes-inversion-n5634779</link>
+			<guid>https://www.ambito.com/finanzas/bcra/el-banco-central-subio-la-tasa-pases-pasivos-los-fondos-comunes-inversion-n5634779</guid>
+			<description><![CDATA[
+El Banco Central actualizó la tasa de pases pasivo que aplica a los Fondos Comunes de Inversión. ¿En cuánto lo hizo y cómo queda desde ahora?
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 11:30:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Las 10 mejores series de crimen y suspenso para ver en Netflix y Amazon]]></title>
+			<link>https://www.ambito.com/lifestyle/netflix/las-10-mejores-series-crimen-y-suspenso-ver-y-amazon-n5137297</link>
+			<guid>https://www.ambito.com/lifestyle/netflix/las-10-mejores-series-crimen-y-suspenso-ver-y-amazon-n5137297</guid>
+			<description><![CDATA[
+En esta oportunidad recomendamos 10 series de crimen y suspenso disponibles de Netflix y Amazon que te mantendrán atrapado a la pantalla. 
+]]></description>
+			<pubDate>Fri, 15 Jan 2021 18:26:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Omega 3: ¿Qué alimentos hacen un aporte real a la salud?]]></title>
+			<link>https://www.ambito.com/lifestyle/alimentos/omega-3-que-hacen-un-aporte-real-la-salud-n5137518</link>
+			<guid>https://www.ambito.com/lifestyle/alimentos/omega-3-que-hacen-un-aporte-real-la-salud-n5137518</guid>
+			<description><![CDATA[
+Es importante asegurarse de que el producto elegido contenga los ácidos grasos poliinsaturados omega 3 EPA y DHA, avalados y certificados por la comunidad científica como los más importantes y efectivos para nuestra salud.
+]]></description>
+			<pubDate>Sat, 03 Oct 2020 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Estudio advierte sobre los riesgos de consumir café antes de desayunar]]></title>
+			<link>https://www.ambito.com/lifestyle/ciencia/estudio-advierte-los-riesgos-consumir-cafe-antes-desayunar-n5137415</link>
+			<guid>https://www.ambito.com/lifestyle/ciencia/estudio-advierte-los-riesgos-consumir-cafe-antes-desayunar-n5137415</guid>
+			<description><![CDATA[
+Científicos de la Universidad de Bath observaron que este hábito impacta de lleno con los niveles de azúcar en sangre. ¿Qué recomiendan?
+]]></description>
+			<pubDate>Fri, 02 Oct 2020 09:37:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Todos los estrenos de Amazon Prime Video para octubre]]></title>
+			<link>https://www.ambito.com/lifestyle/amazon/todos-los-estrenos-prime-video-octubre-n5137244</link>
+			<guid>https://www.ambito.com/lifestyle/amazon/todos-los-estrenos-prime-video-octubre-n5137244</guid>
+			<description><![CDATA[
+Amazon compartió la lista de películas y series que se agregarán a su plataforma Prime Video durante este mes, con el terror siendo el protagonista de muchas.
+]]></description>
+			<pubDate>Thu, 01 Oct 2020 16:48:00 -0300</pubDate>
+		</item>
+
+	</channel></rss>

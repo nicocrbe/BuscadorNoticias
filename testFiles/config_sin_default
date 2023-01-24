@@ -1,0 +1,44 @@
+
+query_interval = 600
+tmp = ./temp
+output = ./salida
+
+[TELAM]
+url_base = https://www.telam.com.ar
+ultimas = /rss2/ultimasnoticias.xml
+politica = /rss2/politica.xml
+economia = /rss2/economia.xml
+sociedad = /rss2/sociedad.xml
+internacionales = /rss2/internacional.xml
+
+[CLARIN]
+url_base = https://www.clarin.com/
+ultimas = /rss/lo-ultimo/
+politica = /rss/politica/
+economia = /rss/economia/
+sociedad = /rss/sociedad/
+internacionales = /rss/mundo/
+
+[LA-VOZ]
+url_base = https://www.lavoz.com.ar/
+ultimas = /rss/rss.xml
+politica = /rss/politica.xml
+economia = /rss/negocios.xml
+sociedad = /rss/sucesos.xml
+internacionales = /rss/mundo.xml
+
+[AMBITO-FINANCIERO]
+url_base = https://www.ambito.com
+ultimas = /rss/home.xml
+politica = /rss/politica.xml
+economia = /rss/economia.xml
+sociedad = /rss/informacion-general.xml
+internacionales = /rss/mundo.xml
+
+[PERFIL]
+url_base = https://www.perfil.com
+ultimas = /rss/ultimo-momento
+politica = /rss/politica
+economia = /rss/economia
+sociedad = /rss/sociedad
+internacionales = /rss/internacional

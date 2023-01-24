@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>Ambito - Política</title>
+		<description>Ambito</description>
+		<link>https://www.ambito.com</link>
+		<language>spa</language>
+		<lastBuildDate>Tue, 24 Jan 2023 18:41:38 -0300</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.dosalcubo.com</generator>
+		<copyright>Copyright (c) 2023</copyright>
+		<atom:link href="https://www.ambito.com/rss/politica.xml" rel="self" type="application/rss+xml" />		<image>
+			<title>Ambito - Política</title>
+			<url>https://www.ambito.com/css-custom/239/images/mtg_logo-239.svg</url>
+			<link>https://www.ambito.com</link>
+		</image>
+		<item>
+			<title><![CDATA[Cumbre de la CELAC EN VIVO: Alberto Fernández recibe a presidentes de la región]]></title>
+			<link>https://www.ambito.com/politica/celac/cumbre-la-vivo-alberto-fernandez-recibe-presidentes-la-region-n5635567</link>
+			<guid>https://www.ambito.com/politica/celac/cumbre-la-vivo-alberto-fernandez-recibe-presidentes-la-region-n5635567</guid>
+			<description><![CDATA[
+La reunión entre mandatarios latinoamericanos y caribeños tendrá a Argentina como sede por primera vez en su historia. Presencias, ausencias y polémicas rodean el clima en la previa. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 18:15:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA["Persecusión" y "emboscada": Nicolás Maduro grabó un mensaje para la CELAC]]></title>
+			<link>https://www.ambito.com/politica/nicolas-maduro/persecusion-y-emboscada-grabo-un-mensaje-la-celac-n5636012</link>
+			<guid>https://www.ambito.com/politica/nicolas-maduro/persecusion-y-emboscada-grabo-un-mensaje-la-celac-n5636012</guid>
+			<description><![CDATA[
+Nicolás Maduro participó de la jornada inaugural de la Cumbre de la CELAC a partir de un video grabado donde justificó la cancelación de su viaje.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 16:37:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Aníbal Fernández firmó un acuerdo de cooperación con la Policía Federal de Brasil ]]></title>
+			<link>https://www.ambito.com/politica/anibal-fernandez/firmo-un-acuerdo-cooperacion-la-policia-federal-brasil-n5636000</link>
+			<guid>https://www.ambito.com/politica/anibal-fernandez/firmo-un-acuerdo-cooperacion-la-policia-federal-brasil-n5636000</guid>
+			<description><![CDATA[
+El ministro de Seguridad de la Nación se reunió con el director general de la Policía Federal de Brasil, Andrei Augusto Passos Rodrigues y firmaron un convenio para promover la "amplia cooperación y asistencia recíproca en la prevención y abordaje de actividades ilícitas, especialmente transnacionales". 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 16:08:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Rodríguez Larreta anunció espacios verdes: cuándo y dónde serán las obras]]></title>
+			<link>https://www.ambito.com/politica/horacio-rodriguez-larreta/rodriguez-larreta-anuncio-espacios-verdes-cuando-y-donde-seran-las-obras-n5635689</link>
+			<guid>https://www.ambito.com/politica/horacio-rodriguez-larreta/rodriguez-larreta-anuncio-espacios-verdes-cuando-y-donde-seran-las-obras-n5635689</guid>
+			<description><![CDATA[
+Sobre las obras en Ciudad de Buenos Aires, Horacio Rodríguez Larreta confirmó la creación de "más de 65 manzanas de verde". Entre los proyectos, se mencionó Costa Urbana
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 14:05:01 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Otro gesto de Alberto a Lula: otorgó el placet al nuevo embajador de Brasil en Argentina]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/otro-gesto-alberto-lula-otorgo-el-placet-al-nuevo-embajador-brasil-argentina-n5635840</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/otro-gesto-alberto-lula-otorgo-el-placet-al-nuevo-embajador-brasil-argentina-n5635840</guid>
+			<description><![CDATA[
+Brasil hizo oficial la designación del nuevo embajador en Buenos Aires. Ante las especulaciones de la llegada de Dila Rousseff al cargo, finalmente el presidente Lula se inclinó por un diplomático de carrera. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 14:04:44 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Elecciones 2023: el Gobierno pagó $942 millones para la impresión de padrones electorales]]></title>
+			<link>https://www.ambito.com/politica/elecciones-2023/el-gobierno-pago-942-millones-la-impresion-padrones-electorales-n5635815</link>
+			<guid>https://www.ambito.com/politica/elecciones-2023/el-gobierno-pago-942-millones-la-impresion-padrones-electorales-n5635815</guid>
+			<description><![CDATA[
+Mediante la Decisión Administrativa 51/2023, el Gobierno autorizó la contratación directa de servicios, entre ellos la impresión de padrones electorales y fajas de seguridad.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 13:20:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alberto Fernández en CELAC: cuáles fueron las claves del discurso de apertura]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/celac-cuales-fueron-las-claves-del-discurso-apertura-n5635731</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/celac-cuales-fueron-las-claves-del-discurso-apertura-n5635731</guid>
+			<description><![CDATA[
+El Presidente brindó su discurso de apertura ante los jefes de Estado y representantes de las 33 naciones que participan de la cumbre de CELAC. Cuáles fueron los ejes de la presentación y el rol de Argentina en la presidencia pro témpore del organismo.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 12:09:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El detalle cinéfilo del despacho de Cristina Kirchner]]></title>
+			<link>https://www.ambito.com/politica/cristina-fernandez-kirchner/el-detalle-cinefilo-del-despacho-cristina-kirchner-n5635538</link>
+			<guid>https://www.ambito.com/politica/cristina-fernandez-kirchner/el-detalle-cinefilo-del-despacho-cristina-kirchner-n5635538</guid>
+			<description><![CDATA[
+La Vicepresidenta subió un video en sus redes sociales donde habló del encuentro que mantuvo con la presidenta de Honduras, Xiomara Castro. En las imágenes, aparece un detalle en el despacho de Cristina en el Senado que llamó la atención y se viralizó.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 11:14:53 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Calendario electoral 2023: cuándo se vota para presidente en la Argentina]]></title>
+			<link>https://www.ambito.com/politica/elecciones-2023/calendario-electoral-2023-cuando-se-vota-presidente-la-argentina-n5635610</link>
+			<guid>https://www.ambito.com/politica/elecciones-2023/calendario-electoral-2023-cuando-se-vota-presidente-la-argentina-n5635610</guid>
+			<description><![CDATA[
+La Cámara Nacional Electoral aún no definió el calendario electoral para este año. Sin embargo, hay fechas que ya están previstas en la ley. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 10:17:51 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[CELAC: la izquierda se moviliza a la cumbre para repudiar al Gobierno de Perú]]></title>
+			<link>https://www.ambito.com/politica/celac/la-izquierda-se-moviliza-la-cumbre-repudiar-al-gobierno-peru-n5635522</link>
+			<guid>https://www.ambito.com/politica/celac/la-izquierda-se-moviliza-la-cumbre-repudiar-al-gobierno-peru-n5635522</guid>
+			<description><![CDATA[
+El Frente de Izquierda Unidad confirmó la marcha para las 17:30 horas en las inmediaciones del Hotel Sheraton. Sostienen que en Perú se aplica  "una represión que se cobró más de 60 muertos".
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 09:18:39 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Bullrich y Macri juntos en el sur: de qué hablaron en su cónclave]]></title>
+			<link>https://www.ambito.com/politica/patricia-bullrich/bullrich-y-macri-juntos-el-sur-que-hablaron-su-conclave-n5635524</link>
+			<guid>https://www.ambito.com/politica/patricia-bullrich/bullrich-y-macri-juntos-el-sur-que-hablaron-su-conclave-n5635524</guid>
+			<description><![CDATA[
+La presidenta del PRO, Patricia Bullrich, reveló de qué hablaron con Mauricio Macri, en un encuentro cara a cara que tuvieron en Cumelén. La oposición busca cerrar filas pensando en las elecciones.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 09:08:09 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Guatemala: falleció el expresidente Álvaro Colom]]></title>
+			<link>https://www.ambito.com/politica/guatemala/fallecio-el-expresidente-alvaro-colom-n5635478</link>
+			<guid>https://www.ambito.com/politica/guatemala/fallecio-el-expresidente-alvaro-colom-n5635478</guid>
+			<description><![CDATA[
+El expresidente de Guatemala Álvaro Colom, sancionado por corrupción en 2021 por EEUU, falleció este lunes. El hombre padecía cáncer desde diciembre de 2020
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 08:06:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Arranca la cumbre de la CELAC: desafío para Alberto, el rol de Brasil, y la polémica por Maduro]]></title>
+			<link>https://www.ambito.com/politica/celac/arranca-la-cumbre-la-desafio-alberto-el-rol-brasil-y-la-polemica-maduro-n5634675</link>
+			<guid>https://www.ambito.com/politica/celac/arranca-la-cumbre-la-desafio-alberto-el-rol-brasil-y-la-polemica-maduro-n5634675</guid>
+			<description><![CDATA[
+La reunión entre mandatarios latinoamericanos y caribeños tendrá a Argentina como sede por primera vez en su historia. Presencias, ausencias y polémicas rodean el clima en la previa. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 07:21:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Arranca hoy cumbre de la Celac: sin Maduro y con el centro en Lula]]></title>
+			<link>https://www.ambito.com/politica/arranca-hoy-cumbre-la-celac-maduro-y-el-centro-lula-n5635416</link>
+			<guid>https://www.ambito.com/politica/arranca-hoy-cumbre-la-celac-maduro-y-el-centro-lula-n5635416</guid>
+			<description><![CDATA[
+Será con representantes de todos los países miembros. Venezuela denunció un plan de la derecha "neofascista" y envió a su canciller.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Hallan muerto a hijo de Sala]]></title>
+			<link>https://www.ambito.com/hallan-muerto-hijo-sala-n5635420</link>
+			<guid>https://www.ambito.com/hallan-muerto-hijo-sala-n5635420</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Maduro canceló el viaje: denuncia y festejos de la oposición desde Cumelén]]></title>
+			<link>https://www.ambito.com/maduro-cancelo-el-viaje-denuncia-y-festejos-la-oposicion-cumelen-n5635432</link>
+			<guid>https://www.ambito.com/maduro-cancelo-el-viaje-denuncia-y-festejos-la-oposicion-cumelen-n5635432</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Lula proclamó regreso de Brasil a la Argentina y confesó amor por Messi]]></title>
+			<link>https://www.ambito.com/lula-proclamo-regreso-brasil-la-argentina-y-confeso-amor-messi-n5635433</link>
+			<guid>https://www.ambito.com/lula-proclamo-regreso-brasil-la-argentina-y-confeso-amor-messi-n5635433</guid>
+			<description><![CDATA[
+Velada anoche en el CCK sum&#243; a Evo Morales. Hoy participar&#225; de la Cumbre y se espera reuni&#243;n con Cristina. Promesa para retomar intercambio record.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Massa destacó que los acuerdos con Brasil permitirán "potenciar la integración al mundo"]]></title>
+			<link>https://www.ambito.com/politica/sergio-massa/massa-destaco-que-los-acuerdos-brasil-permitiran-potenciar-la-integracion-al-mundo-n5635148</link>
+			<guid>https://www.ambito.com/politica/sergio-massa/massa-destaco-que-los-acuerdos-brasil-permitiran-potenciar-la-integracion-al-mundo-n5635148</guid>
+			<description><![CDATA[
+El ministro de Economía enfatizó que el trabajo común es "a los efectos de encontrar un instrumento económico y comercial que habilite a profundizar el sistema de comercio entre ambos países". 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 23:51:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Mauricio Macri sobre la suspensión del viaje de Nicolás Maduro: "Tuvo miedo"]]></title>
+			<link>https://www.ambito.com/politica/mauricio-macri/la-suspension-del-viaje-nicolas-maduro-tuvo-miedo-n5635398</link>
+			<guid>https://www.ambito.com/politica/mauricio-macri/la-suspension-del-viaje-nicolas-maduro-tuvo-miedo-n5635398</guid>
+			<description><![CDATA[
+El expresidente se refirió a la decisión del mandatario venezolano de no viajar a Buenos Aires. "Se dio cuenta de que algo está cambiando en la Argentina", afirmó. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 23:48:39 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Denuncian al barrionuevismo por despidos masivos en gremio de vigiladores]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/denuncian-al-barrionuevismo-despidos-masivos-gremio-vigiladores-n5635371</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/denuncian-al-barrionuevismo-despidos-masivos-gremio-vigiladores-n5635371</guid>
+			<description><![CDATA[
+En septiembre, y con la firma de Alberto Fernández, el jefe de los gastronómicos puso a un hombre de confianza como interventor de la obra social Ospsip. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 21:52:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Lula da Silva en Argentina EN VIVO: últimas noticias de la visita de Estado]]></title>
+			<link>https://www.ambito.com/politica/lula-da-silva/argentina-vivo-ultimas-noticias-la-visita-estado-n5634577</link>
+			<guid>https://www.ambito.com/politica/lula-da-silva/argentina-vivo-ultimas-noticias-la-visita-estado-n5634577</guid>
+			<description><![CDATA[
+Alberto Fernández y Lula da Silva hicieron una declaración conjunta en Casa Rosada, al finalizar la reunión. En conferencia de prensa, hablaron sobre la moneda común entre Argentina y Brasil, Vaca Muerta y los ejes políticos de integración regional, en lo que denominaron el "relanzamiento" de la relación entre ambos países. Cerraron la noche en un concierto en el CCK. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 21:47:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Evo Morales se reunió con Cristina Kirchner y acompañó el lanzamiento de la CELAC Social]]></title>
+			<link>https://www.ambito.com/politica/evo-morales/se-reunio-cristina-kirchner-y-acompano-el-lanzamiento-la-celac-social-n5635340</link>
+			<guid>https://www.ambito.com/politica/evo-morales/se-reunio-cristina-kirchner-y-acompano-el-lanzamiento-la-celac-social-n5635340</guid>
+			<description><![CDATA[
+El exmandatario visitó a la vicepresidenta en el Senado y dialogaron sobre la actualidad de América Latina. Más temprano, participó de la inauguración del espacio integrado por organizaciones sociales, sindicales y políticas. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 21:37:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alberto Fernández y Lula da Silva se reunieron con referentes de los DDHH]]></title>
+			<link>https://www.ambito.com/politica/ddhh/alberto-fernandez-y-lula-da-silva-se-reunieron-referentes-los-n5635323</link>
+			<guid>https://www.ambito.com/politica/ddhh/alberto-fernandez-y-lula-da-silva-se-reunieron-referentes-los-n5635323</guid>
+			<description><![CDATA[
+El encuentro tuvo lugar en la Casa Rosada. Entre los presentes estuvieron la titular de Abuelas de Plaza de Mayo, Estela de Carlotto, y el Premio Nobel de la Paz, Adolfo Pérez Esquivel. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 20:42:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Vizzotti y la ministra de Salud de Brasil y acordaron una agenda sanitaria bilateral]]></title>
+			<link>https://www.ambito.com/politica/carla-vizzotti/vizzotti-y-la-ministra-salud-brasil-y-acordaron-una-agenda-sanitaria-bilateral-n5635255</link>
+			<guid>https://www.ambito.com/politica/carla-vizzotti/vizzotti-y-la-ministra-salud-brasil-y-acordaron-una-agenda-sanitaria-bilateral-n5635255</guid>
+			<description><![CDATA[
+Las ministras se reunieron en la Casa Rosada y acordaron en avanzar en una agenda con énfasis en el desarrollo de la ciencia, los derechos humanos, los derechos sexuales y reproductivos y producción conjunta de productos médicos estratégicos. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 19:55:31 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Facundo Manes se reunió con el embajador de EEUU, Marc Stanley]]></title>
+			<link>https://www.ambito.com/politica/facundo-manes/se-reunio-el-embajador-eeuu-marc-stanley-n5635275</link>
+			<guid>https://www.ambito.com/politica/facundo-manes/se-reunio-el-embajador-eeuu-marc-stanley-n5635275</guid>
+			<description><![CDATA[
+En el encuentro, conversaron sobre "las oportunidades para hacer crecer la relación bilateral". El diputado advirtió que "la democracia está en peligro en la región".
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 19:37:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alberto Fernández y Lula da Silva relanzaron vínculo comercial en encuentro con 300 empresarios de Brasil y Argentina]]></title>
+			<link>https://www.ambito.com/politica/lula/alberto-fernandez-y-da-silva-relanzaron-vinculo-comercial-encuentro-300-empresarios-brasil-y-argentina-n5635268</link>
+			<guid>https://www.ambito.com/politica/lula/alberto-fernandez-y-da-silva-relanzaron-vinculo-comercial-encuentro-300-empresarios-brasil-y-argentina-n5635268</guid>
+			<description><![CDATA[
+El presidente argentino y su par brasileño destacaron la importancia de fortalecer la relación entre ambos países. "Tanto Lula como yo estamos convencidos de que Brasil y Argentina son dos pueblos que han de estar indisolublemente unidos", dijo Fernández. En la actividad participaron representantes de grandes empresas, pymes, cámaras empresarias y sindicatos. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 19:15:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El insólito furcio de Alberto Fernández al referirse a Maduro]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/el-insolito-furcio-al-referirse-maduro-n5635218</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/el-insolito-furcio-al-referirse-maduro-n5635218</guid>
+			<description><![CDATA[
+El Presidente fue consultado sobre la presencia de Nicolás Maduro en la Cumbre de la CELAC y tuvo un insólito error en su respuesta. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 19:03:03 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[En pleno revuelo opositor, Miguel Díaz-Canel se reunió con artistas, intelectuales y empresarios argentinos]]></title>
+			<link>https://www.ambito.com/politica/miguel-diaz-canel/en-pleno-revuelo-opositor-se-reunio-artistas-intelectuales-y-empresarios-argentinos-n5635236</link>
+			<guid>https://www.ambito.com/politica/miguel-diaz-canel/en-pleno-revuelo-opositor-se-reunio-artistas-intelectuales-y-empresarios-argentinos-n5635236</guid>
+			<description><![CDATA[
+Juntos por el Cambio y otras fuerzas opositoras habían cuestionado duramente la presencia del presidente cubano en el país. Contrario a Nicolás Maduro, está en Buenos Aires y lleva adelante su agenda oficial. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 18:56:41 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La reacción de la oposición ante la decisión de Maduro de no viajar a la Cumbre de la CELAC]]></title>
+			<link>https://www.ambito.com/politica/nicolas-maduro/la-reaccion-la-oposicion-la-decision-maduro-no-viajar-la-cumbredelacelac-n5635189</link>
+			<guid>https://www.ambito.com/politica/nicolas-maduro/la-reaccion-la-oposicion-la-decision-maduro-no-viajar-la-cumbredelacelac-n5635189</guid>
+			<description><![CDATA[
+El gobierno de Venezuela anunció esta tarde que finalmente Nicolás Maduro no viajará a Argentina y la oposición reaccionó a la noticia en las redes sociales. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 18:49:35 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Cristina Kirchner recibió en el Senado a la presidenta de Honduras, Xiomara Castro]]></title>
+			<link>https://www.ambito.com/politica/cristina-fernandez-kirchner/cristina-kirchner-recibio-el-senado-la-presidenta-honduras-xiomara-castro-n5635200</link>
+			<guid>https://www.ambito.com/politica/cristina-fernandez-kirchner/cristina-kirchner-recibio-el-senado-la-presidenta-honduras-xiomara-castro-n5635200</guid>
+			<description><![CDATA[
+La vicepresidenta compartió en sus redes sociales un video del encuentro con la mandataria. En él recordó el rol de su Gobierno contra el golpe de Estado que derrocó a Manuel Zelaya en 2009.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 18:35:27 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Maduro no vendrá a la Cumbre de la CELAC y denunció un "show deplorable" de la derecha]]></title>
+			<link>https://www.ambito.com/politica/nicolas-maduro/maduro-no-vendra-la-cumbre-la-celac-y-denuncio-un-show-deplorable-la-derecha-n5635066</link>
+			<guid>https://www.ambito.com/politica/nicolas-maduro/maduro-no-vendra-la-cumbre-la-celac-y-denuncio-un-show-deplorable-la-derecha-n5635066</guid>
+			<description><![CDATA[
+El Presidente de Venezuela anunció que finalmente no viajaría a Argentina para formar parte de la Cumbre de la CELAC
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 16:50:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Moneda común de Argentina y Brasil: qué dijeron Alberto Fernández y Lula da Silva]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/moneda-comun-argentina-y-brasil-que-dijeron-y-lula-da-silva-n5634982</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/moneda-comun-argentina-y-brasil-que-dijeron-y-lula-da-silva-n5634982</guid>
+			<description><![CDATA[
+Los dos mandatarios hablaron sobre el proyecto de moneda común que los equipos económicos de Argentina y Brasil están evaluando. Qué dijeron sobre la iniciativa y cuáles son las condiciones para lograr el acuerdo.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 14:32:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El guiño de Lula a la Scaloneta: "Alenté por Argentina; Messi no podía irse sin ser campeón"]]></title>
+			<link>https://www.ambito.com/politica/lula-da-silva/el-guino-lula-la-scaloneta-alente-argentina-messi-no-podia-irse-ser-campeon-n5634988</link>
+			<guid>https://www.ambito.com/politica/lula-da-silva/el-guino-lula-la-scaloneta-alente-argentina-messi-no-podia-irse-ser-campeon-n5634988</guid>
+			<description><![CDATA[
+En plena conferencia junto a Alberto Fernández en Casa Rosada, el flamante mandatario brasileño celebró el triunfo de nuestra selección en Qatar.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 14:32:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Cumbre en Casa Rosada: el pedido de Lula a Alberto Fernández]]></title>
+			<link>https://www.ambito.com/mundo/alberto-fernandez/cumbre-casa-rosada-el-pedido-lula-n5634890</link>
+			<guid>https://www.ambito.com/mundo/alberto-fernandez/cumbre-casa-rosada-el-pedido-lula-n5634890</guid>
+			<description><![CDATA[
+El presidente de Brasil escribió un mensaje en sus redes sociales con un pedido especial para Alberto Fernández. Ambos mandatarios estuvieron reunidos en Casa Rosada.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 14:06:44 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alberto Fernández: "Gran parte de la inflación es autoconstruida, está en la cabeza de la gente"]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/gran-parte-la-inflacion-es-autoconstruida-esta-la-cabeza-la-gente-n5634897</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/gran-parte-la-inflacion-es-autoconstruida-esta-la-cabeza-la-gente-n5634897</guid>
+			<description><![CDATA[
+Alberto Fernández brindó una entrevista con el diario Folha de Sao Pablo brindó su explicación sobre los problemas económicos del país. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 13:59:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alberto Fernández: "Por Brasil pasó Bolsonaro y por Argentina Macri"]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/por-brasil-paso-bolsonaro-y-argentina-macri-n5634905</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/por-brasil-paso-bolsonaro-y-argentina-macri-n5634905</guid>
+			<description><![CDATA[
+"Quiero que sepan, querido amigo, que en Argentina siempre vamos a estar a tu lado; no permitiré que ningún delirante, ningún fascista se apodere de la soberanía popular", indicó el jefe de Estado al recibir a su par brasileño, 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 13:21:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Tras recibir a Lula, Alberto Fernández pidió profundizar la relación con Brasil]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/tras-recibir-lula-pidio-profundizar-la-relacion-brasil-n5634819</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/tras-recibir-lula-pidio-profundizar-la-relacion-brasil-n5634819</guid>
+			<description><![CDATA[
+El Presidente escribió un mensaje donde manifestó su emoción por el reecuentro con Lula en Casa Rosada. Al mismo tiempo, manifestó la necesidad de profundizar la relación con Brasil, en el marco de la VII Cumbre de la CELAC en Buenos Aires.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 12:11:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Maduro llega al país: fuertes críticas de la oposición al Gobierno]]></title>
+			<link>https://www.ambito.com/politica/nicolas-maduro/maduro-llega-al-pais-fuertes-criticas-la-oposicion-al-gobierno-n5634741</link>
+			<guid>https://www.ambito.com/politica/nicolas-maduro/maduro-llega-al-pais-fuertes-criticas-la-oposicion-al-gobierno-n5634741</guid>
+			<description><![CDATA[
+Macri, Larreta, Espert, Bullrich y Milei, entre oros, desataron una ola de críticas contra Alberto Fernández por la llegada del presidente de Venezuela, Nicolás Maduro. Qué dijeron los referentes de la oposición por el arribo del mandatario bolivariano.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 11:22:56 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[CELAC: venezolanos marcharon contra la presencia de Maduro en Argentina]]></title>
+			<link>https://www.ambito.com/politica/nicolas-maduro/celac-venezolanos-marcharon-contra-la-presencia-maduro-argentina-n5634714</link>
+			<guid>https://www.ambito.com/politica/nicolas-maduro/celac-venezolanos-marcharon-contra-la-presencia-maduro-argentina-n5634714</guid>
+			<description><![CDATA[
+Se realizó en Retiro y participó la presidenta del PRO Patricia Bullrich, quien exige detención inmediata: "Hemos planteado todas las opciones legales como para que Maduro sea detenido.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 10:52:16 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Cumbre de la CELAC: Lula se reunirá con Maduro en Buenos Aires]]></title>
+			<link>https://www.ambito.com/mundo/lula-da-silva/cumbre-la-celac-lula-se-reunira-maduro-buenos-aires-n5634633</link>
+			<guid>https://www.ambito.com/mundo/lula-da-silva/cumbre-la-celac-lula-se-reunira-maduro-buenos-aires-n5634633</guid>
+			<description><![CDATA[
+Lula da Silva y Nicolás Maduro se volverán a ver las caras en Buenos Aires, en la previa de la VII Cumbre de la CELAC. El encuentro forma parte de los cambios en la política exterior de Brasil, que intentarpa retomar el diálogo con Venezuela.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 09:13:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Cumelén, la nueva meca de la oposición]]></title>
+			<link>https://www.ambito.com/politica/mauricio-macri/cumelen-la-nueva-meca-la-oposicion-n5634594</link>
+			<guid>https://www.ambito.com/politica/mauricio-macri/cumelen-la-nueva-meca-la-oposicion-n5634594</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 08:29:40 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Casación liberó stock antes de la feria a la espera de las causas políticas en febrero]]></title>
+			<link>https://www.ambito.com/casacion-libero-stock-antes-la-feria-la-espera-las-causas-politicas-febrero-n5634520</link>
+			<guid>https://www.ambito.com/casacion-libero-stock-antes-la-feria-la-espera-las-causas-politicas-febrero-n5634520</guid>
+			<description><![CDATA[
+Difirió para luego del receso los expedientes de impacto político, que incluyen confirmaciones a condena por “Ruta del Dinero”, y definir futuro para Memo con Irán y Hotesur. Habilitó investigación de AFIP contra minera y por primera vez absolvió a médico sobre la base de la nueva ley de aborto legal.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:01:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Kicillof busca jerarquizar el sueldo de cientos de miles de municipales, claves para la elección]]></title>
+			<link>https://www.ambito.com/kicillof-busca-jerarquizar-el-sueldo-cientos-miles-municipales-claves-la-eleccion-n5634527</link>
+			<guid>https://www.ambito.com/kicillof-busca-jerarquizar-el-sueldo-cientos-miles-municipales-claves-la-eleccion-n5634527</guid>
+			<description><![CDATA[
+El gobernador convocó a discutir la disparidad de ingresos de trabajadores que llegan a percibir $25 .000 mensuales. Estrategia con intendentes.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Arranca la cumbre de la CELAC: llegó Lula y se complica la Ciudad por Maduro y Canel]]></title>
+			<link>https://www.ambito.com/arranca-la-cumbre-la-celac-llego-lula-y-se-complica-la-ciudad-maduro-y-canel-n5634533</link>
+			<guid>https://www.ambito.com/arranca-la-cumbre-la-celac-llego-lula-y-se-complica-la-ciudad-maduro-y-canel-n5634533</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Ricardo Alfonsín fustigó la idea de Martín Tetaz de acordar con Milei en la Provincia]]></title>
+			<link>https://www.ambito.com/politica/ricardo-alfonsin/fustigo-la-idea-martin-tetaz-acordar-milei-la-provincia-n5634411</link>
+			<guid>https://www.ambito.com/politica/ricardo-alfonsin/fustigo-la-idea-martin-tetaz-acordar-milei-la-provincia-n5634411</guid>
+			<description><![CDATA[
+El embajador argentino es España criticó la propuesta del diputado de que JxC una fuerzas con La Libertad Avanza para enfrentar a Kicillof. Cuestionó el rol de la UCR.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 23:43:53 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alberto Fernández, electoral: "Lo único que no quiero es que gane Macri o cualquiera de su círculo"]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/electoral-lo-unico-que-no-quiero-es-que-gane-macri-o-cualquiera-su-circulo-n5634524</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/electoral-lo-unico-que-no-quiero-es-que-gane-macri-o-cualquiera-su-circulo-n5634524</guid>
+			<description><![CDATA[
+El presidente se mostró confiado en el desempeño del Frente de Todos en las próximas elecciones. No descartó competir por un segundo mandato.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 23:43:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Lula en Argentina: cuál será la agenda presidencial]]></title>
+			<link>https://www.ambito.com/politica/lula-da-silva/lula-llega-este-domingo-la-argentina-cual-sera-la-agenda-presidencial-n5633796</link>
+			<guid>https://www.ambito.com/politica/lula-da-silva/lula-llega-este-domingo-la-argentina-cual-sera-la-agenda-presidencial-n5633796</guid>
+			<description><![CDATA[
+Lula da Silva aterrizó al país para reunirse con Alberto Fernández y participar de la Cumbre de la CELAC. Se trata de la primera visita oficial a nuestro país. 
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 21:52:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Antes de llegar a Argentina, Lula da Silva le cedió el mando al vicepresidente Alckmin]]></title>
+			<link>https://www.ambito.com/politica/lula-da-silva/antes-llegar-argentina-le-cedio-el-mando-al-vicepresidente-alckmin-n5634462</link>
+			<guid>https://www.ambito.com/politica/lula-da-silva/antes-llegar-argentina-le-cedio-el-mando-al-vicepresidente-alckmin-n5634462</guid>
+			<description><![CDATA[
+El mandatario brasileño compartió una foto con su segundo y le deseó "buen trabajo". Regresará el miércoles a Brasilia, tras visitar Buenos Aires y Uruguay.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 21:11:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Argentina y Brasil firmarán acuerdos de cooperación en ciencia y tecnología ]]></title>
+			<link>https://www.ambito.com/politica/mercosur/argentina-y-brasil-firmaran-acuerdos-cooperacion-ciencia-y-tecnologia-n5634281</link>
+			<guid>https://www.ambito.com/politica/mercosur/argentina-y-brasil-firmaran-acuerdos-cooperacion-ciencia-y-tecnologia-n5634281</guid>
+			<description><![CDATA[
+Los suscribirá el ministro Daniel Filmus con su par de ese país, Luciana Barbosa de Oliveira Santos. Será en el marco de la visita de Lula da Silva a Buenos Aires. 
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 19:45:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Santiago Cafiero tildó a Macri de "inoperante" y lo cruzó por sus críticas a la CELAC]]></title>
+			<link>https://www.ambito.com/politica/santiago-cafiero/tildo-macri-inoperante-y-lo-cruzo-sus-criticas-la-celac-n5634390</link>
+			<guid>https://www.ambito.com/politica/santiago-cafiero/tildo-macri-inoperante-y-lo-cruzo-sus-criticas-la-celac-n5634390</guid>
+			<description><![CDATA[
+El canciller respondió en Twitter la carta abierta del expresidente contra la llegada al país de Nicolás Maduro y Miguel Díaz Canel. Dijo que ese bloque regional es "un foro soberano y amplio".
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 18:35:05 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Martín Insaurralde: "No se puede hablar de candidaturas sin romper la proscripción de Cristina"]]></title>
+			<link>https://www.ambito.com/politica/martin-insaurralde/no-se-puede-hablar-candidaturas-romper-la-proscripcion-cristina-n5634377</link>
+			<guid>https://www.ambito.com/politica/martin-insaurralde/no-se-puede-hablar-candidaturas-romper-la-proscripcion-cristina-n5634377</guid>
+			<description><![CDATA[
+El jefe de Gabinete de la Provincia se sumó al operativo clamor por una eventual candidatura de la vicepresidenta. Días atrás, agrupaciones kirchneristas lanzaron una campaña para "romper la proscripción". 
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 17:20:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Candidaturas: Miguel Pichetto presionó a Mauricio Macri y le dio tiempo "hasta marzo para decidir"]]></title>
+			<link>https://www.ambito.com/politica/mauricio-macri/candidaturas-miguel-pichetto-presiono-y-le-dio-tiempo-hasta-marzo-decidir-n5634380</link>
+			<guid>https://www.ambito.com/politica/mauricio-macri/candidaturas-miguel-pichetto-presiono-y-le-dio-tiempo-hasta-marzo-decidir-n5634380</guid>
+			<description><![CDATA[
+El auditor general de la Nación y excandidato presidencial de JxC sugirió que el expresidente debería competir por las presidenciales. Sin embargo, le advirtió: "Se agotan los tiempos". 
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 17:12:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Interna de Juntos por el Cambio: Manes duro contra Macri, Bullrich y Larreta]]></title>
+			<link>https://www.ambito.com/politica/juntos-el-cambio/interna-manes-duro-contra-macri-bullrich-y-larreta-n5634361</link>
+			<guid>https://www.ambito.com/politica/juntos-el-cambio/interna-manes-duro-contra-macri-bullrich-y-larreta-n5634361</guid>
+			<description><![CDATA[
+El diputado nacional de la UCR, Facundo Manes, hizo declaraciones en las que criticó a los referentes de Juntos por el Cambio. Qué dijo el neurocientífico de los "halcones y palomas" y cómo serán las candidaturas en las elecciones.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 16:41:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Cumbre de la CELAC: Bullrich exigió a EEUU la captura de Maduro]]></title>
+			<link>https://www.ambito.com/politica/patricia-bullrich/cumbre-la-celac-bullrich-exigio-eeuu-la-captura-maduro-n5634295</link>
+			<guid>https://www.ambito.com/politica/patricia-bullrich/cumbre-la-celac-bullrich-exigio-eeuu-la-captura-maduro-n5634295</guid>
+			<description><![CDATA[
+La presidenta del PRO, Patricia Bullrich, denunció ante la DEA de Estados Unidos a Nicolás Maduro y pidió por su captura y extradición. La presentación apunta a cargos contra el mandatario venezolano por "narcoterrosrismo" y lazos con la FARC.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 13:56:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Macri cruzó al Gobierno por recibir a Maduro: "Da vergüenza que nos asocien con dictadores"]]></title>
+			<link>https://www.ambito.com/politica/mauricio-macri/macri-cruzo-al-gobierno-recibir-maduro-da-verguenza-que-nos-asocien-dictadores-n5634239</link>
+			<guid>https://www.ambito.com/politica/mauricio-macri/macri-cruzo-al-gobierno-recibir-maduro-da-verguenza-que-nos-asocien-dictadores-n5634239</guid>
+			<description><![CDATA[
+El expresidente publicó un mensaje en su cuenta de Facebook donde expresó su rechazo a la decisión del Gobierno de recibir a Nicolás Maduro (Venezuela) y Miguel Díaz-Canel (Cuba) en el país. Ambos mandatarios llegan en el marco de la cumbre de la CELAC.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 12:18:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Raquel "Kelly" Olmos: "El salario no se recupera a la velocidad que nos gustaría"]]></title>
+			<link>https://www.ambito.com/politica/raquel-kelly-olmos/el-salario-no-se-recupera-la-velocidad-que-nos-gustaria-n5634089</link>
+			<guid>https://www.ambito.com/politica/raquel-kelly-olmos/el-salario-no-se-recupera-la-velocidad-que-nos-gustaria-n5634089</guid>
+			<description><![CDATA[
+La ministra de Trabajo, Raquel "Kelly" Olmos, se refirió al proceso de negociación paritaria y al armado de listas para las elecciones de este año.
+]]></description>
+			<pubDate>Sat, 21 Jan 2023 19:42:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Macri comparó la interna de JxC con el Mundial: "Hay que armar una linda competencia"]]></title>
+			<link>https://www.ambito.com/politica/mauricio-macri/macri-comparo-la-interna-jxc-el-mundial-hay-que-armar-una-linda-competencia-n5631590</link>
+			<guid>https://www.ambito.com/politica/mauricio-macri/macri-comparo-la-interna-jxc-el-mundial-hay-que-armar-una-linda-competencia-n5631590</guid>
+			<description><![CDATA[
+El ex presidente, Mauricio Macri, encabezó un foro federal de legisladores del PRO en Bariloche y se refirió a la interna de Juntos por el Cambio.
+]]></description>
+			<pubDate>Sat, 21 Jan 2023 18:05:00 -0300</pubDate>
+		</item>
+
+	</channel></rss>

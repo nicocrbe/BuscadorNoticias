@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>Ambito - Mundo</title>
+		<description>Ambito</description>
+		<link>https://www.ambito.com</link>
+		<language>spa</language>
+		<lastBuildDate>Tue, 24 Jan 2023 18:41:28 -0300</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.dosalcubo.com</generator>
+		<copyright>Copyright (c) 2023</copyright>
+		<atom:link href="https://www.ambito.com/rss/mundo.xml" rel="self" type="application/rss+xml" />		<image>
+			<title>Ambito - Mundo</title>
+			<url>https://www.ambito.com/css-custom/239/images/mtg_logo-239.svg</url>
+			<link>https://www.ambito.com</link>
+		</image>
+		<item>
+			<title><![CDATA[Canciller chilena renunció luego de que se filtrara un audio con críticas a Bielsa]]></title>
+			<link>https://www.ambito.com/mundo/cancilleria/canciller-chilena-renuncio-luego-que-se-filtrara-un-audio-criticas-bielsa-n5636046</link>
+			<guid>https://www.ambito.com/mundo/cancilleria/canciller-chilena-renuncio-luego-que-se-filtrara-un-audio-criticas-bielsa-n5636046</guid>
+			<description><![CDATA[
+Antonia Urrejola criticó al embajador argentino en Chile en una reunión con sus asesores, se filtró un audio de la conversación y esta tarde presentó la renuncia. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 17:44:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Gabriel Boric criticó a Dina Boluarte ante la CELAC por la represión en Perú que ya dejó 50 muertos]]></title>
+			<link>https://www.ambito.com/mundo/gabriel-boric/critico-dina-boluarte-la-celac-la-represion-peru-que-ya-dejo-50-muertos-n5636100</link>
+			<guid>https://www.ambito.com/mundo/gabriel-boric/critico-dina-boluarte-la-celac-la-represion-peru-que-ya-dejo-50-muertos-n5636100</guid>
+			<description><![CDATA[
+El presidente de Chile aprovechó su intervención en la cumbre para cuestionar a su par peruana. Pidió "no ser indiferentes" ante las personas que salen a manifestarse y "terminan baleadas por quien debiera defenderlas". 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 17:40:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Alberto Fernández en CELAC: cuáles fueron las claves del discurso de apertura]]></title>
+			<link>https://www.ambito.com/politica/alberto-fernandez/celac-cuales-fueron-las-claves-del-discurso-apertura-n5635731</link>
+			<guid>https://www.ambito.com/politica/alberto-fernandez/celac-cuales-fueron-las-claves-del-discurso-apertura-n5635731</guid>
+			<description><![CDATA[
+El Presidente brindó su discurso de apertura ante los jefes de Estado y representantes de las 33 naciones que participan de la cumbre de CELAC. Cuáles fueron los ejes de la presentación y el rol de Argentina en la presidencia pro témpore del organismo.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 12:09:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Contrabandeó ganado en la India: le dieron cadena perpetua]]></title>
+			<link>https://www.ambito.com/mundo/india/contrabandeo-ganado-la-le-dieron-cadena-perpetua-n5635696</link>
+			<guid>https://www.ambito.com/mundo/india/contrabandeo-ganado-la-le-dieron-cadena-perpetua-n5635696</guid>
+			<description><![CDATA[
+Un tribunal indio condenó a cadena perpetua a un joven musulmán acusado de contrabando de ganado. En ese país persiste la creencia en el carácter "sagrado" de las vacas, pese al hambre de la población. 
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 11:52:35 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Descubren una rana "Tolkien", que parece de un "universo de fantasías"]]></title>
+			<link>https://www.ambito.com/mundo/el-senor-los-anillos/descubren-una-rana-tolkien-que-parece-un-universo-fantasias-n5635513</link>
+			<guid>https://www.ambito.com/mundo/el-senor-los-anillos/descubren-una-rana-tolkien-que-parece-un-universo-fantasias-n5635513</guid>
+			<description><![CDATA[
+Apareció en Ecuador una especie de rana con "colores alucinantes". Los exploradores decidieron nombrarla como el autor de "El señor de los anillos".
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 08:54:39 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Polonia desafía a Alemania y presiona a Europa por el envío de tanques a Ucrania]]></title>
+			<link>https://www.ambito.com/polonia-desafia-alemania-y-presiona-europa-el-envio-tanques-ucrania-n5635361</link>
+			<guid>https://www.ambito.com/polonia-desafia-alemania-y-presiona-europa-el-envio-tanques-ucrania-n5635361</guid>
+			<description><![CDATA[
+El bloque destrabó un nuevo paquete de ayuda militar por 500 millones de euros, pero demora decisiones sobre el tipo de armamento que solicita Kiev. Scholz debería avalar la entrega de los blindados.
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 00:14:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La caída de los ingresos, foco de descontento para Maduro]]></title>
+			<link>https://www.ambito.com/edicion-impresa/la-caida-los-ingresos-foco-descontento-maduro-n5635443</link>
+			<guid>https://www.ambito.com/edicion-impresa/la-caida-los-ingresos-foco-descontento-maduro-n5635443</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 00:13:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Protestas y piquetes amenazan con provocar desabastecimiento de productos básicos en Perú]]></title>
+			<link>https://www.ambito.com/mundo/protestas-y-piquetes-amenazan-provocar-desabastecimiento-productos-basicos-peru-n5635441</link>
+			<guid>https://www.ambito.com/mundo/protestas-y-piquetes-amenazan-provocar-desabastecimiento-productos-basicos-peru-n5635441</guid>
+			<description><![CDATA[
+Decenas de oficinas del Poder Judicial, sedes policiales y edificios de empresas han sido incendiados y destruidos. La represión del movimiento atiza más la violencia. Ya hay 55 muertos.
+
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 00:11:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[La Fiscalía de Berlín imputó a una red golpista de la ultraderecha]]></title>
+			<link>https://www.ambito.com/la-fiscalia-berlin-imputo-una-red-golpista-la-ultraderecha-n5635360</link>
+			<guid>https://www.ambito.com/la-fiscalia-berlin-imputo-una-red-golpista-la-ultraderecha-n5635360</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Tue, 24 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Tres tiroteos masivos dejaron al menos seis muertos en los EEUU]]></title>
+			<link>https://www.ambito.com/mundo/tiroteo/tres-s-masivos-dejaron-al-menos-seis-muertos-los-eeuu-n5635437</link>
+			<guid>https://www.ambito.com/mundo/tiroteo/tres-s-masivos-dejaron-al-menos-seis-muertos-los-eeuu-n5635437</guid>
+			<description><![CDATA[
+Dos ocurrieron en granjas de Half Moon Bay, California, y tuvieron un saldo de cuatro fallecidos. El restante ocurrió en Iowa, donde las víctimas fatales fueron dos. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 23:56:13 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Lula habló sobre las elecciones en Argentina: "No permitan que la extrema derecha gane"]]></title>
+			<link>https://www.ambito.com/mundo/lula/hablo-las-elecciones-argentina-no-permitan-que-la-extrema-derecha-gane-n5635223</link>
+			<guid>https://www.ambito.com/mundo/lula/hablo-las-elecciones-argentina-no-permitan-que-la-extrema-derecha-gane-n5635223</guid>
+			<description><![CDATA[
+El presidente de Brasil brindó su parecer sobre los comicios presidenciales que se desarrollarán este año. "La extrema derecha no funcionó en ningún país que gobernó", dijo y pidió al pueblo argentino que "no permita un desastre aquí a nivel electoral". 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 18:25:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El ministro de Economía de Brasil valoró el Mercosur pero pidió ser "más ambiciosos"]]></title>
+			<link>https://www.ambito.com/mundo/mercosur/el-ministro-economia-brasil-valoro-el-pero-pidio-ser-mas-ambiciosos-n5635177</link>
+			<guid>https://www.ambito.com/mundo/mercosur/el-ministro-economia-brasil-valoro-el-pero-pidio-ser-mas-ambiciosos-n5635177</guid>
+			<description><![CDATA[
+Fernando Haddad dijo que la integración de América Latina debería ser "más radical". Además, habló sobre la creación de la moneda común entre Brasil y Argentina. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 17:49:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Cumbre en Casa Rosada: el pedido de Lula a Alberto Fernández]]></title>
+			<link>https://www.ambito.com/mundo/alberto-fernandez/cumbre-casa-rosada-el-pedido-lula-n5634890</link>
+			<guid>https://www.ambito.com/mundo/alberto-fernandez/cumbre-casa-rosada-el-pedido-lula-n5634890</guid>
+			<description><![CDATA[
+El presidente de Brasil escribió un mensaje en sus redes sociales con un pedido especial para Alberto Fernández. Ambos mandatarios estuvieron reunidos en Casa Rosada.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 14:06:44 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[CELAC: la OEA, gran ausente en la cumbre de Buenos Aires]]></title>
+			<link>https://www.ambito.com/mundo/oea/celac-la-gran-ausente-la-cumbre-buenos-aires-n5634873</link>
+			<guid>https://www.ambito.com/mundo/oea/celac-la-gran-ausente-la-cumbre-buenos-aires-n5634873</guid>
+			<description><![CDATA[
+Como parte de la presidencia pro témpore de la CELAC, Argentina decidió declinar la invitación de Luis Almegro, el secretario general de la Organización de Estados Americanos (OEA). En la cumbre de 2021, México tampoco había tomado la misma decisión.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 13:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Peru: demandan al primer ministro por represión en una universidad]]></title>
+			<link>https://www.ambito.com/mundo/peru/demandan-al-primer-ministro-represion-una-universidad-n5634800</link>
+			<guid>https://www.ambito.com/mundo/peru/demandan-al-primer-ministro-represion-una-universidad-n5634800</guid>
+			<description><![CDATA[
+Fue por el asalto a la Universidad Nacional Mayor de San Marcos (Unmsm), donde 200 manifestantes ingresaron al recinto en el medio de las protestas. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 12:16:19 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Reino Unido podría aplicar una tarifa social para usuarios residenciales]]></title>
+			<link>https://www.ambito.com/mundo/energia/reino-unido-podria-aplicar-una-tarifa-social-usuarios-residenciales-n5634796</link>
+			<guid>https://www.ambito.com/mundo/energia/reino-unido-podria-aplicar-una-tarifa-social-usuarios-residenciales-n5634796</guid>
+			<description><![CDATA[
+Los precios británicos de la energía alcanzaron máximos históricos el año pasado, lo que obligó al gobierno a subvencionar los costos de todos los hogares y a conceder ayudas adicionales a los más vulnerables.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 12:04:28 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Quién es Janja, la esposa de Lula que busca cambiar el rol de la Primera Dama]]></title>
+			<link>https://www.ambito.com/mundo/brasil/quien-es-janja-la-esposa-lula-que-busca-cambiar-el-rol-la-primera-dama-n5634616</link>
+			<guid>https://www.ambito.com/mundo/brasil/quien-es-janja-la-esposa-lula-que-busca-cambiar-el-rol-la-primera-dama-n5634616</guid>
+			<description><![CDATA[
+Rosangela da Silva, alias Janja, es socióloga y pareja de Lula desde 2019. Cuál es su formación, sus antecedentes en la militancia del PT y por qué hoy es protaginista en el nuevo gobierno de Brasil.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 09:21:49 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Cumbre de la CELAC: Lula se reunirá con Maduro en Buenos Aires]]></title>
+			<link>https://www.ambito.com/mundo/lula-da-silva/cumbre-la-celac-lula-se-reunira-maduro-buenos-aires-n5634633</link>
+			<guid>https://www.ambito.com/mundo/lula-da-silva/cumbre-la-celac-lula-se-reunira-maduro-buenos-aires-n5634633</guid>
+			<description><![CDATA[
+Lula da Silva y Nicolás Maduro se volverán a ver las caras en Buenos Aires, en la previa de la VII Cumbre de la CELAC. El encuentro forma parte de los cambios en la política exterior de Brasil, que intentarpa retomar el diálogo con Venezuela.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 09:13:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Ucrania: revuelo por denuncias de corrupción en compra de alimentos]]></title>
+			<link>https://www.ambito.com/ucrania-revuelo-denuncias-corrupcion-compra-alimentos-n5634496</link>
+			<guid>https://www.ambito.com/ucrania-revuelo-denuncias-corrupcion-compra-alimentos-n5634496</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Irrupción policial en universidad complica más a Boluarte Nuevos documentos clasificados aparecen en poder de Biden y el escándalo político ya lo acecha]]></title>
+			<link>https://www.ambito.com/irrupcion-policial-universidad-complica-mas-boluarte-nuevos-documentos-clasificados-aparecen-poder-biden-y-el-escandalo-politico-ya-lo-acecha-n5634497</link>
+			<guid>https://www.ambito.com/irrupcion-policial-universidad-complica-mas-boluarte-nuevos-documentos-clasificados-aparecen-poder-biden-y-el-escandalo-politico-ya-lo-acecha-n5634497</guid>
+			<description><![CDATA[
+Ambos incumplieron una ley que los obliga a enviar todos los papeles firmados en el ejercicio de funciones de importancia a los Archivos Nacionales. Las causas de una incorrecci&#243;n que se hace norma.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Asegurar la democracia, el crucial, pero modesto objetivo del Lula da Silva 3.0]]></title>
+			<link>https://www.ambito.com/asegurar-la-democracia-el-crucial-pero-modesto-objetivo-del-lula-da-silva-30-n5634498</link>
+			<guid>https://www.ambito.com/asegurar-la-democracia-el-crucial-pero-modesto-objetivo-del-lula-da-silva-30-n5634498</guid>
+			<description><![CDATA[
+El presidente de izquierda pone en escena el regreso de Brasil a instancias de liderazgo internacional, pero lucha por poner orden en casa. La remoción del jefe del Ejército revela un mar de fondo inquietante.
+]]></description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Masacre en EEUU: mueren diez personas en un tiroteo por los festejos del Año Nuevo Chino]]></title>
+			<link>https://www.ambito.com/mundo/estados-unidos/masacre-eeuu-mueren-diez-personas-un-tiroteo-los-festejos-del-ano-nuevo-chino-n5634238</link>
+			<guid>https://www.ambito.com/mundo/estados-unidos/masacre-eeuu-mueren-diez-personas-un-tiroteo-los-festejos-del-ano-nuevo-chino-n5634238</guid>
+			<description><![CDATA[
+Ocurrió en Monterey Park luego de una celebración del Año Nuevo Lunar que atrajo a miles de personas. El atacante fue encontrado muerto en su camioneta.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 23:42:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Masacre en EEUU: hallan muerto al tirador que atacó en los festejos del Año Nuevo Chino]]></title>
+			<link>https://www.ambito.com/mundo/estados-unidos/masacre-eeuu-hallan-muerto-al-tirador-que-ataco-los-festejos-del-ano-nuevo-chino-n5634397</link>
+			<guid>https://www.ambito.com/mundo/estados-unidos/masacre-eeuu-hallan-muerto-al-tirador-que-ataco-los-festejos-del-ano-nuevo-chino-n5634397</guid>
+			<description><![CDATA[
+El sospechoso fue encontrado dentro de una camioneta. Horas antes había disparado en una discoteca de la localidad de Monterey Park, donde mató a 10 personas.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 23:40:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Crecen las protestas en Perú: manifestantes exigen la liberación de los detenidos en la universidad]]></title>
+			<link>https://www.ambito.com/mundo/peru/crecen-las-protestas-manifestantes-exigen-la-liberacion-los-detenidos-la-universidad-n5634456</link>
+			<guid>https://www.ambito.com/mundo/peru/crecen-las-protestas-manifestantes-exigen-la-liberacion-los-detenidos-la-universidad-n5634456</guid>
+			<description><![CDATA[
+Las movilizaciones se dieron cita en todo el país una vez más para presionar por la renuncia de la presidenta Dina Boluarte y de los parlamentarios. Además, exigen la libertad de los 200 detenidos en la represión a la casa de altos estudios de Lima.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 21:54:30 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Aborto en EEUU: Biden anunció medidas para facilitar el acceso]]></title>
+			<link>https://www.ambito.com/mundo/joe-biden/aborto-eeuu-biden-anuncio-medidas-facilitar-el-acceso-n5634413</link>
+			<guid>https://www.ambito.com/mundo/joe-biden/aborto-eeuu-biden-anuncio-medidas-facilitar-el-acceso-n5634413</guid>
+			<description><![CDATA[
+El presidente estadounidense ordenó a la Secretaría de Salud que establezca una nueva guía para proveedores y farmacias para distribuir a las pacientes los medicamentos que necesiten. 
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 19:10:00 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Rusia advirtió por el envío de armas a Ucrania: "Será una catástrofe global"]]></title>
+			<link>https://www.ambito.com/mundo/conflicto-rusia-ucrania/rusia-advirtio-el-envio-armas-ucrania-sera-una-catastrofe-global-n5634294</link>
+			<guid>https://www.ambito.com/mundo/conflicto-rusia-ucrania/rusia-advirtio-el-envio-armas-ucrania-sera-una-catastrofe-global-n5634294</guid>
+			<description><![CDATA[
+Ucrania consiguió promesas de más apoyo militar y Rusia sale a responder. El presidente de la Cámara baja del Parlamento ruso (Duma), Viacheslav Volodin se refirió a la posibilidad de utilizar armas nucleares "más potentes".
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 14:49:09 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[EEEU: el FBI registró la casa de Biden y encontró nuevos documentos clasificados]]></title>
+			<link>https://www.ambito.com/mundo/joe-biden/eeeu-el-fbi-registro-la-casa-biden-y-encontro-nuevos-documentos-clasificados-n5634252</link>
+			<guid>https://www.ambito.com/mundo/joe-biden/eeeu-el-fbi-registro-la-casa-biden-y-encontro-nuevos-documentos-clasificados-n5634252</guid>
+			<description><![CDATA[
+Los expedientes en cuestión corresponden a dos fases de la vida política del demócrata de 80 años. Por un lado, a su carrera de más de 30 años como senador por Delaware, y por otro a su periodo como vicepresidente de Barack Obama, de 2009 a 2017.
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 13:16:29 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[El Papa Francisco pidió el cese de la violencia en Perú "venga de quien venga"]]></title>
+			<link>https://www.ambito.com/mundo/papa-francisco/el-pidio-el-cese-la-violencia-peru-venga-quien-venga-n5634256</link>
+			<guid>https://www.ambito.com/mundo/papa-francisco/el-pidio-el-cese-la-violencia-peru-venga-quien-venga-n5634256</guid>
+			<description><![CDATA[
+Los manifestantes exigen la renuncia de Dina Boluarte, la ex vicepresidenta que asumió el cargo el 7 de diciembre para reemplazar a Castillo. También quieren que se disuelva el Congreso y se celebren nuevas elecciones. 
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 13:12:52 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Detienen en Colombia a sospechosa del crimen de fiscal paraguayo, expulsada de El Salvador]]></title>
+			<link>https://www.ambito.com/mundo/detienen-colombia-sospechosa-del-crimen-fiscal-paraguayo-expulsada-el-salvador-n5634174</link>
+			<guid>https://www.ambito.com/mundo/detienen-colombia-sospechosa-del-crimen-fiscal-paraguayo-expulsada-el-salvador-n5634174</guid>
+			<description><![CDATA[
+PARAGUAY-FISCAL - Agencia TELAM
+]]></description>
+			<pubDate>Sun, 22 Jan 2023 12:06:34 -0300</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[Perú: Más de 200 estudiantes detenidos en una universidad de Lima]]></title>
+			<link>https://www.ambito.com/mundo/peru/mas-200-estudiantes-detenidos-una-universidad-lima-n5634126</link>
+			<guid>https://www.ambito.com/mundo/peru/mas-200-estudiantes-detenidos-una-universidad-lima-n5634126</guid>
+			<description><![CDATA[
+Las marchas contra la presidenta Dina Boluarte continuaron en todo Perú, con epicentro en una prestigiosa unidad académica.
+]]></description>
+			<pubDate>Sat, 21 Jan 2023 22:53:52 -0300</pubDate>
+		</item>
+
+	</channel></rss>

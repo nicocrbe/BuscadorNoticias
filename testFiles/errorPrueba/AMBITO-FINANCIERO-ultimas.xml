@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>Ambito - Portada</title>
+		<description>Ambito</description>
+		<link>https://www.ambito.com</link>
+		<language>spa</language>
+		<lastBuildDate>2019-11-18T21:06:36-03:00</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.dosalcubo.com.ar</generator>
+		<copyright>Copyright (c) 2019</copyright>
+		<atom:link href="https://www.ambito.com/rss/home.xml" rel="self" type="application/rss+xml" />		<image>
+			<title>Ambito - Portada</title>
+			<url>https://www.ambito.com/css/images/t1.gif</url>
+			<link>https://www.ambito.com</link>
+		</image>
+		<item>
+			<title><![CDATA[
+Maradona dejará de ser el técnico de Gimnasia de La Plata
+]]></title>
+			<link>https://www.ambito.com/maradona-dejara-ser-el-tecnico-gimnasia-la-plata-n5066242</link>
+			<guid>https://www.ambito.com/maradona-dejara-ser-el-tecnico-gimnasia-la-plata-n5066242</guid>
+			<description><![CDATA[
+El actual entrenador del club platense le comunicó a los jugadores que no seguirá al frente del equipo. Ocurre luego de que el presidente del club decidiera no competir por la reelección.
+]]></description>
+			<pubDate>2019-11-18T20:40:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+La soja bajó 0,9% a u$s 334,47 en el mercado de Chicago
+]]></title>
+			<link>https://www.ambito.com/la-soja-09-us-33447-el-mercado-chicago-n5066350</link>
+			<guid>https://www.ambito.com/la-soja-09-us-33447-el-mercado-chicago-n5066350</guid>
+			<description><![CDATA[
+La oleaginosa bajó dado a que los inversores ven con pesimismo el avance de las negociaciones de Estados Unidos y China para destrabar la actual guerra comercial y por ventas técnicas.
+]]></description>
+			<pubDate>2019-11-18T20:13:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El argentino condenado a muerte en EEUU quedó al borde de la ejecución
+]]></title>
+			<link>https://www.ambito.com/el-argentino-condenado-muerte-eeuu-quedo-al-borde-la-ejecucion-n5066347</link>
+			<guid>https://www.ambito.com/el-argentino-condenado-muerte-eeuu-quedo-al-borde-la-ejecucion-n5066347</guid>
+			<description><![CDATA[
+La Corte Suprema de ese país se negó a tratar el caso de Víctor Saldaño, quien está acusado de asesinar a un hombre en 1995. Solo resta definir la fecha de su pena.
+]]></description>
+			<pubDate>2019-11-18T19:59:41-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Francia: dos muertos tras derrumbe de un puente colgante 
+]]></title>
+			<link>https://www.ambito.com/francia-dos-muertos-derrumbe-un-puente-colgante-n5066248</link>
+			<guid>https://www.ambito.com/francia-dos-muertos-derrumbe-un-puente-colgante-n5066248</guid>
+			<description><![CDATA[
+Se desconocen las causas del siniestro. Al menos dos vehículos cayeron al río.
+]]></description>
+			<pubDate>2019-11-18T19:30:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Bolivia: sin acuerdo con el MAS, Áñez amenaza con llamar a elecciones por decreto
+]]></title>
+			<link>https://www.ambito.com/bolivia-acuerdo-el-mas-anez-amenaza-llamar-elecciones-decreto-n5066263</link>
+			<guid>https://www.ambito.com/bolivia-acuerdo-el-mas-anez-amenaza-llamar-elecciones-decreto-n5066263</guid>
+			<description><![CDATA[
+Tras el golpe de Estado que culminó con el mandato de Evo Morales, las protestas se intensifican en distintos puntos del país y ya hay más de 20 muertos. 
+]]></description>
+			<pubDate>2019-11-18T19:15:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El petróleo cayó 1,2% por dudas sobre el acuerdo comercial entre EEUU y China
+]]></title>
+			<link>https://www.ambito.com/el-petroleo-cayo-12-dudas-el-acuerdo-comercial-eeuu-y-china-n5066337</link>
+			<guid>https://www.ambito.com/el-petroleo-cayo-12-dudas-el-acuerdo-comercial-eeuu-y-china-n5066337</guid>
+			<description><![CDATA[
+El precio del crudo WTI cerró en u$s 57,05 el barril, debido al temor de los inversores a una continuidad en el tiempo de la guerra comercial entre Washington y Pekín. 
+]]></description>
+			<pubDate>2019-11-18T19:15:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Los ADRs argentinos operaron mixtos, con Wall Street en zona récord
+]]></title>
+			<link>https://www.ambito.com/los-adrs-argentinos-operaron-mixtos-wall-street-zona-record-n5066282</link>
+			<guid>https://www.ambito.com/los-adrs-argentinos-operaron-mixtos-wall-street-zona-record-n5066282</guid>
+			<description><![CDATA[
+Los principales índices de Wall Street volvieron a operar en alza y los ADRs de empresas argentinas que cotizan en Nueva York presentaron resultados mixtos con bajas en el sector financiero y energético.
+]]></description>
+			<pubDate>2019-11-18T19:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Duro informe de Unicef sobre la pobreza en Argentina
+]]></title>
+			<link>https://www.ambito.com/duro-informe-unicef-la-pobreza-argentina-n5066325</link>
+			<guid>https://www.ambito.com/duro-informe-unicef-la-pobreza-argentina-n5066325</guid>
+			<description><![CDATA[
+En los últimos 30 años en la Argentina no se pudo perforar el 30% de pobreza en la población de niños, niñas y adolescentes, sostiene el informa y destaca que pese  a haber programas no hubo avances.
+]]></description>
+			<pubDate>2019-11-18T18:07:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Federer llegó a la Argentina y admitió que le gustaría "tener la derecha de Del Potro"
+]]></title>
+			<link>https://www.ambito.com/federer-llego-la-argentina-y-admitio-que-le-gustaria-tener-la-derecha-del-potro-n5066276</link>
+			<guid>https://www.ambito.com/federer-llego-la-argentina-y-admitio-que-le-gustaria-tener-la-derecha-del-potro-n5066276</guid>
+			<description><![CDATA[
+El tenista suizo arribó al país para jugar una exhibición ante el alemán Zverev, quien reemplazó al tenista tandilense, con quien el suizo se solidarizó. 
+]]></description>
+			<pubDate>2019-11-18T18:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Alertan que los gases de efecto invernadero crecen a un ritmo mayor de lo esperado
+]]></title>
+			<link>https://www.ambito.com/alertan-que-los-gases-efecto-invernadero-crecen-un-ritmo-mayor-lo-esperado-n5066295</link>
+			<guid>https://www.ambito.com/alertan-que-los-gases-efecto-invernadero-crecen-un-ritmo-mayor-lo-esperado-n5066295</guid>
+			<description><![CDATA[
+Las emisiones de óxido nitroso crecieron sustancialmente desde 2009. América latina es una de las zonas que más han contribuido a este cambio negativo. Lo vinculan a la expansión del cultivo de soja.
+]]></description>
+			<pubDate>2019-11-18T14:23:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Subastan el icónico vestido que usó Lady Di para bailar con Travolta
+]]></title>
+			<link>https://www.ambito.com/subastan-el-iconico-vestido-que-uso-lady-di-bailar-travolta-n5066293</link>
+			<guid>https://www.ambito.com/subastan-el-iconico-vestido-que-uso-lady-di-bailar-travolta-n5066293</guid>
+			<description><![CDATA[
+Se estima su valor en entre 325.000 y 455.000 dólares. La princesa de Gales lo inmortalizó durante una cena ofrecida por el presidente estadounidense Ronald Reagan.
+]]></description>
+			<pubDate>2019-11-18T14:20:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Un jeque árabe tienta a Messi para que juegue en un equipo chico de España
+]]></title>
+			<link>https://www.ambito.com/un-jeque-arabe-tienta-messi-que-juegue-un-equipo-chico-espana-n5066292</link>
+			<guid>https://www.ambito.com/un-jeque-arabe-tienta-messi-que-juegue-un-equipo-chico-espana-n5066292</guid>
+			<description><![CDATA[
+Turki Al-Sheikh es dueño del Almería y se reunió con el capitán argentino el pasado viernes. Le manifestó su deseo de llevarlo a su club, aunque no por el momento.
+]]></description>
+			<pubDate>2019-11-18T14:02:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El clásico de Baradero terminó en una batalla campal con piedras y palazos
+]]></title>
+			<link>https://www.ambito.com/el-clasico-baradero-termino-una-batalla-campal-piedras-y-palazos-n5066289</link>
+			<guid>https://www.ambito.com/el-clasico-baradero-termino-una-batalla-campal-piedras-y-palazos-n5066289</guid>
+			<description><![CDATA[
+Rivadavia se puso en ventaja y se produjo una pelea entre sus jugadores y sus rivales de Fundición. La tensión se trasladó a las tribunas y todo terminó en violencia. El partido se suspendió.
+]]></description>
+			<pubDate>2019-11-18T13:29:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Último fin de semana largo del año: los turistas gastaron $4.700 millones 
+]]></title>
+			<link>https://www.ambito.com/ultimo-fin-semana-largo-del-ano-los-turistas-gastaron-4700-millones-n5066279</link>
+			<guid>https://www.ambito.com/ultimo-fin-semana-largo-del-ano-los-turistas-gastaron-4700-millones-n5066279</guid>
+			<description><![CDATA[
+Se movilizaron alrededor de 3.100.000 personas. El gasto diario promedio fue de $1.550 cada una.
+]]></description>
+			<pubDate>2019-11-18T12:42:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Grave: EEUU tiene la mayor tasa de niños detenidos en el mundo
+]]></title>
+			<link>https://www.ambito.com/grave-eeuu-tiene-la-mayor-tasa-ninos-detenidos-el-mundo-n5066274</link>
+			<guid>https://www.ambito.com/grave-eeuu-tiene-la-mayor-tasa-ninos-detenidos-el-mundo-n5066274</guid>
+			<description><![CDATA[
+El país que gobierna Donald Trump detiene a un promedio de 60 de cada 100.000 chicos en su sistema de justicia. Más de 100.000 están bajo custodia por temas relativos a la inmigración.
+]]></description>
+			<pubDate>2019-11-18T12:13:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Walmart demandó a Chile por los saqueos en supermercados
+]]></title>
+			<link>https://www.ambito.com/walmart-demando-chile-los-saqueos-supermercados-n5066265</link>
+			<guid>https://www.ambito.com/walmart-demando-chile-los-saqueos-supermercados-n5066265</guid>
+			<description><![CDATA[
+La cadena estadounidense presentó la denuncia en medio del estallido social en el país vecino. De las 384 sucursales que operan allí 105 están cerradas por daños.
+]]></description>
+			<pubDate>2019-11-18T11:30:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+"Guasón" superó los u$s1.000 millones de recaudación y es de las más rentables de la historia
+]]></title>
+			<link>https://www.ambito.com/guason-supero-los-us1000-millones-recaudacion-y-es-las-mas-rentables-la-historia-n5066261</link>
+			<guid>https://www.ambito.com/guason-supero-los-us1000-millones-recaudacion-y-es-las-mas-rentables-la-historia-n5066261</guid>
+			<description><![CDATA[
+El film de Todd Philips, protagonizado por Joaquin Phoenix, ya es el film para adultos más taquillero de la historia. Pero además recaudó 20 veces más de lo que costó su producción. Y aún no se estrenó en el gigantesco mercado chino.
+]]></description>
+			<pubDate>2019-11-18T10:45:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+"La gran intriga del campo es dónde van a anclar las retenciones en el próximo gobierno"
+]]></title>
+			<link>https://www.ambito.com/la-gran-intriga-del-campo-es-donde-van-anclar-las-retenciones-el-proximo-gobierno-n5066258</link>
+			<guid>https://www.ambito.com/la-gran-intriga-del-campo-es-donde-van-anclar-las-retenciones-el-proximo-gobierno-n5066258</guid>
+			<description><![CDATA[
+"Necesitamos algunas definiciones", dijo el titular de la Federación Agraria, Carlos Achetoni. Comprometió el respaldo del sector al plan para combatir el hambre propuesto por Alberto Fernández.
+]]></description>
+			<pubDate>2019-11-18T10:19:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Chocaron las Ferraris: la pelea entre Vettel y Leclerc les costó caro
+]]></title>
+			<link>https://www.ambito.com/chocaron-las-ferraris-la-pelea-vettel-y-leclerc-les-costo-caro-n5066256</link>
+			<guid>https://www.ambito.com/chocaron-las-ferraris-la-pelea-vettel-y-leclerc-les-costo-caro-n5066256</guid>
+			<description><![CDATA[
+Los pilotos de Ferrari chocaron sus monoplazas a falta de seis vueltas y tuvieron que abandonar. Podrían haber accedido al podio y se quedaron con las manos vacías.
+]]></description>
+			<pubDate>2019-11-18T10:08:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Vacaciones 2020: el 63% de los argentinos comprará viajes de modo online
+]]></title>
+			<link>https://www.ambito.com/vacaciones-2020-el-63-los-argentinos-comprara-viajes-modo-online-n5066252</link>
+			<guid>https://www.ambito.com/vacaciones-2020-el-63-los-argentinos-comprara-viajes-modo-online-n5066252</guid>
+			<description><![CDATA[
+Sólo 1 de cada 4 (25%) lo hará de forma presencial en oficinas comerciales y un 20% vía telefónica". Los datos corresponden a un informe de Kantar. 
+]]></description>
+			<pubDate>2019-11-18T09:17:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Presentaron las versiones robot de las mascotas de Tokio 2020
+]]></title>
+			<link>https://www.ambito.com/presentaron-las-versiones-robot-las-mascotas-tokio-2020-n5066246</link>
+			<guid>https://www.ambito.com/presentaron-las-versiones-robot-las-mascotas-tokio-2020-n5066246</guid>
+			<description><![CDATA[
+Miraitowa y Someity, pueden expresar "sentimientos" con los ojos, haciendo aparecer corazones o estrellas.
+]]></description>
+			<pubDate>2019-11-18T08:33:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Brasil asegura que colaborará con Nicaragua tras pedido de captura de Darthés
+]]></title>
+			<link>https://www.ambito.com/brasil-asegura-que-colaborara-nicaragua-pedido-captura-darthes-n5066245</link>
+			<guid>https://www.ambito.com/brasil-asegura-que-colaborara-nicaragua-pedido-captura-darthes-n5066245</guid>
+			<description><![CDATA[
+La policía de ese país sostuvo en un comunicado que está "siguiendo el caso" y que "si es necesario auxiliará a las autoridades extranjeras". El actor se radicó allí tras la denuncia de "violación agravada" de Thelma Fardín.
+]]></description>
+			<pubDate>2019-11-18T08:31:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Alcoholizado, un jugador de Almirante Brown chocó frente al Obelisco
+]]></title>
+			<link>https://www.ambito.com/alcoholizado-un-jugador-almirante-brown-choco-frente-al-obelisco-n5066244</link>
+			<guid>https://www.ambito.com/alcoholizado-un-jugador-almirante-brown-choco-frente-al-obelisco-n5066244</guid>
+			<description><![CDATA[
+Nicolás Perogino, de 21 años, hizo una mala maniobra y chocó a otro vehículo que circulaba por 9 de julio. Se le detectó 1.75 mg de alcohol en sangre.
+]]></description>
+			<pubDate>2019-11-18T08:15:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El Dow superó los 28 mil puntos, y siguen cayendo récords. ¿Quién da más?
+]]></title>
+			<link>https://www.ambito.com/el-dow-supero-los-28-mil-puntos-y-siguen-cayendo-records-quien-da-mas-n5066218</link>
+			<guid>https://www.ambito.com/el-dow-supero-los-28-mil-puntos-y-siguen-cayendo-records-quien-da-mas-n5066218</guid>
+			<description><![CDATA[
+Domina el calendario una fortísima estacionalidad favorable hasta enero (luego se atenúa, pero no desaparece). ¿Volcará el rally antes?
+]]></description>
+			<pubDate>2019-11-18T00:02:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Plazos fijos privados en pesos crecen al 3,5% en noviembre
+]]></title>
+			<link>https://www.ambito.com/plazos-fijos-privados-pesos-crecen-al-35-noviembre-n5066204</link>
+			<guid>https://www.ambito.com/plazos-fijos-privados-pesos-crecen-al-35-noviembre-n5066204</guid>
+			<description><![CDATA[
+El dato está casi en línea con la inflación esperada para el mes. La estabilidad cambiaria, ante el cepo hard, fomenta el atractivo por las tasas de interés, a pesar de su marcada tendencia descendente.
+]]></description>
+			<pubDate>2019-11-18T00:01:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Drama gallego se quedó con el Astor de Oro en Mar del Plata
+]]></title>
+			<link>https://www.ambito.com/drama-gallego-se-quedo-el-astor-oro-mar-del-plata-n5066226</link>
+			<guid>https://www.ambito.com/drama-gallego-se-quedo-el-astor-oro-mar-del-plata-n5066226</guid>
+			<description><![CDATA[
+Su director, Oliver Laxe, también recibió el premio al Mejor Guión, en el que intervino el argentino Santiago Fillol.
+]]></description>
+			<pubDate>2019-11-18T00:01:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Provincias pulen documento para stand-by de Pacto Fiscal
+]]></title>
+			<link>https://www.ambito.com/provincias-pulen-documento-stand-by-pacto-fiscal-n5066213</link>
+			<guid>https://www.ambito.com/provincias-pulen-documento-stand-by-pacto-fiscal-n5066213</guid>
+			<description><![CDATA[
+Ministros diagraman reunión el jueves en Buenos Aires para redactar texto definitivo. Lo elevarán a Lacunza para resolverlo antes de elaborar presupuestos, mientras hacen gestiones con Alberto F.
+]]></description>
+			<pubDate>2019-11-18T00:01:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Frigorífico Quickfood también se retira de la Bolsa porteña
+]]></title>
+			<link>https://www.ambito.com/frigorifico-quickfood-tambien-se-retira-la-bolsa-portena-n5066198</link>
+			<guid>https://www.ambito.com/frigorifico-quickfood-tambien-se-retira-la-bolsa-portena-n5066198</guid>
+			<description><![CDATA[
+Sigue el mismo camino que Tenaris, Petrobras, Telefónica, Repsol, Banco Santander y Unipar Indupa. Todos argumentan que el volumen de operaciones es muy bajo y que no les reporta beneficios.
+]]></description>
+			<pubDate>2019-11-18T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Dólar: mejor que desdoblar es devaluar y compensar
+]]></title>
+			<link>https://www.ambito.com/dolar-mejor-que-desdoblar-es-devaluar-y-compensar-n5066217</link>
+			<guid>https://www.ambito.com/dolar-mejor-que-desdoblar-es-devaluar-y-compensar-n5066217</guid>
+			<description><![CDATA[
+A semanas de que asuma el nuevo gobierno, crecen los interrogantes sobre la política cambiaria. Un hombre de la convertibilidad explica las bondades de la devaluación compensada vía retenciones.
+]]></description>
+			<pubDate>2019-11-18T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Monotributo: nuevos montos  y excluidos, en suspenso
+]]></title>
+			<link>https://www.ambito.com/monotributo-nuevos-montos-y-excluidos-suspenso-n5066221</link>
+			<guid>https://www.ambito.com/monotributo-nuevos-montos-y-excluidos-suspenso-n5066221</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>2019-11-18T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El 30% de los casos de hipertensión se explican por el consumo elevado de sal
+]]></title>
+			<link>https://www.ambito.com/el-30-los-casos-hipertension-se-explican-el-consumo-elevado-sal-n5066155</link>
+			<guid>https://www.ambito.com/el-30-los-casos-hipertension-se-explican-el-consumo-elevado-sal-n5066155</guid>
+			<description><![CDATA[
+Ante la estrecha relación entre el consumo de sodio y la hipertensión arterial2,3, recomiendan sazonar las comidas sin recurrir a la sal de mesa o 'solo una pizca'.
+]]></description>
+			<pubDate>2019-11-18T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Con 50 contratos, el Gobierno tienta a Casación por "testigos"
+]]></title>
+			<link>https://www.ambito.com/con-50-contratos-el-gobierno-tienta-casacion-testigos-n5066208</link>
+			<guid>https://www.ambito.com/con-50-contratos-el-gobierno-tienta-casacion-testigos-n5066208</guid>
+			<description><![CDATA[
+Tras resistencia inicial, se plantea estructura y cargos que estén bajo el control del máximo tribunal penal para convencer a los jueces. Corte Suprema debería aprobar contrataciones pero se frustró reunión para discutir tema. Nueva propuesta incluye deslinde de responsabilidad por su funcionamiento.  
+]]></description>
+			<pubDate>2019-11-18T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Pacto social: vigencia por todo el mandato con recomposición a gremios
+]]></title>
+			<link>https://www.ambito.com/pacto-social-vigencia-todo-el-mandato-recomposicion-gremios-n5066234</link>
+			<guid>https://www.ambito.com/pacto-social-vigencia-todo-el-mandato-recomposicion-gremios-n5066234</guid>
+			<description><![CDATA[
+El acuerdo que buscará el nuevo presidente entre gremios y empresarios tendrá un capítulo de precios y salarios pero apunta a ser más ambicioso.
+]]></description>
+			<pubDate>2019-11-18T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+ Escuelas sí, robots no
+]]></title>
+			<link>https://www.ambito.com/escuelas-si-robots-no-n5066222</link>
+			<guid>https://www.ambito.com/escuelas-si-robots-no-n5066222</guid>
+			<description><![CDATA[
+Este supuesto e inevitable arribo de la inteligencia artificial combinada con complejos sistemas de producción automatizada, el humano quede al margen del sistema económico, produciendo un incremento insalvable del desempleo a escala global.
+]]></description>
+			<pubDate>2019-11-18T00:00:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Con gol de Cristiano Ronaldo, Portugal clasificó a la Euro 2020
+]]></title>
+			<link>https://www.ambito.com/con-gol-cristiano-ronaldo-portugal-clasifico-la-euro-2020-n5066207</link>
+			<guid>https://www.ambito.com/con-gol-cristiano-ronaldo-portugal-clasifico-la-euro-2020-n5066207</guid>
+			<description><![CDATA[
+El seleccionado luso defenderá el título ganado hace tres años en Francia, que también selló su pasaje al próximo torneo internacional. La máxima figura de Juventus selló el 2-0 sobre Luxemburgo, que le dio el boleto.
+]]></description>
+			<pubDate>2019-11-17T20:12:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Con las juveniles también: Argentina le ganó a Brasil y gritó campeón
+]]></title>
+			<link>https://www.ambito.com/con-las-juveniles-tambien-argentina-le-gano-brasil-y-grito-campeon-n5066197</link>
+			<guid>https://www.ambito.com/con-las-juveniles-tambien-argentina-le-gano-brasil-y-grito-campeon-n5066197</guid>
+			<description><![CDATA[
+El seleccionado que dirige Fernando Batista se impuso por 1-0 con gol de Nicolás Capaldo en el torneo preparatorio para el Preolímpico de Colombia rumbo a Tokio 2020. El jugador de Boca aprovechó un error del arquero rival y no perdonó.
+]]></description>
+			<pubDate>2019-11-17T19:21:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Tsitsipas se recibió de Maestro a los 21 años
+]]></title>
+			<link>https://www.ambito.com/tsitsipas-se-recibio-maestro-los-21-anos-n5066190</link>
+			<guid>https://www.ambito.com/tsitsipas-se-recibio-maestro-los-21-anos-n5066190</guid>
+			<description><![CDATA[
+El griego venció a Dominic Thiem en la final del ATP Masters por por 6-7, 6-2 y 7-6 (4) y se consagró campeón. Por cuarto año consecutivo, el torneo tuvo a un campeón inédito.
+]]></description>
+			<pubDate>2019-11-17T18:49:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Madres y padres pierden entre 400 y 750 horas de sueño el primer año de vida de sus hijos
+]]></title>
+			<link>https://www.ambito.com/madres-y-padres-pierden-400-y-750-horas-sueno-el-primer-ano-vida-sus-hijos-n5066188</link>
+			<guid>https://www.ambito.com/madres-y-padres-pierden-400-y-750-horas-sueno-el-primer-ano-vida-sus-hijos-n5066188</guid>
+			<description><![CDATA[
+Lo afirmaron especialistas que precisaron que un 37% de los niños argentinos padece algún trastorno o problema para dormir.
+]]></description>
+			<pubDate>2019-11-17T18:31:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Recién a fin de mes o principios de diciembre Alberto Fernández anunciará su gabinete
+]]></title>
+			<link>https://www.ambito.com/recien-fin-mes-o-principios-diciembre-alberto-fernandez-anunciara-su-gabinete-n5066187</link>
+			<guid>https://www.ambito.com/recien-fin-mes-o-principios-diciembre-alberto-fernandez-anunciara-su-gabinete-n5066187</guid>
+			<description><![CDATA[
+Continúa la ronda de nombres. Algunos cargos parecen estar definidos. En el equipo de ministros puede haber alguna sorpresa. Cómo pesa la opinión de Cristina.
+]]></description>
+			<pubDate>2019-11-17T18:27:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+En un final electrizante y polémico, Verstappen se quedó con el GP de Brasil
+]]></title>
+			<link>https://www.ambito.com/en-un-final-electrizante-y-polemico-verstappen-se-quedo-el-gp-brasil-n5066183</link>
+			<guid>https://www.ambito.com/en-un-final-electrizante-y-polemico-verstappen-se-quedo-el-gp-brasil-n5066183</guid>
+			<description><![CDATA[
+El holandés de Red Bull aprovechó un toque entre los compañeros de Ferrari, Vettel y Leclerc para llegar primero al podio en Interlagos. Gasly, de Toro Rosso, fue escolta y el campeón Hamilton se subió al último escalón.
+]]></description>
+			<pubDate>2019-11-17T18:06:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Aborto: en cuanto asuma, próximo gobierno enviará al Congreso proyecto de legalización
+]]></title>
+			<link>https://www.ambito.com/aborto-cuanto-asuma-proximo-gobierno-enviara-al-congreso-proyecto-legalizacion-n5066180</link>
+			<guid>https://www.ambito.com/aborto-cuanto-asuma-proximo-gobierno-enviara-al-congreso-proyecto-legalizacion-n5066180</guid>
+			<description><![CDATA[
+El presidente electo afirmó que enviará un proyecto para legalizar el aborto al Congreso nacional, al considerar que "es un problema de salud pública".
+]]></description>
+			<pubDate>2019-11-17T18:05:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+El exarquero Pablo Migliore perdió su invicto con un impactante nocaut
+]]></title>
+			<link>https://www.ambito.com/el-exarquero-pablo-migliore-perdio-su-invicto-un-impactante-nocaut-n5066171</link>
+			<guid>https://www.ambito.com/el-exarquero-pablo-migliore-perdio-su-invicto-un-impactante-nocaut-n5066171</guid>
+			<description><![CDATA[
+El equipo de trabajo del exarquero tuvo que tirar la toalla en el octavo asalto porque su pupilo estaba al borde del nocaut. En el round anterior lo había salvado la campana después de un terrible puñetazo que le propinó Emilio Zárate y lo mandó a la lona.
+]]></description>
+			<pubDate>2019-11-17T16:41:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Mondelez pidió procedimiento preventivo de crisis
+]]></title>
+			<link>https://www.ambito.com/mondelez-pidio-procedimiento-preventivo-crisis-n5066100</link>
+			<guid>https://www.ambito.com/mondelez-pidio-procedimiento-preventivo-crisis-n5066100</guid>
+			<description><![CDATA[
+La empresa alimenticia analiza medidas temporales para sus plantas de producción con el fin de evitar despidos. La caída de las ventas provocó una acumulación de stock y de reducción de la producción.
+]]></description>
+			<pubDate>2019-11-16T22:49:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Hindú se consagró campeón del Nacional de Clubes al vencer a Jockey Club de Rosario
+]]></title>
+			<link>https://www.ambito.com/hindu-se-consagro-campeon-del-nacional-clubes-al-vencer-jockey-club-rosario-n5066109</link>
+			<guid>https://www.ambito.com/hindu-se-consagro-campeon-del-nacional-clubes-al-vencer-jockey-club-rosario-n5066109</guid>
+			<description><![CDATA[
+
+]]></description>
+			<pubDate>2019-11-16T20:03:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+La historia de Walter Alfonso, el masajista de Tinelli y pieza esencial en el equipo de la Davis
+]]></title>
+			<link>https://www.ambito.com/la-historia-walter-alfonso-el-masajista-tinelli-y-pieza-esencial-el-equipo-la-davis-n5065808</link>
+			<guid>https://www.ambito.com/la-historia-walter-alfonso-el-masajista-tinelli-y-pieza-esencial-el-equipo-la-davis-n5065808</guid>
+			<description><![CDATA[
+Tras una infancia humilde, llegó a ser asistente en varios equipos de diversos equipos, hasta que el conductor televisivo lo llevó a Bolívar Voley.  En diálogo con Ámbito, contó la premonición de su hija sobre ganar la Ensaladera y la ascendencia que tiene en el equipo: "Lo mío es mezcla de masajes con terapia. Me entero cuando están mal y puedo aportar mi granito de arena".
+]]></description>
+			<pubDate>2019-11-14T20:48:00-03:00</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Científicas argentinas predicen el futuro de un río usando inteligencia artificial
+]]></title>
+			<link>https://www.ambito.com/cientificas-argentinas-predicen-el-futuro-un-rio-usando-inteligencia-artificial-n5065528</link>
+			<guid>https://www.ambito.com/cientificas-argentinas-predicen-el-futuro-un-rio-usando-inteligencia-artificial-n5065528</guid>
+			<description><![CDATA[
+Unos 300.000 habitantes, la mitad de la población de la provincia patagónica, se concentra en torno al agua del río Chubut, un recurso vital. Un grupo de científicas argentinas elabora un mapa que anticipe las consecuencias de las prácticas productivas.
+]]></description>
+			<pubDate>2019-11-13T20:15:00-03:00</pubDate>
+		</item>
+
+	</channel></rss>
